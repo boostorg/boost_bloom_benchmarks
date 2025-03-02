@@ -5,7 +5,7 @@ on:
   pull_request:
   push:
     branches:
-      - ,ain
+      - main
 
 jobs:
   posix:
@@ -22,7 +22,7 @@ jobs:
             reportdir: gcc-x64
             os: ubuntu-24.04
             install: g++-14-multilib
-            command: sudo cgexec -g memory,cpu:shield sudo -u gha ./benchmark
+            command: sudo cgexec -g memory,cpu:shield sudo -u gha ./benchmark -10000000
                         
     runs-on: ${{matrix.os}}
 
