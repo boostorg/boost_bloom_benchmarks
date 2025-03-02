@@ -22,7 +22,18 @@ jobs:
             reportdir: gcc-x64
             os: ubuntu-24.04
             install: g++-14-multilib
-            command: ./benchmark 10000000	
+            command: ./benchmark 10000000
+
+          - name: clang-arm64
+            compiler: clang++
+            architecture: -m64
+            sourcefile: string.cpp
+            compileroptions: -std=c++2b -O3 -DNDEBUG
+            outputfile: benchmark
+            reportdir: clang-arm64
+            os: macos-14
+            command: ./benchmark
+            xcode_version: 15.4
                         
     runs-on: ${{matrix.os}}
 
