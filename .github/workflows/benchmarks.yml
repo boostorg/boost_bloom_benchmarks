@@ -22,7 +22,7 @@ jobs:
             reportdir: gcc-x64
             os: ubuntu-24.04
             install: g++-14-multilib
-            command: echo "#### `N` = 1M elements" && ./benchmark 1000000 && echo "#### `N` = 10M elements" && ./benchmark 10000000
+            command: echo "#### \`N\` = 1M elements" && ./benchmark 1000000 && echo "#### \`N\` = 10M elements" && ./benchmark 10000000
 
           - name: clang-x64
             compiler: clang++-18
@@ -32,7 +32,7 @@ jobs:
             outputfile: benchmark
             reportdir: clang-x64
             os: ubuntu-24.04
-            command: echo "#### `N` = 1M elements" && ./benchmark 1000000 && echo "#### `N` = 10M elements" && ./benchmark 10000000
+            command: echo "#### \`N\` = 1M elements" && ./benchmark 1000000 && echo "#### \`N\` = 10M elements" && ./benchmark 10000000
 
           - name: clang-arm64
             compiler: clang++
@@ -42,7 +42,7 @@ jobs:
             outputfile: benchmark
             reportdir: clang-arm64
             os: macos-14
-            command: echo "#### `N` = 1M elements" && ./benchmark 1000000 && echo "#### `N` = 10M elements" && ./benchmark 10000000
+            command: echo "#### \`N\` = 1M elements" && ./benchmark 1000000 && echo "#### \`N\` = 10M elements" && ./benchmark 10000000
             xcode_version: 15.4
                         
     runs-on: ${{matrix.os}}
@@ -83,7 +83,7 @@ jobs:
               DEVELOPER_DIR=/Applications/Xcode-${{matrix.xcode_version}}.app/Contents/Developer
           fi        
           echo "running benchmarks and saving to "${REPORT_FILE}
-          ${{matrix.command}} | tee ${REPORT_FILE}
+          (${{matrix.command}}) | tee ${REPORT_FILE}
       - name: Push benchmark results to repo
         run: |
           git config --global user.name 'joaquintides'
