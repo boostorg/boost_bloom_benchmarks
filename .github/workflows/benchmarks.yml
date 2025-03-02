@@ -64,9 +64,46 @@ jobs:
           cd $GITHUB_WORKSPACE
           ${{matrix.compiler}} --version
           ${{matrix.compiler}} $GITHUB_WORKSPACE/bloom-root/benchmark/${{matrix.sourcefile}} ${{matrix.architecture}} ${{matrix.compileroptions}} -o ${{matrix.outputfile}} -I$GITHUB_WORKSPACE/boost-root -I$GITHUB_WORKSPACE/bloom-root/include
+      - name: Set reportfile name
+        run: |
+          echo "REPORT_FILE=${{matrix.reportdir}}/${{matrix.sourcefile}}.txt" >> $GITHUB_ENV
       - name: Run benchmarks
         run: |
           if [ -n "${{matrix.xcode_version}}" ]; then
               DEVELOPER_DIR=/Applications/Xcode-${{matrix.xcode_version}}.app/Contents/Developer
           fi        
-          ${{matrix.command}}
+          echo "running benchmarks and saving to "${REPORT_FILE}
+          ${{matrix.command}} | tee ${REPORT_FILE}
+      - name: Push benchmark results to repo
+        run: |
+          git config --global user.name 'joaquintides'
+          git config --global user.email 'joaquintides@users.noreply.github.com'
+          git add ${REPORT_FILE}
+          git stash -- ${REPORT_FILE}
+          git pull
+          git stash pop
+          git add ${REPORT_FILE}
+          git commit -m "updated benchmark results"
+          git push
+
+  final:
+    needs: posix
+    
+    runs-on: ubuntu-20.04
+    container:
+      image: python:2.7.18-buster
+    
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fast-forward repo 
+        run: |
+          git pull
+      - name: Run data feeding script
+        run: |
+          ./insert_data.sh
+      - name: Push modified README.md to repo
+        run: |
+          git config --global user.name 'joaquintides'
+          git config --global user.email 'joaquintides@users.noreply.github.com'
+          git commit -am "updated README.md"
+          git push
