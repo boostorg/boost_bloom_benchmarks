@@ -1,3 +1,4 @@
+### GCC 14, x64
 <!--gcc-x64/comparison_table.cpp.txt-->
 <table>
   <tr><th colspan="3"><code>boost::unordered_flat_set</code></tr>
@@ -209,6 +210,11 @@
 
 <!--gcc-x64/comparison_table.cpp.txt-->
 
+### Clang 18, X64
+<!--clang-x64/comparison_table.cpp.txt-->
+<!--clang-x64/comparison_table.cpp.txt-->
+
+### Clang 15, ARM64
 <!--clang-arm64/comparison_table.cpp.txt-->
 <table>
   <tr><th colspan="3"><code>boost::unordered_flat_set</code></tr>
