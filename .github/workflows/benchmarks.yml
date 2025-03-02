@@ -24,6 +24,16 @@ jobs:
             install: g++-14-multilib
             command: ./benchmark 10000000
 
+          - name: clang-x64
+            compiler: clang++-18
+            architecture: -m64
+            sourcefile: comparison_table.cpp
+            compileroptions: -std=c++2b -O3 -DNDEBUG
+            outputfile: benchmark
+            reportdir: clang-x64
+            os: ubuntu-24.04
+            command: ./benchmark 10000000
+
           - name: clang-arm64
             compiler: clang++
             architecture: -m64
