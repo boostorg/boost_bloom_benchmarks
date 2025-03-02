@@ -208,6 +208,7 @@
     <td align="right">14.15</td>
   </tr>
 </table>
+
 #### `N` = 10M elements
 <table>
   <tr><th colspan="3"><code>boost::unordered_flat_set</code></tr>
@@ -629,6 +630,7 @@
     <td align="right">15.39</td>
   </tr>
 </table>
+
 #### `N` = 10M elements
 <table>
   <tr><th colspan="3"><code>boost::unordered_flat_set</code></tr>
@@ -1050,6 +1052,7 @@
     <td align="right">4.31</td>
   </tr>
 </table>
+
 #### `N` = 10M elements
 <table>
   <tr><th colspan="3"><code>boost::unordered_flat_set</code></tr>
