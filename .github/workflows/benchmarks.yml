@@ -22,7 +22,7 @@ jobs:
             reportdir: gcc-x64
             os: ubuntu-24.04
             install: g++-14-multilib
-            command: ./benchmark -10000000	
+            command: ./benchmark 10000000	
                         
     runs-on: ${{matrix.os}}
 
