@@ -14,7 +14,7 @@ jobs:
       matrix:
         include:
           - name: gcc-x64
-            compiler: gcc-14
+            compiler: g++-14
             architecture: -m64
             sourcefile: comparison_table.cpp
             compileroptions: -std=c++2b -O3 -DNDEBUG
@@ -22,7 +22,7 @@ jobs:
             reportdir: gcc-x64
             os: ubuntu-24.04
             install: g++-14-multilib
-            command: sudo cgexec -g memory,cpu:shield sudo -u gha ./benchmark -10000000
+            command: sudo cgexec -g memory,cpu:shield sudo -u gha ./benchmark -10000000	
                         
     runs-on: ${{matrix.os}}
 
