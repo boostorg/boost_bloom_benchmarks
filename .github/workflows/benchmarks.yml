@@ -1,0 +1,61 @@
+name: benchmarks
+
+on:
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches:
+      - ,ain
+
+jobs:
+  posix:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: gcc-x64
+            compiler: gcc-14
+            architecture: -m64
+            sourcefile: comparison_table.cpp
+            compileroptions: -std=c++2b -O3 -DNDEBUG
+            outputfile: benchmark
+            reportdir: gcc-x64
+            os: ubuntu-24.04
+            install: g++-14-multilib
+            command: sudo cgexec -g memory,cpu:shield sudo -u gha ./benchmark
+                        
+    runs-on: ${{matrix.os}}
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install packages
+        if: matrix.install
+        run: |
+          # sudo -E apt-add-repository -y ppa:ubuntu-toolchain-r/test
+          if uname -p | grep -q 'x86_64'; then sudo dpkg --add-architecture i386 ; fi
+          sudo apt-get update
+          sudo apt-get install -y ${{matrix.install}}
+      - name: Install Boost
+        run: |
+          cd $GITHUB_WORKSPACE
+          git clone https://github.com/boostorg/boost.git boost-root
+          cd boost-root
+          git checkout develop
+          git submodule update --init
+          ./bootstrap.sh
+          ./b2 -d0 headers
+      - name: Install Candidate Boost.Bloom
+        run: |
+          cd $GITHUB_WORKSPACE
+          git clone https://github.com/joaquintides/bloom.git bloom-root
+      - name: Compile
+        run: |
+          cd $GITHUB_WORKSPACE
+          ${{matrix.compiler}} --version
+          ${{matrix.compiler}} $GITHUB_WORKSPACE/bloom-root/benchmark/${{matrix.sourcefile}} ${{matrix.architecture}} ${{matrix.compileroptions}} -o ${{matrix.outputfile}} -I$GITHUB_WORKSPACE/boost-root -I$GITHUB_WORKSPACE/bloom-root/include
+      - name: Run benchmarks
+        run: |
+          if [ -n "${{matrix.xcode_version}}" ]; then
+              DEVELOPER_DIR=/Applications/Xcode-${{matrix.xcode_version}}.app/Contents/Developer
+          fi        
+          ${{matrix.command}}
