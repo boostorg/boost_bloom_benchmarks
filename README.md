@@ -1263,3 +1263,7 @@
 </table>
 
 <!--clang-arm64/comparison_table.cpp.txt-->
+
+### VS 2022, x64
+<!--vs-x64/comparison_table.cpp.txt-->
+<!--vs-x64/comparison_table.cpp.txt-->
