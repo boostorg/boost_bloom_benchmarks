@@ -80,6 +80,7 @@ jobs:
             outputfile: benchmark
             reportdir: clang-x86
             os: ubuntu-24.04
+            install: libstdc++-12-dev:i386
             command: >
               echo -e "\n#### \`N\` = 1M elements" &&
               ./benchmark 1000000 &&
