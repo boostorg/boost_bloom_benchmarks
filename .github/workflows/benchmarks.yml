@@ -117,7 +117,7 @@ jobs:
             compiler: cl
             architecture: x64
             sourcefile: comparison_table.cpp
-            compileroptions: /std:c++20 /O2 /GL /D "NDEBUG" /EHsc /MD /Fe:benchmark.exe
+            compileroptions: /std:c++20 /O2 /GL /D "NDEBUG" /EHsc /MD /Fe:benchmark.exe /arch:AVX2
             outputfile: benchmark.exe            
             reportdir: vs-x64
             os: windows-2022
