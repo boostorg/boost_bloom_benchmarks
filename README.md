@@ -11,6 +11,16 @@ Standard release-mode settings are used; for Visual Studio builds,
 For reference, we provide also insertion, successful lookup and unsuccessful lookup times
 for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
 
+## Results
+
+* [GCC 14, x64](#gcc-14-x64)
+* [Clang 18, x64](#clang-18-x64)
+* [Clang 15, ARM64](#clang-15-arm64)
+* [VS 2022, x64](#vs-2022-x64)
+* [GCC 14, x86](#gcc-14-x86)
+* [Clang 18, x86](#clang-18-x86)
+* [VS 2022, x86](#vs-2022-x86)
+
 ### GCC 14, x64
 <!--gcc-x64/comparison_table.cpp.txt-->
 
