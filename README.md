@@ -1,3 +1,16 @@
+# Experimental results for [candidate Boost Bloom Library](https://github.com/joaquintides/bloom)
+
+The tables show the false positive rate (FPR) and execution times in nanoseconds per operation 
+for six different configurations of `boost::bloom::filter<int, ...>`
+where `N` elements have been inserted. Filters are constructed with a capacity
+`c*N` (bits), so `c` is the number of bits used per element. For each combination of `c` and
+a given filter configuration, we have selected the optimum value of `K` (that yielding the minimum FPR).
+Standard release-mode settings are used; for Visual Studio builds,
+`/arch:AVX2` is set, which causes `fast_multiblock32` to use its AVX2 variant.
+
+For reference, we provide also insertion, successful lookup and unsuccessful lookup times
+for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
+
 ### GCC 14, x64
 <!--gcc-x64/comparison_table.cpp.txt-->
 
