@@ -122,9 +122,9 @@ jobs:
             reportdir: vs-x64
             os: windows-2022
             command: >
-              Write-Host "`n#### ``N`` = 1M elements";
+              Write-Output "`n#### ``N`` = 1M elements";
               ./benchmark 1000000;
-              Write-Host "`n#### ``N`` = 10M elements";
+              Write-Output "`n#### ``N`` = 10M elements";
               ./benchmark 10000000
 
     runs-on: ${{matrix.os}}
