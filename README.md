@@ -5,8 +5,9 @@ for six different configurations of `boost::bloom::filter<int, ...>`
 where `N` elements have been inserted. Filters are constructed with a capacity
 `c*N` (bits), so `c` is the number of bits used per element. For each combination of `c` and
 a given filter configuration, we have selected the optimum value of `K` (that yielding the minimum FPR).
-Standard release-mode settings are used; for Visual Studio builds,
-`/arch:AVX2` is set, which causes `fast_multiblock32` to use its AVX2 variant.
+Standard release-mode settings are used; 
+AVX2 is indicated for Visual Studio builds (`/arch:AVX2`) and 64-bit GCC/Clang builds (`-mavx2`),
+which causes `fast_multiblock32` to use its AVX2 variant.
 
 For reference, we provide also insertion, successful lookup and unsuccessful lookup times
 for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
