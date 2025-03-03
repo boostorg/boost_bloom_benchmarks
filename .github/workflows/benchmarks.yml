@@ -56,6 +56,35 @@ jobs:
               echo -e "\n#### \`N\` = 10M elements" &&
               ./benchmark 10000000
             xcode_version: 15.4
+
+          - name: gcc-x86
+            compiler: g++-14
+            architecture: -m32
+            sourcefile: comparison_table.cpp
+            compileroptions: -std=c++2b -O3 -DNDEBUG
+            outputfile: benchmark
+            reportdir: gcc-x86
+            os: ubuntu-24.04
+            install: g++-14-multilib
+            command: >
+              echo -e "\n#### \`N\` = 1M elements" &&
+              ./benchmark 1000000 &&
+              echo -e "\n#### \`N\` = 10M elements" &&
+              ./benchmark 10000000
+
+          - name: clang-x86
+            compiler: clang++-18
+            architecture: -m32
+            sourcefile: comparison_table.cpp
+            compileroptions: -std=c++2b -O3 -DNDEBUG
+            outputfile: benchmark
+            reportdir: clang-x86
+            os: ubuntu-24.04
+            command: >
+              echo -e "\n#### \`N\` = 1M elements" &&
+              ./benchmark 1000000 &&
+              echo -e "\n#### \`N\` = 10M elements" &&
+              ./benchmark 10000000
                         
     runs-on: ${{matrix.os}}
 
@@ -120,6 +149,20 @@ jobs:
             compileroptions: /std:c++20 /O2 /GL /D "NDEBUG" /EHsc /MD /Fe:benchmark.exe /arch:AVX2
             outputfile: benchmark.exe            
             reportdir: vs-x64
+            os: windows-2022
+            command: >
+              Write-Output "`n#### ``N`` = 1M elements";
+              ./benchmark 1000000;
+              Write-Output "`n#### ``N`` = 10M elements";
+              ./benchmark 10000000
+
+          - name: vs-x86
+            compiler: cl
+            architecture: x86
+            sourcefile: comparison_table.cpp
+            compileroptions: /std:c++20 /O2 /GL /D "NDEBUG" /EHsc /MD /Fe:benchmark.exe /arch:AVX2
+            outputfile: benchmark.exe            
+            reportdir: vs-x86
             os: windows-2022
             command: >
               Write-Output "`n#### ``N`` = 1M elements";

@@ -434,7 +434,7 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
 
 <!--gcc-x64/comparison_table.cpp.txt-->
 
-### Clang 18, X64
+### Clang 18, x64
 <!--clang-x64/comparison_table.cpp.txt-->
 
 #### `N` = 1M elements
@@ -1702,3 +1702,15 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
 </table>
 
 <!--vs-x64/comparison_table.cpp.txt-->
+
+### GCC 14, x86
+<!--gcc-x86/comparison_table.cpp.txt-->
+<!--gcc-x86/comparison_table.cpp.txt-->
+
+### Clang 18, x86
+<!--clang-x86/comparison_table.cpp.txt-->
+<!--clang-x86/comparison_table.cpp.txt-->
+
+### VS 2022, x86
+<!--vs-x86/comparison_table.cpp.txt-->
+<!--vs-x86/comparison_table.cpp.txt-->
