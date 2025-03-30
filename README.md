@@ -7,7 +7,7 @@ where `N` elements have been inserted. Filters are constructed with a capacity
 a given filter configuration, we have selected the optimum value of `K` (that yielding the minimum FPR).
 Standard release-mode settings are used; 
 AVX2 is indicated for Visual Studio builds (`/arch:AVX2`) and 64-bit GCC/Clang builds (`-mavx2`),
-which causes `fast_multiblock32` to use its AVX2 variant.
+which causes `fast_multiblock32` and `fast_multiblock64` to use their AVX2 variant.
 
 For reference, we provide also insertion, successful lookup and unsuccessful lookup times
 for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
