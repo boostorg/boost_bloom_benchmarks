@@ -1,7 +1,7 @@
 # Experimental results for [candidate Boost Bloom Library](https://github.com/joaquintides/bloom)
 
 The tables show the false positive rate (FPR) and execution times in nanoseconds per operation 
-for six different configurations of `boost::bloom::filter<int, ...>`
+for nine different configurations of `boost::bloom::filter<int, ...>`
 where `N` elements have been inserted. Filters are constructed with a capacity
 `c*N` (bits), so `c` is the number of bits used per element. For each combination of `c` and
 a given filter configuration, we have selected the optimum value of `K` (that yielding the minimum FPR).
