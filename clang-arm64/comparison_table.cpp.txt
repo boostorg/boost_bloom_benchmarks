@@ -8,9 +8,9 @@
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">24.44</td>
-    <td align="right">4.17</td>
-    <td align="right">2.66</td>
+    <td align="right">24.11</td>
+    <td align="right">7.31</td>
+    <td align="right">3.57</td>
   </tr>
 </table>
 <table>
@@ -42,73 +42,73 @@
     <td align="center">8</td>
     <td align="center">6</td>
     <td align="right">2.1635</td>
-    <td align="right">7.07</td>
-    <td align="right">4.94</td>
-    <td align="right">13.04</td>
+    <td align="right">7.25</td>
+    <td align="right">8.38</td>
+    <td align="right">12.79</td>
     <td align="center">4</td>
     <td align="right">3.3525</td>
-    <td align="right">1.37</td>
-    <td align="right">1.25</td>
-    <td align="right">1.37</td>
+    <td align="right">1.55</td>
+    <td align="right">1.29</td>
+    <td align="right">1.31</td>
     <td align="center">5</td>
     <td align="right">3.0203</td>
-    <td align="right">1.72</td>
-    <td align="right">1.38</td>
-    <td align="right">1.39</td>
+    <td align="right">2.23</td>
+    <td align="right">1.94</td>
+    <td align="right">2.47</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3151</td>
-    <td align="right">12.19</td>
+    <td align="right">12.76</td>
     <td align="right">7.76</td>
-    <td align="right">12.93</td>
+    <td align="right">12.81</td>
     <td align="center">5</td>
     <td align="right">1.0369</td>
-    <td align="right">1.45</td>
-    <td align="right">1.51</td>
-    <td align="right">1.46</td>
+    <td align="right">1.49</td>
+    <td align="right">1.50</td>
+    <td align="right">1.50</td>
     <td align="center">6</td>
     <td align="right">0.8293</td>
-    <td align="right">1.87</td>
-    <td align="right">1.60</td>
-    <td align="right">1.59</td>
+    <td align="right">1.75</td>
+    <td align="right">2.34</td>
+    <td align="right">1.67</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0455</td>
-    <td align="right">14.69</td>
-    <td align="right">9.73</td>
-    <td align="right">12.82</td>
+    <td align="right">15.63</td>
+    <td align="right">9.86</td>
+    <td align="right">13.16</td>
     <td align="center">6</td>
     <td align="right">0.4138</td>
-    <td align="right">1.91</td>
-    <td align="right">1.95</td>
-    <td align="right">3.06</td>
+    <td align="right">1.98</td>
+    <td align="right">1.87</td>
+    <td align="right">1.77</td>
     <td align="center">7</td>
     <td align="right">0.2824</td>
-    <td align="right">2.44</td>
-    <td align="right">2.11</td>
-    <td align="right">2.00</td>
+    <td align="right">1.96</td>
+    <td align="right">1.83</td>
+    <td align="right">1.75</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0084</td>
-    <td align="right">20.38</td>
-    <td align="right">13.68</td>
-    <td align="right">21.17</td>
+    <td align="right">21.66</td>
+    <td align="right">13.03</td>
+    <td align="right">12.64</td>
     <td align="center">7</td>
     <td align="right">0.1936</td>
-    <td align="right">2.85</td>
-    <td align="right">2.67</td>
-    <td align="right">3.56</td>
+    <td align="right">2.07</td>
+    <td align="right">2.08</td>
+    <td align="right">2.55</td>
     <td align="center">8</td>
     <td align="right">0.1197</td>
-    <td align="right">2.50</td>
-    <td align="right">2.40</td>
-    <td align="right">2.23</td>
+    <td align="right">1.95</td>
+    <td align="right">1.86</td>
+    <td align="right">2.35</td>
   </tr>
   <tr>
     <th></th>
@@ -138,73 +138,73 @@
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4274</td>
-    <td align="right">2.67</td>
-    <td align="right">2.04</td>
-    <td align="right">2.35</td>
+    <td align="right">2.76</td>
+    <td align="right">1.99</td>
+    <td align="right">2.01</td>
     <td align="center">5</td>
     <td align="right">2.3232</td>
-    <td align="right">2.70</td>
-    <td align="right">2.04</td>
-    <td align="right">1.97</td>
+    <td align="right">2.48</td>
+    <td align="right">1.92</td>
+    <td align="right">1.95</td>
     <td align="center">5</td>
     <td align="right">2.7402</td>
-    <td align="right">2.29</td>
-    <td align="right">2.18</td>
-    <td align="right">2.20</td>
+    <td align="right">3.73</td>
+    <td align="right">3.59</td>
+    <td align="right">2.46</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4244</td>
-    <td align="right">2.60</td>
-    <td align="right">2.26</td>
-    <td align="right">2.55</td>
+    <td align="right">3.86</td>
+    <td align="right">2.61</td>
+    <td align="right">2.76</td>
     <td align="center">8</td>
     <td align="right">0.3758</td>
-    <td align="right">3.30</td>
-    <td align="right">2.93</td>
-    <td align="right">2.62</td>
+    <td align="right">2.90</td>
+    <td align="right">2.63</td>
+    <td align="right">3.33</td>
     <td align="center">8</td>
     <td align="right">0.5360</td>
-    <td align="right">1.85</td>
-    <td align="right">2.24</td>
-    <td align="right">2.46</td>
+    <td align="right">1.91</td>
+    <td align="right">2.98</td>
+    <td align="right">2.57</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0782</td>
-    <td align="right">7.58</td>
-    <td align="right">4.54</td>
-    <td align="right">3.25</td>
+    <td align="right">4.55</td>
+    <td align="right">3.80</td>
+    <td align="right">3.15</td>
     <td align="center">11</td>
     <td align="right">0.0581</td>
-    <td align="right">7.55</td>
-    <td align="right">3.71</td>
-    <td align="right">3.36</td>
+    <td align="right">4.54</td>
+    <td align="right">5.06</td>
+    <td align="right">7.40</td>
     <td align="center">11</td>
     <td align="right">0.1169</td>
-    <td align="right">3.37</td>
-    <td align="right">2.91</td>
-    <td align="right">2.04</td>
+    <td align="right">3.68</td>
+    <td align="right">2.95</td>
+    <td align="right">2.31</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0132</td>
-    <td align="right">5.93</td>
-    <td align="right">5.00</td>
-    <td align="right">4.29</td>
+    <td align="right">6.94</td>
+    <td align="right">4.20</td>
+    <td align="right">4.19</td>
     <td align="center">14</td>
     <td align="right">0.0131</td>
-    <td align="right">6.38</td>
-    <td align="right">4.80</td>
-    <td align="right">4.59</td>
+    <td align="right">5.20</td>
+    <td align="right">4.69</td>
+    <td align="right">4.29</td>
     <td align="center">13</td>
     <td align="right">0.0280</td>
-    <td align="right">3.97</td>
-    <td align="right">3.62</td>
-    <td align="right">2.54</td>
+    <td align="right">4.70</td>
+    <td align="right">3.48</td>
+    <td align="right">1.98</td>
   </tr>
   <tr>
     <th></th>
@@ -234,73 +234,73 @@
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4803</td>
-    <td align="right">2.12</td>
-    <td align="right">1.89</td>
-    <td align="right">2.00</td>
+    <td align="right">2.14</td>
+    <td align="right">1.78</td>
+    <td align="right">1.77</td>
     <td align="center">5</td>
     <td align="right">2.4274</td>
-    <td align="right">2.49</td>
-    <td align="right">1.94</td>
-    <td align="right">2.18</td>
+    <td align="right">2.63</td>
+    <td align="right">2.58</td>
+    <td align="right">1.87</td>
     <td align="center">5</td>
     <td align="right">2.3232</td>
-    <td align="right">2.51</td>
-    <td align="right">2.80</td>
-    <td align="right">5.02</td>
+    <td align="right">2.88</td>
+    <td align="right">2.46</td>
+    <td align="right">2.60</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4455</td>
-    <td align="right">3.23</td>
-    <td align="right">2.52</td>
-    <td align="right">1.76</td>
+    <td align="right">2.29</td>
+    <td align="right">1.77</td>
+    <td align="right">1.83</td>
     <td align="center">8</td>
     <td align="right">0.4244</td>
-    <td align="right">2.49</td>
-    <td align="right">2.39</td>
-    <td align="right">2.34</td>
+    <td align="right">3.22</td>
+    <td align="right">2.18</td>
+    <td align="right">2.60</td>
     <td align="center">8</td>
     <td align="right">0.3758</td>
-    <td align="right">4.47</td>
-    <td align="right">2.83</td>
-    <td align="right">2.75</td>
+    <td align="right">3.25</td>
+    <td align="right">2.44</td>
+    <td align="right">2.54</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0840</td>
-    <td align="right">3.33</td>
-    <td align="right">2.84</td>
-    <td align="right">2.04</td>
+    <td align="right">3.20</td>
+    <td align="right">2.68</td>
+    <td align="right">1.92</td>
     <td align="center">11</td>
     <td align="right">0.0782</td>
-    <td align="right">4.68</td>
-    <td align="right">3.28</td>
-    <td align="right">3.64</td>
+    <td align="right">4.66</td>
+    <td align="right">3.26</td>
+    <td align="right">3.11</td>
     <td align="center">11</td>
     <td align="right">0.0581</td>
-    <td align="right">4.62</td>
-    <td align="right">3.45</td>
-    <td align="right">3.32</td>
+    <td align="right">4.56</td>
+    <td align="right">3.80</td>
+    <td align="right">4.65</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0183</td>
-    <td align="right">3.43</td>
-    <td align="right">3.59</td>
-    <td align="right">2.31</td>
+    <td align="right">3.26</td>
+    <td align="right">3.30</td>
+    <td align="right">3.48</td>
     <td align="center">13</td>
     <td align="right">0.0132</td>
-    <td align="right">5.92</td>
-    <td align="right">4.60</td>
-    <td align="right">4.24</td>
+    <td align="right">5.07</td>
+    <td align="right">3.89</td>
+    <td align="right">5.37</td>
     <td align="center">14</td>
     <td align="right">0.0131</td>
-    <td align="right">8.73</td>
-    <td align="right">5.74</td>
-    <td align="right">5.04</td>
+    <td align="right">5.30</td>
+    <td align="right">4.67</td>
+    <td align="right">4.38</td>
   </tr>
   <tr>
     <th></th>
@@ -330,73 +330,73 @@
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.2994</td>
-    <td align="right">3.89</td>
-    <td align="right">4.84</td>
-    <td align="right">14.99</td>
+    <td align="right">3.54</td>
+    <td align="right">4.50</td>
+    <td align="right">11.23</td>
     <td align="center">6</td>
     <td align="right">2.2649</td>
-    <td align="right">9.25</td>
-    <td align="right">5.02</td>
-    <td align="right">15.64</td>
+    <td align="right">8.09</td>
+    <td align="right">4.33</td>
+    <td align="right">13.60</td>
     <td align="center">7</td>
     <td align="right">2.3451</td>
-    <td align="right">11.94</td>
-    <td align="right">5.95</td>
-    <td align="right">5.84</td>
+    <td align="right">8.84</td>
+    <td align="right">5.72</td>
+    <td align="right">5.34</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">7</td>
     <td align="right">0.4106</td>
-    <td align="right">5.42</td>
-    <td align="right">5.73</td>
-    <td align="right">12.47</td>
+    <td align="right">5.18</td>
+    <td align="right">5.21</td>
+    <td align="right">12.44</td>
     <td align="center">7</td>
     <td align="right">0.3873</td>
-    <td align="right">11.58</td>
-    <td align="right">5.89</td>
-    <td align="right">13.25</td>
+    <td align="right">9.30</td>
+    <td align="right">5.14</td>
+    <td align="right">12.62</td>
     <td align="center">10</td>
     <td align="right">0.3354</td>
-    <td align="right">11.99</td>
-    <td align="right">8.04</td>
-    <td align="right">7.84</td>
+    <td align="right">12.59</td>
+    <td align="right">7.93</td>
+    <td align="right">7.43</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">9</td>
     <td align="right">0.0845</td>
-    <td align="right">7.39</td>
-    <td align="right">6.73</td>
-    <td align="right">12.62</td>
+    <td align="right">6.26</td>
+    <td align="right">5.16</td>
+    <td align="right">10.37</td>
     <td align="center">10</td>
     <td align="right">0.0708</td>
-    <td align="right">11.62</td>
-    <td align="right">7.29</td>
-    <td align="right">13.21</td>
+    <td align="right">12.05</td>
+    <td align="right">6.39</td>
+    <td align="right">12.00</td>
     <td align="center">11</td>
     <td align="right">0.0510</td>
-    <td align="right">13.83</td>
-    <td align="right">9.55</td>
-    <td align="right">9.25</td>
+    <td align="right">12.98</td>
+    <td align="right">8.95</td>
+    <td align="right">9.52</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">12</td>
     <td align="right">0.0198</td>
-    <td align="right">9.68</td>
-    <td align="right">8.70</td>
-    <td align="right">13.31</td>
+    <td align="right">8.63</td>
+    <td align="right">8.76</td>
+    <td align="right">12.33</td>
     <td align="center">12</td>
     <td align="right">0.0147</td>
-    <td align="right">13.07</td>
-    <td align="right">8.76</td>
-    <td align="right">12.90</td>
+    <td align="right">12.84</td>
+    <td align="right">11.18</td>
+    <td align="right">12.37</td>
     <td align="center">15</td>
     <td align="right">0.0087</td>
-    <td align="right">20.32</td>
-    <td align="right">13.47</td>
-    <td align="right">13.30</td>
+    <td align="right">18.21</td>
+    <td align="right">11.28</td>
+    <td align="right">20.47</td>
   </tr>
 </table>
 
@@ -409,9 +409,9 @@
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">36.69</td>
-    <td align="right">17.50</td>
-    <td align="right">11.93</td>
+    <td align="right">35.63</td>
+    <td align="right">15.62</td>
+    <td align="right">10.54</td>
   </tr>
 </table>
 <table>
@@ -443,73 +443,73 @@
     <td align="center">8</td>
     <td align="center">6</td>
     <td align="right">2.1566</td>
-    <td align="right">12.46</td>
-    <td align="right">12.20</td>
-    <td align="right">21.65</td>
+    <td align="right">13.54</td>
+    <td align="right">14.35</td>
+    <td align="right">21.38</td>
     <td align="center">4</td>
     <td align="right">3.3462</td>
-    <td align="right">4.66</td>
-    <td align="right">5.48</td>
-    <td align="right">5.13</td>
+    <td align="right">3.43</td>
+    <td align="right">3.17</td>
+    <td align="right">3.04</td>
     <td align="center">5</td>
     <td align="right">3.0448</td>
-    <td align="right">4.84</td>
-    <td align="right">4.74</td>
+    <td align="right">3.79</td>
+    <td align="right">2.87</td>
     <td align="right">4.35</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3146</td>
-    <td align="right">41.54</td>
-    <td align="right">30.57</td>
-    <td align="right">28.35</td>
+    <td align="right">45.24</td>
+    <td align="right">38.21</td>
+    <td align="right">32.43</td>
     <td align="center">5</td>
     <td align="right">1.0310</td>
-    <td align="right">12.67</td>
-    <td align="right">9.12</td>
-    <td align="right">9.24</td>
+    <td align="right">11.21</td>
+    <td align="right">12.02</td>
+    <td align="right">10.43</td>
     <td align="center">6</td>
     <td align="right">0.8244</td>
-    <td align="right">10.25</td>
-    <td align="right">8.74</td>
-    <td align="right">9.15</td>
+    <td align="right">11.95</td>
+    <td align="right">8.65</td>
+    <td align="right">11.85</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0456</td>
-    <td align="right">64.27</td>
-    <td align="right">48.48</td>
-    <td align="right">29.81</td>
+    <td align="right">68.95</td>
+    <td align="right">55.82</td>
+    <td align="right">31.13</td>
     <td align="center">6</td>
     <td align="right">0.4035</td>
-    <td align="right">11.67</td>
-    <td align="right">10.85</td>
-    <td align="right">10.69</td>
+    <td align="right">17.23</td>
+    <td align="right">14.25</td>
+    <td align="right">14.69</td>
     <td align="center">7</td>
     <td align="right">0.2885</td>
-    <td align="right">14.47</td>
-    <td align="right">12.51</td>
-    <td align="right">15.80</td>
+    <td align="right">13.06</td>
+    <td align="right">11.37</td>
+    <td align="right">13.12</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0066</td>
-    <td align="right">102.19</td>
-    <td align="right">69.42</td>
-    <td align="right">29.36</td>
+    <td align="right">102.85</td>
+    <td align="right">79.42</td>
+    <td align="right">34.10</td>
     <td align="center">7</td>
     <td align="right">0.1879</td>
-    <td align="right">15.76</td>
-    <td align="right">14.29</td>
-    <td align="right">14.36</td>
+    <td align="right">17.39</td>
+    <td align="right">14.87</td>
+    <td align="right">15.24</td>
     <td align="center">8</td>
     <td align="right">0.1185</td>
-    <td align="right">14.79</td>
-    <td align="right">11.14</td>
-    <td align="right">13.78</td>
+    <td align="right">11.63</td>
+    <td align="right">10.21</td>
+    <td align="right">9.34</td>
   </tr>
   <tr>
     <th></th>
@@ -539,73 +539,73 @@
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4515</td>
-    <td align="right">5.84</td>
-    <td align="right">6.84</td>
-    <td align="right">6.79</td>
+    <td align="right">6.20</td>
+    <td align="right">7.57</td>
+    <td align="right">7.41</td>
     <td align="center">5</td>
     <td align="right">2.3208</td>
-    <td align="right">5.32</td>
-    <td align="right">6.13</td>
-    <td align="right">5.36</td>
+    <td align="right">7.86</td>
+    <td align="right">9.73</td>
+    <td align="right">9.47</td>
     <td align="center">5</td>
     <td align="right">2.7234</td>
-    <td align="right">6.01</td>
-    <td align="right">7.87</td>
-    <td align="right">6.63</td>
+    <td align="right">4.58</td>
+    <td align="right">7.73</td>
+    <td align="right">7.12</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4244</td>
-    <td align="right">11.35</td>
-    <td align="right">11.48</td>
-    <td align="right">9.93</td>
+    <td align="right">11.32</td>
+    <td align="right">11.03</td>
+    <td align="right">8.81</td>
     <td align="center">8</td>
     <td align="right">0.3758</td>
-    <td align="right">12.22</td>
-    <td align="right">10.06</td>
-    <td align="right">11.61</td>
+    <td align="right">11.06</td>
+    <td align="right">10.84</td>
+    <td align="right">15.13</td>
     <td align="center">8</td>
     <td align="right">0.5407</td>
-    <td align="right">9.51</td>
-    <td align="right">9.05</td>
-    <td align="right">9.64</td>
+    <td align="right">9.71</td>
+    <td align="right">10.95</td>
+    <td align="right">10.32</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0776</td>
-    <td align="right">21.90</td>
-    <td align="right">17.76</td>
-    <td align="right">18.00</td>
+    <td align="right">22.55</td>
+    <td align="right">21.54</td>
+    <td align="right">21.44</td>
     <td align="center">11</td>
     <td align="right">0.0641</td>
-    <td align="right">26.30</td>
-    <td align="right">19.05</td>
-    <td align="right">16.75</td>
+    <td align="right">18.76</td>
+    <td align="right">18.48</td>
+    <td align="right">20.15</td>
     <td align="center">11</td>
     <td align="right">0.1174</td>
-    <td align="right">15.42</td>
-    <td align="right">17.05</td>
-    <td align="right">10.76</td>
+    <td align="right">16.45</td>
+    <td align="right">16.86</td>
+    <td align="right">12.19</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0148</td>
-    <td align="right">26.51</td>
-    <td align="right">20.57</td>
-    <td align="right">20.36</td>
+    <td align="right">24.85</td>
+    <td align="right">16.35</td>
+    <td align="right">16.69</td>
     <td align="center">14</td>
     <td align="right">0.0120</td>
-    <td align="right">24.01</td>
-    <td align="right">24.13</td>
-    <td align="right">21.61</td>
+    <td align="right">22.78</td>
+    <td align="right">17.34</td>
+    <td align="right">17.97</td>
     <td align="center">13</td>
     <td align="right">0.0277</td>
-    <td align="right">16.28</td>
-    <td align="right">15.28</td>
-    <td align="right">9.29</td>
+    <td align="right">11.08</td>
+    <td align="right">15.56</td>
+    <td align="right">10.64</td>
   </tr>
   <tr>
     <th></th>
@@ -635,73 +635,73 @@
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4625</td>
-    <td align="right">4.54</td>
-    <td align="right">6.55</td>
-    <td align="right">5.01</td>
+    <td align="right">3.82</td>
+    <td align="right">5.37</td>
+    <td align="right">5.26</td>
     <td align="center">5</td>
     <td align="right">2.4515</td>
-    <td align="right">5.31</td>
-    <td align="right">6.54</td>
-    <td align="right">6.60</td>
+    <td align="right">5.03</td>
+    <td align="right">5.86</td>
+    <td align="right">6.69</td>
     <td align="center">5</td>
     <td align="right">2.3208</td>
-    <td align="right">5.30</td>
-    <td align="right">7.26</td>
-    <td align="right">7.44</td>
+    <td align="right">4.10</td>
+    <td align="right">5.24</td>
+    <td align="right">5.05</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4428</td>
-    <td align="right">9.83</td>
-    <td align="right">9.96</td>
-    <td align="right">12.11</td>
+    <td align="right">4.09</td>
+    <td align="right">5.85</td>
+    <td align="right">4.93</td>
     <td align="center">8</td>
     <td align="right">0.4244</td>
-    <td align="right">13.94</td>
-    <td align="right">14.68</td>
-    <td align="right">13.63</td>
+    <td align="right">5.48</td>
+    <td align="right">5.96</td>
+    <td align="right">5.74</td>
     <td align="center">8</td>
     <td align="right">0.3758</td>
-    <td align="right">11.77</td>
-    <td align="right">13.51</td>
-    <td align="right">14.81</td>
+    <td align="right">5.45</td>
+    <td align="right">6.66</td>
+    <td align="right">6.31</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0866</td>
-    <td align="right">17.82</td>
-    <td align="right">16.33</td>
-    <td align="right">10.32</td>
+    <td align="right">10.00</td>
+    <td align="right">9.26</td>
+    <td align="right">7.69</td>
     <td align="center">11</td>
     <td align="right">0.0776</td>
-    <td align="right">24.53</td>
-    <td align="right">21.43</td>
-    <td align="right">20.80</td>
+    <td align="right">20.91</td>
+    <td align="right">22.45</td>
+    <td align="right">14.65</td>
     <td align="center">11</td>
     <td align="right">0.0641</td>
-    <td align="right">26.24</td>
-    <td align="right">20.97</td>
-    <td align="right">24.23</td>
+    <td align="right">15.58</td>
+    <td align="right">14.69</td>
+    <td align="right">15.73</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0180</td>
-    <td align="right">19.95</td>
-    <td align="right">19.30</td>
-    <td align="right">12.26</td>
+    <td align="right">11.79</td>
+    <td align="right">12.92</td>
+    <td align="right">9.21</td>
     <td align="center">13</td>
     <td align="right">0.0148</td>
-    <td align="right">28.84</td>
-    <td align="right">23.79</td>
-    <td align="right">26.52</td>
+    <td align="right">18.95</td>
+    <td align="right">17.25</td>
+    <td align="right">17.77</td>
     <td align="center">14</td>
     <td align="right">0.0120</td>
-    <td align="right">31.80</td>
-    <td align="right">28.27</td>
-    <td align="right">28.36</td>
+    <td align="right">20.96</td>
+    <td align="right">16.27</td>
+    <td align="right">17.56</td>
   </tr>
   <tr>
     <th></th>
@@ -731,72 +731,72 @@
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.3301</td>
-    <td align="right">18.55</td>
-    <td align="right">13.96</td>
-    <td align="right">24.91</td>
+    <td align="right">7.89</td>
+    <td align="right">7.74</td>
+    <td align="right">14.74</td>
     <td align="center">6</td>
     <td align="right">2.2943</td>
-    <td align="right">24.08</td>
-    <td align="right">12.60</td>
-    <td align="right">25.00</td>
+    <td align="right">14.53</td>
+    <td align="right">8.92</td>
+    <td align="right">19.04</td>
     <td align="center">7</td>
     <td align="right">2.3317</td>
-    <td align="right">27.10</td>
-    <td align="right">25.33</td>
-    <td align="right">26.38</td>
+    <td align="right">10.11</td>
+    <td align="right">10.21</td>
+    <td align="right">9.82</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">7</td>
     <td align="right">0.4128</td>
-    <td align="right">29.17</td>
-    <td align="right">26.86</td>
-    <td align="right">22.22</td>
+    <td align="right">16.51</td>
+    <td align="right">13.81</td>
+    <td align="right">18.84</td>
     <td align="center">7</td>
     <td align="right">0.3893</td>
-    <td align="right">47.85</td>
-    <td align="right">28.40</td>
-    <td align="right">28.08</td>
+    <td align="right">31.64</td>
+    <td align="right">21.10</td>
+    <td align="right">21.45</td>
     <td align="center">10</td>
     <td align="right">0.3489</td>
-    <td align="right">51.82</td>
-    <td align="right">52.11</td>
-    <td align="right">53.98</td>
+    <td align="right">28.68</td>
+    <td align="right">33.54</td>
+    <td align="right">33.35</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">9</td>
     <td align="right">0.0838</td>
-    <td align="right">34.78</td>
-    <td align="right">29.79</td>
-    <td align="right">21.36</td>
+    <td align="right">21.28</td>
+    <td align="right">18.04</td>
+    <td align="right">16.56</td>
     <td align="center">10</td>
     <td align="right">0.0718</td>
-    <td align="right">61.68</td>
-    <td align="right">41.84</td>
-    <td align="right">27.53</td>
+    <td align="right">35.65</td>
+    <td align="right">23.08</td>
+    <td align="right">19.92</td>
     <td align="center">11</td>
     <td align="right">0.0492</td>
-    <td align="right">63.31</td>
-    <td align="right">59.45</td>
-    <td align="right">59.07</td>
+    <td align="right">39.06</td>
+    <td align="right">41.88</td>
+    <td align="right">34.85</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">12</td>
     <td align="right">0.0197</td>
-    <td align="right">46.54</td>
-    <td align="right">44.10</td>
-    <td align="right">26.29</td>
+    <td align="right">30.34</td>
+    <td align="right">28.16</td>
+    <td align="right">17.61</td>
     <td align="center">12</td>
     <td align="right">0.0151</td>
-    <td align="right">78.44</td>
-    <td align="right">45.21</td>
-    <td align="right">30.09</td>
+    <td align="right">46.00</td>
+    <td align="right">35.89</td>
+    <td align="right">21.66</td>
     <td align="center">15</td>
     <td align="right">0.0076</td>
-    <td align="right">96.49</td>
-    <td align="right">82.20</td>
-    <td align="right">82.36</td>
+    <td align="right">59.62</td>
+    <td align="right">57.08</td>
+    <td align="right">48.20</td>
   </tr>
 </table>
