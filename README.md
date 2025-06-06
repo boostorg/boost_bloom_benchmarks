@@ -34,9 +34,9 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">27.45</td>
-    <td align="right">4.68</td>
-    <td align="right">3.73</td>
+    <td align="right">26.03</td>
+    <td align="right">4.53</td>
+    <td align="right">3.51</td>
   </tr>
 </table>
 <table>
@@ -68,73 +68,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">6</td>
     <td align="right">2.1635</td>
-    <td align="right">11.17</td>
-    <td align="right">10.66</td>
-    <td align="right">16.53</td>
+    <td align="right">12.20</td>
+    <td align="right">10.63</td>
+    <td align="right">16.55</td>
     <td align="center">4</td>
     <td align="right">3.3525</td>
-    <td align="right">4.01</td>
-    <td align="right">4.35</td>
-    <td align="right">4.35</td>
+    <td align="right">4.03</td>
+    <td align="right">4.38</td>
+    <td align="right">4.38</td>
     <td align="center">5</td>
     <td align="right">3.0203</td>
-    <td align="right">4.87</td>
-    <td align="right">5.05</td>
-    <td align="right">5.05</td>
+    <td align="right">4.80</td>
+    <td align="right">5.03</td>
+    <td align="right">5.02</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3151</td>
-    <td align="right">16.95</td>
-    <td align="right">15.54</td>
-    <td align="right">17.62</td>
+    <td align="right">16.62</td>
+    <td align="right">15.75</td>
+    <td align="right">17.69</td>
     <td align="center">5</td>
     <td align="right">1.0369</td>
-    <td align="right">4.79</td>
-    <td align="right">4.93</td>
-    <td align="right">4.95</td>
+    <td align="right">4.82</td>
+    <td align="right">4.96</td>
+    <td align="right">4.98</td>
     <td align="center">6</td>
     <td align="right">0.8293</td>
-    <td align="right">5.41</td>
-    <td align="right">5.51</td>
-    <td align="right">5.50</td>
+    <td align="right">5.45</td>
+    <td align="right">5.52</td>
+    <td align="right">5.55</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0455</td>
-    <td align="right">20.23</td>
-    <td align="right">18.84</td>
-    <td align="right">16.53</td>
+    <td align="right">20.13</td>
+    <td align="right">18.76</td>
+    <td align="right">16.60</td>
     <td align="center">6</td>
     <td align="right">0.4138</td>
-    <td align="right">5.38</td>
-    <td align="right">5.31</td>
-    <td align="right">5.30</td>
+    <td align="right">5.40</td>
+    <td align="right">5.34</td>
+    <td align="right">5.33</td>
     <td align="center">7</td>
     <td align="right">0.2824</td>
-    <td align="right">6.23</td>
-    <td align="right">6.26</td>
-    <td align="right">6.27</td>
+    <td align="right">6.30</td>
+    <td align="right">6.33</td>
+    <td align="right">6.33</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0084</td>
-    <td align="right">26.90</td>
-    <td align="right">23.13</td>
-    <td align="right">16.81</td>
+    <td align="right">26.59</td>
+    <td align="right">23.01</td>
+    <td align="right">16.88</td>
     <td align="center">7</td>
     <td align="right">0.1936</td>
     <td align="right">6.41</td>
-    <td align="right">6.06</td>
-    <td align="right">5.92</td>
+    <td align="right">6.09</td>
+    <td align="right">5.94</td>
     <td align="center">8</td>
     <td align="right">0.1197</td>
-    <td align="right">6.71</td>
-    <td align="right">6.59</td>
-    <td align="right">6.60</td>
+    <td align="right">6.73</td>
+    <td align="right">6.61</td>
+    <td align="right">6.62</td>
   </tr>
   <tr>
     <th></th>
@@ -165,72 +165,72 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">5</td>
     <td align="right">2.4274</td>
     <td align="right">5.08</td>
-    <td align="right">5.73</td>
-    <td align="right">5.73</td>
+    <td align="right">5.72</td>
+    <td align="right">5.72</td>
     <td align="center">5</td>
     <td align="right">2.3232</td>
-    <td align="right">5.54</td>
-    <td align="right">6.73</td>
-    <td align="right">6.88</td>
+    <td align="right">5.55</td>
+    <td align="right">6.69</td>
+    <td align="right">6.86</td>
     <td align="center">5</td>
     <td align="right">2.7402</td>
-    <td align="right">2.96</td>
-    <td align="right">3.27</td>
-    <td align="right">3.28</td>
+    <td align="right">2.99</td>
+    <td align="right">3.29</td>
+    <td align="right">3.29</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4244</td>
-    <td align="right">7.08</td>
-    <td align="right">8.87</td>
+    <td align="right">7.07</td>
     <td align="right">8.88</td>
+    <td align="right">8.87</td>
     <td align="center">8</td>
     <td align="right">0.3758</td>
-    <td align="right">8.18</td>
-    <td align="right">10.06</td>
+    <td align="right">8.22</td>
     <td align="right">10.07</td>
+    <td align="right">10.08</td>
     <td align="center">8</td>
     <td align="right">0.5360</td>
-    <td align="right">2.47</td>
-    <td align="right">3.11</td>
-    <td align="right">3.12</td>
+    <td align="right">2.49</td>
+    <td align="right">3.14</td>
+    <td align="right">3.14</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0782</td>
-    <td align="right">9.19</td>
-    <td align="right">13.70</td>
-    <td align="right">13.75</td>
+    <td align="right">9.36</td>
+    <td align="right">13.90</td>
+    <td align="right">13.79</td>
     <td align="center">11</td>
     <td align="right">0.0581</td>
-    <td align="right">16.88</td>
-    <td align="right">14.16</td>
-    <td align="right">14.23</td>
+    <td align="right">16.71</td>
+    <td align="right">14.17</td>
+    <td align="right">14.17</td>
     <td align="center">11</td>
     <td align="right">0.1169</td>
-    <td align="right">5.75</td>
-    <td align="right">5.79</td>
-    <td align="right">3.91</td>
+    <td align="right">5.73</td>
+    <td align="right">5.85</td>
+    <td align="right">3.92</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0132</td>
-    <td align="right">11.03</td>
-    <td align="right">15.44</td>
-    <td align="right">15.47</td>
+    <td align="right">11.18</td>
+    <td align="right">15.49</td>
+    <td align="right">15.51</td>
     <td align="center">14</td>
     <td align="right">0.0131</td>
-    <td align="right">12.06</td>
-    <td align="right">17.50</td>
-    <td align="right">17.53</td>
+    <td align="right">12.08</td>
+    <td align="right">17.44</td>
+    <td align="right">17.38</td>
     <td align="center">13</td>
     <td align="right">0.0280</td>
-    <td align="right">5.87</td>
-    <td align="right">5.87</td>
-    <td align="right">3.93</td>
+    <td align="right">5.75</td>
+    <td align="right">5.78</td>
+    <td align="right">3.89</td>
   </tr>
   <tr>
     <th></th>
@@ -260,73 +260,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4803</td>
-    <td align="right">2.98</td>
-    <td align="right">3.26</td>
-    <td align="right">3.25</td>
+    <td align="right">2.95</td>
+    <td align="right">3.24</td>
+    <td align="right">3.23</td>
     <td align="center">5</td>
     <td align="right">2.4404</td>
-    <td align="right">4.40</td>
-    <td align="right">5.09</td>
-    <td align="right">5.02</td>
+    <td align="right">4.38</td>
+    <td align="right">5.10</td>
+    <td align="right">5.03</td>
     <td align="center">5</td>
     <td align="right">2.3234</td>
-    <td align="right">4.53</td>
+    <td align="right">4.52</td>
+    <td align="right">4.95</td>
     <td align="right">5.03</td>
-    <td align="right">5.06</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4455</td>
-    <td align="right">3.04</td>
-    <td align="right">3.32</td>
+    <td align="right">3.06</td>
     <td align="right">3.34</td>
+    <td align="right">3.32</td>
     <td align="center">8</td>
     <td align="right">0.4197</td>
-    <td align="right">3.24</td>
+    <td align="right">3.21</td>
     <td align="right">4.48</td>
     <td align="right">4.49</td>
     <td align="center">8</td>
     <td align="right">0.3827</td>
-    <td align="right">4.46</td>
-    <td align="right">5.11</td>
+    <td align="right">4.43</td>
     <td align="right">5.10</td>
+    <td align="right">5.08</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0840</td>
-    <td align="right">5.49</td>
-    <td align="right">5.56</td>
-    <td align="right">3.86</td>
+    <td align="right">5.44</td>
+    <td align="right">5.51</td>
+    <td align="right">3.78</td>
     <td align="center">11</td>
     <td align="right">0.0761</td>
-    <td align="right">7.06</td>
-    <td align="right">7.71</td>
-    <td align="right">5.94</td>
+    <td align="right">7.03</td>
+    <td align="right">7.69</td>
+    <td align="right">5.88</td>
     <td align="center">11</td>
     <td align="right">0.0629</td>
-    <td align="right">7.89</td>
-    <td align="right">7.53</td>
+    <td align="right">7.95</td>
+    <td align="right">7.58</td>
     <td align="right">5.84</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0183</td>
-    <td align="right">5.50</td>
-    <td align="right">5.59</td>
-    <td align="right">3.80</td>
+    <td align="right">5.45</td>
+    <td align="right">5.52</td>
+    <td align="right">3.75</td>
     <td align="center">13</td>
     <td align="right">0.0154</td>
-    <td align="right">8.14</td>
-    <td align="right">9.14</td>
-    <td align="right">6.04</td>
+    <td align="right">8.10</td>
+    <td align="right">9.16</td>
+    <td align="right">6.07</td>
     <td align="center">14</td>
     <td align="right">0.0121</td>
-    <td align="right">8.32</td>
-    <td align="right">9.06</td>
-    <td align="right">5.93</td>
+    <td align="right">8.38</td>
+    <td align="right">9.05</td>
+    <td align="right">5.90</td>
   </tr>
 </table>
 
@@ -339,9 +339,9 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">30.99</td>
-    <td align="right">18.54</td>
-    <td align="right">6.58</td>
+    <td align="right">31.39</td>
+    <td align="right">18.30</td>
+    <td align="right">6.92</td>
   </tr>
 </table>
 <table>
@@ -373,73 +373,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">6</td>
     <td align="right">2.1566</td>
-    <td align="right">12.21</td>
-    <td align="right">11.06</td>
-    <td align="right">16.94</td>
+    <td align="right">13.15</td>
+    <td align="right">12.49</td>
+    <td align="right">17.33</td>
     <td align="center">4</td>
     <td align="right">3.3462</td>
-    <td align="right">4.44</td>
-    <td align="right">4.73</td>
-    <td align="right">4.73</td>
+    <td align="right">4.61</td>
+    <td align="right">4.92</td>
+    <td align="right">4.93</td>
     <td align="center">5</td>
     <td align="right">3.0448</td>
-    <td align="right">5.23</td>
-    <td align="right">5.37</td>
-    <td align="right">5.38</td>
+    <td align="right">5.59</td>
+    <td align="right">5.78</td>
+    <td align="right">5.82</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3146</td>
-    <td align="right">18.09</td>
-    <td align="right">17.08</td>
-    <td align="right">17.86</td>
+    <td align="right">18.76</td>
+    <td align="right">18.25</td>
+    <td align="right">17.98</td>
     <td align="center">5</td>
     <td align="right">1.0310</td>
-    <td align="right">5.02</td>
-    <td align="right">5.07</td>
-    <td align="right">5.15</td>
+    <td align="right">5.24</td>
+    <td align="right">5.32</td>
+    <td align="right">5.37</td>
     <td align="center">6</td>
     <td align="right">0.8244</td>
-    <td align="right">6.87</td>
-    <td align="right">6.34</td>
-    <td align="right">6.28</td>
+    <td align="right">5.93</td>
+    <td align="right">5.96</td>
+    <td align="right">5.96</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0456</td>
-    <td align="right">28.67</td>
-    <td align="right">29.43</td>
-    <td align="right">17.81</td>
+    <td align="right">26.45</td>
+    <td align="right">19.23</td>
+    <td align="right">18.46</td>
     <td align="center">6</td>
     <td align="right">0.4035</td>
+    <td align="right">6.37</td>
     <td align="right">6.30</td>
-    <td align="right">6.48</td>
-    <td align="right">6.31</td>
+    <td align="right">6.65</td>
     <td align="center">7</td>
     <td align="right">0.2885</td>
-    <td align="right">7.43</td>
-    <td align="right">7.29</td>
-    <td align="right">7.57</td>
+    <td align="right">7.37</td>
+    <td align="right">8.00</td>
+    <td align="right">8.21</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0066</td>
-    <td align="right">46.54</td>
-    <td align="right">39.91</td>
-    <td align="right">19.26</td>
+    <td align="right">41.59</td>
+    <td align="right">37.26</td>
+    <td align="right">19.38</td>
     <td align="center">7</td>
     <td align="right">0.1879</td>
-    <td align="right">10.08</td>
-    <td align="right">10.49</td>
-    <td align="right">9.53</td>
+    <td align="right">9.55</td>
+    <td align="right">9.46</td>
+    <td align="right">9.45</td>
     <td align="center">8</td>
     <td align="right">0.1185</td>
-    <td align="right">9.68</td>
-    <td align="right">9.08</td>
-    <td align="right">9.68</td>
+    <td align="right">9.35</td>
+    <td align="right">9.57</td>
+    <td align="right">9.39</td>
   </tr>
   <tr>
     <th></th>
@@ -469,73 +469,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4515</td>
-    <td align="right">5.68</td>
-    <td align="right">6.49</td>
-    <td align="right">6.50</td>
+    <td align="right">5.82</td>
+    <td align="right">6.63</td>
+    <td align="right">6.66</td>
     <td align="center">5</td>
     <td align="right">2.3208</td>
-    <td align="right">6.06</td>
-    <td align="right">7.47</td>
-    <td align="right">7.71</td>
+    <td align="right">6.33</td>
+    <td align="right">7.73</td>
+    <td align="right">7.98</td>
     <td align="center">5</td>
     <td align="right">2.7234</td>
-    <td align="right">3.37</td>
-    <td align="right">3.80</td>
-    <td align="right">3.75</td>
+    <td align="right">3.47</td>
+    <td align="right">3.93</td>
+    <td align="right">3.92</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4244</td>
-    <td align="right">7.39</td>
-    <td align="right">9.45</td>
-    <td align="right">9.36</td>
+    <td align="right">7.75</td>
+    <td align="right">9.71</td>
+    <td align="right">12.46</td>
     <td align="center">8</td>
     <td align="right">0.3758</td>
-    <td align="right">8.20</td>
-    <td align="right">10.08</td>
-    <td align="right">10.12</td>
+    <td align="right">9.01</td>
+    <td align="right">11.15</td>
+    <td align="right">11.21</td>
     <td align="center">8</td>
     <td align="right">0.5407</td>
-    <td align="right">2.72</td>
-    <td align="right">3.38</td>
-    <td align="right">3.35</td>
+    <td align="right">2.92</td>
+    <td align="right">3.48</td>
+    <td align="right">3.54</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0776</td>
-    <td align="right">11.28</td>
-    <td align="right">15.08</td>
-    <td align="right">15.13</td>
+    <td align="right">11.99</td>
+    <td align="right">23.67</td>
+    <td align="right">18.75</td>
     <td align="center">11</td>
     <td align="right">0.0641</td>
-    <td align="right">17.90</td>
-    <td align="right">15.65</td>
-    <td align="right">15.55</td>
+    <td align="right">18.92</td>
+    <td align="right">19.45</td>
+    <td align="right">15.69</td>
     <td align="center">11</td>
     <td align="right">0.1174</td>
-    <td align="right">6.76</td>
-    <td align="right">6.87</td>
-    <td align="right">4.87</td>
+    <td align="right">8.04</td>
+    <td align="right">7.87</td>
+    <td align="right">7.00</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0148</td>
-    <td align="right">14.39</td>
-    <td align="right">20.03</td>
-    <td align="right">18.67</td>
+    <td align="right">15.19</td>
+    <td align="right">21.94</td>
+    <td align="right">20.98</td>
     <td align="center">14</td>
     <td align="right">0.0120</td>
-    <td align="right">16.41</td>
-    <td align="right">22.94</td>
-    <td align="right">22.46</td>
+    <td align="right">17.10</td>
+    <td align="right">24.80</td>
+    <td align="right">26.94</td>
     <td align="center">13</td>
     <td align="right">0.0277</td>
-    <td align="right">9.38</td>
-    <td align="right">9.60</td>
-    <td align="right">6.48</td>
+    <td align="right">10.19</td>
+    <td align="right">13.27</td>
+    <td align="right">7.67</td>
   </tr>
   <tr>
     <th></th>
@@ -565,73 +565,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4625</td>
-    <td align="right">3.36</td>
-    <td align="right">3.73</td>
-    <td align="right">3.70</td>
+    <td align="right">3.44</td>
+    <td align="right">3.88</td>
+    <td align="right">3.88</td>
     <td align="center">5</td>
     <td align="right">2.4388</td>
-    <td align="right">4.92</td>
-    <td align="right">5.65</td>
-    <td align="right">5.58</td>
+    <td align="right">5.09</td>
+    <td align="right">5.89</td>
+    <td align="right">5.85</td>
     <td align="center">5</td>
     <td align="right">2.3198</td>
-    <td align="right">5.03</td>
-    <td align="right">5.49</td>
-    <td align="right">5.57</td>
+    <td align="right">5.13</td>
+    <td align="right">5.62</td>
+    <td align="right">5.70</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4428</td>
-    <td align="right">3.35</td>
-    <td align="right">3.69</td>
-    <td align="right">3.67</td>
+    <td align="right">3.39</td>
+    <td align="right">3.78</td>
+    <td align="right">3.94</td>
     <td align="center">8</td>
     <td align="right">0.4190</td>
-    <td align="right">3.46</td>
-    <td align="right">4.77</td>
-    <td align="right">4.76</td>
+    <td align="right">3.56</td>
+    <td align="right">4.88</td>
+    <td align="right">4.91</td>
     <td align="center">8</td>
     <td align="right">0.3747</td>
-    <td align="right">4.81</td>
-    <td align="right">5.52</td>
-    <td align="right">5.46</td>
+    <td align="right">4.93</td>
+    <td align="right">5.63</td>
+    <td align="right">5.57</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0866</td>
-    <td align="right">6.69</td>
-    <td align="right">7.18</td>
-    <td align="right">5.10</td>
+    <td align="right">6.96</td>
+    <td align="right">7.24</td>
+    <td align="right">5.66</td>
     <td align="center">11</td>
     <td align="right">0.0781</td>
-    <td align="right">8.63</td>
-    <td align="right">9.82</td>
-    <td align="right">7.79</td>
+    <td align="right">8.58</td>
+    <td align="right">9.98</td>
+    <td align="right">7.78</td>
     <td align="center">11</td>
     <td align="right">0.0651</td>
     <td align="right">9.80</td>
-    <td align="right">9.55</td>
-    <td align="right">7.63</td>
+    <td align="right">10.84</td>
+    <td align="right">9.11</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0180</td>
-    <td align="right">9.08</td>
-    <td align="right">9.05</td>
-    <td align="right">7.13</td>
+    <td align="right">12.74</td>
+    <td align="right">11.62</td>
+    <td align="right">6.77</td>
     <td align="center">13</td>
     <td align="right">0.0147</td>
-    <td align="right">11.60</td>
-    <td align="right">13.64</td>
-    <td align="right">9.10</td>
+    <td align="right">14.76</td>
+    <td align="right">15.18</td>
+    <td align="right">9.02</td>
     <td align="center">14</td>
     <td align="right">0.0112</td>
-    <td align="right">11.29</td>
-    <td align="right">15.12</td>
-    <td align="right">16.84</td>
+    <td align="right">15.85</td>
+    <td align="right">14.91</td>
+    <td align="right">10.34</td>
   </tr>
 </table>
 
@@ -649,9 +649,9 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">26.46</td>
-    <td align="right">4.21</td>
-    <td align="right">3.48</td>
+    <td align="right">26.82</td>
+    <td align="right">4.11</td>
+    <td align="right">3.39</td>
   </tr>
 </table>
 <table>
@@ -684,52 +684,52 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">6</td>
     <td align="right">2.1635</td>
     <td align="right">9.27</td>
-    <td align="right">9.01</td>
+    <td align="right">9.05</td>
     <td align="right">15.62</td>
     <td align="center">4</td>
     <td align="right">3.3525</td>
-    <td align="right">3.33</td>
+    <td align="right">3.32</td>
     <td align="right">4.07</td>
     <td align="right">3.96</td>
     <td align="center">5</td>
     <td align="right">3.0203</td>
     <td align="right">3.88</td>
-    <td align="right">4.56</td>
     <td align="right">4.59</td>
+    <td align="right">4.60</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3151</td>
-    <td align="right">13.89</td>
-    <td align="right">13.63</td>
-    <td align="right">16.57</td>
+    <td align="right">14.00</td>
+    <td align="right">13.72</td>
+    <td align="right">16.69</td>
     <td align="center">5</td>
     <td align="right">1.0369</td>
-    <td align="right">3.84</td>
+    <td align="right">3.85</td>
     <td align="right">4.73</td>
     <td align="right">4.57</td>
     <td align="center">6</td>
     <td align="right">0.8293</td>
-    <td align="right">4.48</td>
-    <td align="right">5.30</td>
-    <td align="right">5.30</td>
+    <td align="right">4.53</td>
+    <td align="right">5.32</td>
+    <td align="right">5.29</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0455</td>
-    <td align="right">17.29</td>
-    <td align="right">16.60</td>
-    <td align="right">15.92</td>
+    <td align="right">17.43</td>
+    <td align="right">16.80</td>
+    <td align="right">15.86</td>
     <td align="center">6</td>
     <td align="right">0.4138</td>
     <td align="right">4.35</td>
     <td align="right">5.26</td>
-    <td align="right">5.09</td>
+    <td align="right">5.10</td>
     <td align="center">7</td>
     <td align="right">0.2824</td>
-    <td align="right">4.91</td>
+    <td align="right">4.92</td>
     <td align="right">5.98</td>
     <td align="right">5.99</td>
   </tr>
@@ -737,19 +737,19 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0084</td>
-    <td align="right">20.13</td>
-    <td align="right">22.66</td>
-    <td align="right">15.89</td>
+    <td align="right">20.06</td>
+    <td align="right">22.61</td>
+    <td align="right">15.90</td>
     <td align="center">7</td>
     <td align="right">0.1936</td>
-    <td align="right">4.82</td>
-    <td align="right">5.70</td>
-    <td align="right">5.70</td>
+    <td align="right">4.80</td>
+    <td align="right">5.68</td>
+    <td align="right">5.69</td>
     <td align="center">8</td>
     <td align="right">0.1197</td>
-    <td align="right">2.95</td>
-    <td align="right">3.28</td>
-    <td align="right">3.29</td>
+    <td align="right">3.01</td>
+    <td align="right">3.31</td>
+    <td align="right">3.31</td>
   </tr>
   <tr>
     <th></th>
@@ -779,73 +779,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4274</td>
-    <td align="right">3.04</td>
+    <td align="right">3.07</td>
     <td align="right">3.59</td>
-    <td align="right">3.59</td>
+    <td align="right">3.57</td>
     <td align="center">5</td>
     <td align="right">2.3232</td>
     <td align="right">3.16</td>
-    <td align="right">3.48</td>
-    <td align="right">3.52</td>
+    <td align="right">3.54</td>
+    <td align="right">3.58</td>
     <td align="center">5</td>
     <td align="right">2.7402</td>
-    <td align="right">2.59</td>
+    <td align="right">2.61</td>
+    <td align="right">2.52</td>
     <td align="right">2.51</td>
-    <td align="right">2.49</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4244</td>
-    <td align="right">2.72</td>
-    <td align="right">3.36</td>
-    <td align="right">3.37</td>
+    <td align="right">2.74</td>
+    <td align="right">3.39</td>
+    <td align="right">3.42</td>
     <td align="center">8</td>
     <td align="right">0.3758</td>
-    <td align="right">3.71</td>
-    <td align="right">3.71</td>
+    <td align="right">3.75</td>
+    <td align="right">3.74</td>
     <td align="right">3.74</td>
     <td align="center">8</td>
     <td align="right">0.5360</td>
-    <td align="right">2.14</td>
-    <td align="right">2.27</td>
-    <td align="right">2.30</td>
+    <td align="right">2.17</td>
+    <td align="right">2.29</td>
+    <td align="right">2.29</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0782</td>
-    <td align="right">5.65</td>
-    <td align="right">6.23</td>
-    <td align="right">6.43</td>
+    <td align="right">5.57</td>
+    <td align="right">6.15</td>
+    <td align="right">6.44</td>
     <td align="center">11</td>
     <td align="right">0.0581</td>
-    <td align="right">5.89</td>
-    <td align="right">6.19</td>
-    <td align="right">6.12</td>
+    <td align="right">5.88</td>
+    <td align="right">6.16</td>
+    <td align="right">6.14</td>
     <td align="center">11</td>
     <td align="right">0.1169</td>
-    <td align="right">4.21</td>
-    <td align="right">4.40</td>
-    <td align="right">3.23</td>
+    <td align="right">4.20</td>
+    <td align="right">4.38</td>
+    <td align="right">3.18</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0132</td>
-    <td align="right">6.03</td>
-    <td align="right">6.67</td>
-    <td align="right">6.69</td>
+    <td align="right">6.11</td>
+    <td align="right">6.72</td>
+    <td align="right">6.71</td>
     <td align="center">14</td>
     <td align="right">0.0131</td>
-    <td align="right">6.31</td>
-    <td align="right">7.31</td>
-    <td align="right">7.08</td>
+    <td align="right">6.36</td>
+    <td align="right">7.26</td>
+    <td align="right">7.05</td>
     <td align="center">13</td>
     <td align="right">0.0280</td>
-    <td align="right">4.22</td>
-    <td align="right">4.38</td>
-    <td align="right">3.17</td>
+    <td align="right">4.25</td>
+    <td align="right">4.40</td>
+    <td align="right">3.19</td>
   </tr>
   <tr>
     <th></th>
@@ -875,73 +875,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4803</td>
-    <td align="right">2.59</td>
-    <td align="right">2.35</td>
-    <td align="right">2.36</td>
+    <td align="right">2.62</td>
+    <td align="right">2.37</td>
+    <td align="right">2.37</td>
     <td align="center">5</td>
     <td align="right">2.4404</td>
-    <td align="right">3.58</td>
+    <td align="right">3.60</td>
     <td align="right">4.08</td>
     <td align="right">4.08</td>
     <td align="center">5</td>
     <td align="right">2.3234</td>
-    <td align="right">3.70</td>
+    <td align="right">3.73</td>
     <td align="right">3.94</td>
-    <td align="right">3.93</td>
+    <td align="right">3.95</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4455</td>
-    <td align="right">2.70</td>
-    <td align="right">2.40</td>
-    <td align="right">2.39</td>
+    <td align="right">2.73</td>
+    <td align="right">2.43</td>
+    <td align="right">2.42</td>
     <td align="center">8</td>
     <td align="right">0.4197</td>
-    <td align="right">2.90</td>
+    <td align="right">2.92</td>
     <td align="right">3.73</td>
-    <td align="right">3.73</td>
+    <td align="right">3.74</td>
     <td align="center">8</td>
     <td align="right">0.3827</td>
-    <td align="right">3.90</td>
-    <td align="right">4.04</td>
-    <td align="right">4.04</td>
+    <td align="right">3.92</td>
+    <td align="right">4.03</td>
+    <td align="right">4.03</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0840</td>
-    <td align="right">4.24</td>
-    <td align="right">4.32</td>
-    <td align="right">2.97</td>
+    <td align="right">4.26</td>
+    <td align="right">4.29</td>
+    <td align="right">2.98</td>
     <td align="center">11</td>
     <td align="right">0.0761</td>
-    <td align="right">5.54</td>
-    <td align="right">6.12</td>
-    <td align="right">4.59</td>
+    <td align="right">5.60</td>
+    <td align="right">6.18</td>
+    <td align="right">4.74</td>
     <td align="center">11</td>
     <td align="right">0.0629</td>
-    <td align="right">5.68</td>
-    <td align="right">5.97</td>
-    <td align="right">4.53</td>
+    <td align="right">5.74</td>
+    <td align="right">6.02</td>
+    <td align="right">4.51</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0183</td>
-    <td align="right">4.28</td>
+    <td align="right">4.30</td>
     <td align="right">4.33</td>
-    <td align="right">2.97</td>
+    <td align="right">2.98</td>
     <td align="center">13</td>
     <td align="right">0.0154</td>
-    <td align="right">6.74</td>
-    <td align="right">7.15</td>
-    <td align="right">4.94</td>
+    <td align="right">6.78</td>
+    <td align="right">7.14</td>
+    <td align="right">4.87</td>
     <td align="center">14</td>
     <td align="right">0.0121</td>
-    <td align="right">6.81</td>
-    <td align="right">7.02</td>
-    <td align="right">4.67</td>
+    <td align="right">6.84</td>
+    <td align="right">7.14</td>
+    <td align="right">4.74</td>
   </tr>
 </table>
 
@@ -954,9 +954,9 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">32.58</td>
-    <td align="right">16.87</td>
-    <td align="right">6.60</td>
+    <td align="right">32.08</td>
+    <td align="right">16.16</td>
+    <td align="right">6.48</td>
   </tr>
 </table>
 <table>
@@ -988,73 +988,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">6</td>
     <td align="right">2.1566</td>
-    <td align="right">10.84</td>
-    <td align="right">10.51</td>
-    <td align="right">16.47</td>
+    <td align="right">11.20</td>
+    <td align="right">11.00</td>
+    <td align="right">16.66</td>
     <td align="center">4</td>
     <td align="right">3.3462</td>
-    <td align="right">3.83</td>
-    <td align="right">4.63</td>
-    <td align="right">4.49</td>
+    <td align="right">4.05</td>
+    <td align="right">4.80</td>
+    <td align="right">4.69</td>
     <td align="center">5</td>
     <td align="right">3.0448</td>
-    <td align="right">4.49</td>
-    <td align="right">5.19</td>
-    <td align="right">5.19</td>
+    <td align="right">4.78</td>
+    <td align="right">5.45</td>
+    <td align="right">5.50</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3146</td>
-    <td align="right">15.69</td>
-    <td align="right">15.37</td>
-    <td align="right">16.96</td>
+    <td align="right">16.05</td>
+    <td align="right">15.77</td>
+    <td align="right">17.18</td>
     <td align="center">5</td>
     <td align="right">1.0310</td>
-    <td align="right">4.29</td>
-    <td align="right">5.10</td>
-    <td align="right">4.96</td>
+    <td align="right">4.51</td>
+    <td align="right">5.35</td>
+    <td align="right">5.19</td>
     <td align="center">6</td>
     <td align="right">0.8244</td>
-    <td align="right">4.98</td>
-    <td align="right">5.78</td>
+    <td align="right">4.97</td>
     <td align="right">5.73</td>
+    <td align="right">5.75</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0456</td>
-    <td align="right">23.83</td>
-    <td align="right">24.82</td>
-    <td align="right">16.99</td>
+    <td align="right">20.61</td>
+    <td align="right">20.13</td>
+    <td align="right">16.96</td>
     <td align="center">6</td>
     <td align="right">0.4035</td>
-    <td align="right">5.46</td>
-    <td align="right">6.31</td>
-    <td align="right">6.13</td>
+    <td align="right">5.34</td>
+    <td align="right">6.16</td>
+    <td align="right">6.33</td>
     <td align="center">7</td>
     <td align="right">0.2885</td>
-    <td align="right">6.17</td>
-    <td align="right">7.83</td>
-    <td align="right">7.52</td>
+    <td align="right">6.28</td>
+    <td align="right">7.43</td>
+    <td align="right">7.41</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0066</td>
-    <td align="right">42.24</td>
-    <td align="right">39.92</td>
-    <td align="right">20.02</td>
+    <td align="right">32.88</td>
+    <td align="right">32.53</td>
+    <td align="right">17.38</td>
     <td align="center">7</td>
     <td align="right">0.1879</td>
-    <td align="right">8.79</td>
-    <td align="right">9.61</td>
-    <td align="right">15.23</td>
+    <td align="right">6.91</td>
+    <td align="right">7.47</td>
+    <td align="right">8.46</td>
     <td align="center">8</td>
     <td align="right">0.1185</td>
-    <td align="right">5.61</td>
-    <td align="right">6.20</td>
-    <td align="right">5.94</td>
+    <td align="right">4.48</td>
+    <td align="right">5.16</td>
+    <td align="right">5.17</td>
   </tr>
   <tr>
     <th></th>
@@ -1084,73 +1084,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4515</td>
-    <td align="right">3.53</td>
-    <td align="right">4.13</td>
-    <td align="right">4.10</td>
+    <td align="right">3.80</td>
+    <td align="right">4.43</td>
+    <td align="right">4.42</td>
     <td align="center">5</td>
     <td align="right">2.3208</td>
-    <td align="right">3.57</td>
-    <td align="right">3.95</td>
-    <td align="right">3.95</td>
+    <td align="right">3.87</td>
+    <td align="right">4.37</td>
+    <td align="right">4.43</td>
     <td align="center">5</td>
     <td align="right">2.7234</td>
-    <td align="right">3.03</td>
-    <td align="right">3.02</td>
-    <td align="right">3.04</td>
+    <td align="right">3.20</td>
+    <td align="right">3.23</td>
+    <td align="right">3.24</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4244</td>
-    <td align="right">3.03</td>
-    <td align="right">3.69</td>
-    <td align="right">3.66</td>
+    <td align="right">3.30</td>
+    <td align="right">3.95</td>
+    <td align="right">3.97</td>
     <td align="center">8</td>
     <td align="right">0.3758</td>
-    <td align="right">4.05</td>
-    <td align="right">4.18</td>
-    <td align="right">4.22</td>
+    <td align="right">4.24</td>
+    <td align="right">4.53</td>
+    <td align="right">4.72</td>
     <td align="center">8</td>
     <td align="right">0.5407</td>
-    <td align="right">2.47</td>
-    <td align="right">2.55</td>
-    <td align="right">2.55</td>
+    <td align="right">2.61</td>
+    <td align="right">2.78</td>
+    <td align="right">2.76</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0776</td>
-    <td align="right">7.07</td>
-    <td align="right">7.79</td>
-    <td align="right">7.99</td>
+    <td align="right">7.18</td>
+    <td align="right">7.95</td>
+    <td align="right">8.06</td>
     <td align="center">11</td>
     <td align="right">0.0641</td>
-    <td align="right">7.26</td>
+    <td align="right">7.74</td>
     <td align="right">8.07</td>
-    <td align="right">8.04</td>
+    <td align="right">7.90</td>
     <td align="center">11</td>
     <td align="right">0.1174</td>
     <td align="right">5.45</td>
-    <td align="right">5.85</td>
-    <td align="right">4.45</td>
+    <td align="right">5.63</td>
+    <td align="right">4.15</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0148</td>
-    <td align="right">9.10</td>
-    <td align="right">10.99</td>
-    <td align="right">10.58</td>
+    <td align="right">8.30</td>
+    <td align="right">9.39</td>
+    <td align="right">9.51</td>
     <td align="center">14</td>
     <td align="right">0.0120</td>
-    <td align="right">9.62</td>
-    <td align="right">11.68</td>
-    <td align="right">12.15</td>
+    <td align="right">8.71</td>
+    <td align="right">10.36</td>
+    <td align="right">10.27</td>
     <td align="center">13</td>
     <td align="right">0.0277</td>
-    <td align="right">7.77</td>
-    <td align="right">8.39</td>
-    <td align="right">7.29</td>
+    <td align="right">6.55</td>
+    <td align="right">7.16</td>
+    <td align="right">5.34</td>
   </tr>
   <tr>
     <th></th>
@@ -1180,73 +1180,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4625</td>
-    <td align="right">3.07</td>
-    <td align="right">2.92</td>
-    <td align="right">2.95</td>
+    <td align="right">3.24</td>
+    <td align="right">3.09</td>
+    <td align="right">3.14</td>
     <td align="center">5</td>
     <td align="right">2.4388</td>
-    <td align="right">4.18</td>
-    <td align="right">4.73</td>
-    <td align="right">4.71</td>
+    <td align="right">4.40</td>
+    <td align="right">5.03</td>
+    <td align="right">5.01</td>
     <td align="center">5</td>
     <td align="right">2.3198</td>
-    <td align="right">4.27</td>
-    <td align="right">4.60</td>
-    <td align="right">4.57</td>
+    <td align="right">4.49</td>
+    <td align="right">4.92</td>
+    <td align="right">4.91</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4428</td>
-    <td align="right">2.96</td>
-    <td align="right">2.79</td>
-    <td align="right">2.78</td>
+    <td align="right">3.20</td>
+    <td align="right">3.12</td>
+    <td align="right">3.17</td>
     <td align="center">8</td>
     <td align="right">0.4190</td>
-    <td align="right">3.20</td>
-    <td align="right">4.05</td>
-    <td align="right">4.13</td>
+    <td align="right">3.51</td>
+    <td align="right">4.43</td>
+    <td align="right">4.44</td>
     <td align="center">8</td>
     <td align="right">0.3747</td>
-    <td align="right">4.33</td>
-    <td align="right">4.53</td>
-    <td align="right">4.66</td>
+    <td align="right">4.52</td>
+    <td align="right">4.89</td>
+    <td align="right">5.09</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0866</td>
-    <td align="right">5.54</td>
-    <td align="right">5.62</td>
-    <td align="right">3.92</td>
+    <td align="right">5.51</td>
+    <td align="right">6.17</td>
+    <td align="right">4.63</td>
     <td align="center">11</td>
     <td align="right">0.0781</td>
-    <td align="right">6.62</td>
-    <td align="right">7.53</td>
-    <td align="right">5.91</td>
+    <td align="right">7.21</td>
+    <td align="right">8.10</td>
+    <td align="right">6.56</td>
     <td align="center">11</td>
     <td align="right">0.0651</td>
-    <td align="right">7.03</td>
-    <td align="right">7.61</td>
-    <td align="right">6.42</td>
+    <td align="right">7.18</td>
+    <td align="right">7.84</td>
+    <td align="right">6.33</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0180</td>
-    <td align="right">9.88</td>
-    <td align="right">9.24</td>
-    <td align="right">6.20</td>
+    <td align="right">7.41</td>
+    <td align="right">8.19</td>
+    <td align="right">5.61</td>
     <td align="center">13</td>
     <td align="right">0.0147</td>
-    <td align="right">10.04</td>
-    <td align="right">11.53</td>
-    <td align="right">8.07</td>
+    <td align="right">11.25</td>
+    <td align="right">11.03</td>
+    <td align="right">7.34</td>
     <td align="center">14</td>
     <td align="right">0.0112</td>
-    <td align="right">10.14</td>
-    <td align="right">11.20</td>
-    <td align="right">7.99</td>
+    <td align="right">9.44</td>
+    <td align="right">10.43</td>
+    <td align="right">7.82</td>
   </tr>
 </table>
 
@@ -1264,9 +1264,9 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">19.76</td>
-    <td align="right">4.32</td>
-    <td align="right">3.02</td>
+    <td align="right">24.97</td>
+    <td align="right">7.03</td>
+    <td align="right">4.11</td>
   </tr>
 </table>
 <table>
@@ -1298,73 +1298,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">6</td>
     <td align="right">2.1635</td>
-    <td align="right">7.35</td>
-    <td align="right">4.38</td>
-    <td align="right">11.90</td>
+    <td align="right">9.69</td>
+    <td align="right">5.74</td>
+    <td align="right">14.01</td>
     <td align="center">4</td>
     <td align="right">3.3525</td>
-    <td align="right">1.39</td>
-    <td align="right">1.26</td>
-    <td align="right">1.31</td>
+    <td align="right">2.47</td>
+    <td align="right">1.95</td>
+    <td align="right">1.55</td>
     <td align="center">5</td>
     <td align="right">3.0203</td>
-    <td align="right">1.74</td>
-    <td align="right">1.40</td>
-    <td align="right">1.40</td>
+    <td align="right">3.78</td>
+    <td align="right">2.13</td>
+    <td align="right">1.70</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3151</td>
-    <td align="right">9.44</td>
-    <td align="right">7.49</td>
-    <td align="right">12.88</td>
+    <td align="right">14.15</td>
+    <td align="right">7.78</td>
+    <td align="right">12.70</td>
     <td align="center">5</td>
     <td align="right">1.0369</td>
-    <td align="right">1.41</td>
-    <td align="right">1.49</td>
-    <td align="right">1.49</td>
+    <td align="right">2.87</td>
+    <td align="right">2.78</td>
+    <td align="right">1.77</td>
     <td align="center">6</td>
     <td align="right">0.8293</td>
-    <td align="right">1.80</td>
-    <td align="right">1.57</td>
-    <td align="right">1.56</td>
+    <td align="right">2.81</td>
+    <td align="right">2.20</td>
+    <td align="right">1.87</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0455</td>
-    <td align="right">14.72</td>
-    <td align="right">9.32</td>
-    <td align="right">12.07</td>
+    <td align="right">21.82</td>
+    <td align="right">11.30</td>
+    <td align="right">15.34</td>
     <td align="center">6</td>
     <td align="right">0.4138</td>
-    <td align="right">1.64</td>
-    <td align="right">1.66</td>
-    <td align="right">1.67</td>
+    <td align="right">2.19</td>
+    <td align="right">2.55</td>
+    <td align="right">1.72</td>
     <td align="center">7</td>
     <td align="right">0.2824</td>
-    <td align="right">1.82</td>
-    <td align="right">1.80</td>
-    <td align="right">1.76</td>
+    <td align="right">2.45</td>
+    <td align="right">2.14</td>
+    <td align="right">1.89</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0084</td>
-    <td align="right">15.54</td>
-    <td align="right">10.68</td>
-    <td align="right">11.22</td>
+    <td align="right">30.14</td>
+    <td align="right">13.63</td>
+    <td align="right">13.56</td>
     <td align="center">7</td>
     <td align="right">0.1936</td>
-    <td align="right">4.16</td>
-    <td align="right">2.08</td>
-    <td align="right">2.00</td>
+    <td align="right">2.42</td>
+    <td align="right">2.55</td>
+    <td align="right">2.29</td>
     <td align="center">8</td>
     <td align="right">0.1197</td>
-    <td align="right">1.93</td>
-    <td align="right">1.66</td>
-    <td align="right">1.77</td>
+    <td align="right">2.16</td>
+    <td align="right">2.04</td>
+    <td align="right">2.28</td>
   </tr>
   <tr>
     <th></th>
@@ -1394,73 +1394,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4274</td>
-    <td align="right">2.49</td>
-    <td align="right">3.62</td>
-    <td align="right">1.85</td>
+    <td align="right">2.67</td>
+    <td align="right">2.55</td>
+    <td align="right">2.83</td>
     <td align="center">5</td>
     <td align="right">2.3232</td>
-    <td align="right">2.40</td>
-    <td align="right">1.89</td>
-    <td align="right">1.93</td>
+    <td align="right">2.96</td>
+    <td align="right">2.22</td>
+    <td align="right">2.11</td>
     <td align="center">5</td>
     <td align="right">2.7402</td>
-    <td align="right">2.14</td>
-    <td align="right">1.89</td>
-    <td align="right">1.81</td>
+    <td align="right">2.61</td>
+    <td align="right">2.70</td>
+    <td align="right">2.40</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4244</td>
-    <td align="right">2.20</td>
-    <td align="right">2.88</td>
-    <td align="right">2.23</td>
+    <td align="right">2.89</td>
+    <td align="right">2.43</td>
+    <td align="right">2.86</td>
     <td align="center">8</td>
     <td align="right">0.3758</td>
-    <td align="right">3.02</td>
-    <td align="right">2.39</td>
-    <td align="right">2.29</td>
+    <td align="right">3.35</td>
+    <td align="right">3.04</td>
+    <td align="right">2.54</td>
     <td align="center">8</td>
     <td align="right">0.5360</td>
-    <td align="right">1.70</td>
-    <td align="right">1.51</td>
-    <td align="right">1.44</td>
+    <td align="right">1.74</td>
+    <td align="right">1.95</td>
+    <td align="right">1.85</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0782</td>
-    <td align="right">4.17</td>
-    <td align="right">3.13</td>
-    <td align="right">3.14</td>
+    <td align="right">5.28</td>
+    <td align="right">4.39</td>
+    <td align="right">3.42</td>
     <td align="center">11</td>
     <td align="right">0.0581</td>
-    <td align="right">4.38</td>
-    <td align="right">3.19</td>
-    <td align="right">3.19</td>
+    <td align="right">4.85</td>
+    <td align="right">5.10</td>
+    <td align="right">5.96</td>
     <td align="center">11</td>
     <td align="right">0.1169</td>
-    <td align="right">3.21</td>
-    <td align="right">2.70</td>
-    <td align="right">1.93</td>
+    <td align="right">4.06</td>
+    <td align="right">3.41</td>
+    <td align="right">2.41</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0132</td>
-    <td align="right">5.15</td>
-    <td align="right">4.23</td>
-    <td align="right">4.13</td>
+    <td align="right">7.17</td>
+    <td align="right">6.34</td>
+    <td align="right">5.55</td>
     <td align="center">14</td>
     <td align="right">0.0131</td>
-    <td align="right">5.22</td>
-    <td align="right">4.20</td>
-    <td align="right">4.21</td>
+    <td align="right">7.13</td>
+    <td align="right">5.82</td>
+    <td align="right">5.61</td>
     <td align="center">13</td>
     <td align="right">0.0280</td>
-    <td align="right">3.19</td>
-    <td align="right">3.17</td>
-    <td align="right">1.83</td>
+    <td align="right">5.28</td>
+    <td align="right">3.71</td>
+    <td align="right">3.10</td>
   </tr>
   <tr>
     <th></th>
@@ -1490,73 +1490,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4803</td>
-    <td align="right">2.13</td>
-    <td align="right">1.85</td>
-    <td align="right">1.88</td>
+    <td align="right">4.11</td>
+    <td align="right">3.04</td>
+    <td align="right">2.25</td>
     <td align="center">5</td>
     <td align="right">2.4274</td>
-    <td align="right">2.48</td>
-    <td align="right">1.84</td>
-    <td align="right">1.82</td>
+    <td align="right">3.04</td>
+    <td align="right">2.12</td>
+    <td align="right">1.87</td>
     <td align="center">5</td>
     <td align="right">2.3232</td>
-    <td align="right">2.51</td>
-    <td align="right">1.89</td>
-    <td align="right">1.87</td>
+    <td align="right">3.25</td>
+    <td align="right">2.12</td>
+    <td align="right">1.98</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4455</td>
-    <td align="right">2.36</td>
-    <td align="right">1.73</td>
-    <td align="right">1.74</td>
+    <td align="right">2.40</td>
+    <td align="right">1.75</td>
+    <td align="right">2.39</td>
     <td align="center">8</td>
     <td align="right">0.4244</td>
-    <td align="right">2.46</td>
-    <td align="right">2.08</td>
-    <td align="right">2.08</td>
+    <td align="right">4.37</td>
+    <td align="right">3.53</td>
+    <td align="right">2.58</td>
     <td align="center">8</td>
     <td align="right">0.3758</td>
-    <td align="right">2.98</td>
-    <td align="right">2.35</td>
-    <td align="right">2.47</td>
+    <td align="right">3.18</td>
+    <td align="right">2.62</td>
+    <td align="right">3.39</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0840</td>
-    <td align="right">3.16</td>
-    <td align="right">2.45</td>
-    <td align="right">1.92</td>
+    <td align="right">4.97</td>
+    <td align="right">3.28</td>
+    <td align="right">2.42</td>
     <td align="center">11</td>
     <td align="right">0.0782</td>
-    <td align="right">4.41</td>
-    <td align="right">2.93</td>
-    <td align="right">3.06</td>
+    <td align="right">5.53</td>
+    <td align="right">3.58</td>
+    <td align="right">3.88</td>
     <td align="center">11</td>
     <td align="right">0.0581</td>
-    <td align="right">4.69</td>
-    <td align="right">3.10</td>
-    <td align="right">3.03</td>
+    <td align="right">5.59</td>
+    <td align="right">4.33</td>
+    <td align="right">5.88</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0183</td>
-    <td align="right">2.94</td>
-    <td align="right">2.85</td>
-    <td align="right">1.75</td>
+    <td align="right">5.34</td>
+    <td align="right">5.69</td>
+    <td align="right">2.73</td>
     <td align="center">13</td>
     <td align="right">0.0132</td>
-    <td align="right">6.98</td>
-    <td align="right">3.76</td>
-    <td align="right">4.11</td>
+    <td align="right">8.78</td>
+    <td align="right">5.03</td>
+    <td align="right">6.32</td>
     <td align="center">14</td>
     <td align="right">0.0131</td>
-    <td align="right">4.92</td>
-    <td align="right">3.81</td>
-    <td align="right">3.78</td>
+    <td align="right">7.88</td>
+    <td align="right">6.85</td>
+    <td align="right">5.21</td>
   </tr>
 </table>
 
@@ -1569,9 +1569,9 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">28.50</td>
-    <td align="right">13.79</td>
-    <td align="right">8.01</td>
+    <td align="right">36.72</td>
+    <td align="right">19.28</td>
+    <td align="right">10.52</td>
   </tr>
 </table>
 <table>
@@ -1603,73 +1603,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">6</td>
     <td align="right">2.1566</td>
-    <td align="right">9.56</td>
-    <td align="right">7.92</td>
-    <td align="right">17.75</td>
+    <td align="right">14.28</td>
+    <td align="right">14.33</td>
+    <td align="right">25.91</td>
     <td align="center">4</td>
     <td align="right">3.3462</td>
-    <td align="right">1.95</td>
-    <td align="right">3.56</td>
-    <td align="right">3.32</td>
+    <td align="right">4.22</td>
+    <td align="right">5.75</td>
+    <td align="right">5.28</td>
     <td align="center">5</td>
     <td align="right">3.0448</td>
-    <td align="right">2.78</td>
-    <td align="right">2.83</td>
-    <td align="right">2.85</td>
+    <td align="right">4.54</td>
+    <td align="right">5.58</td>
+    <td align="right">5.23</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3146</td>
-    <td align="right">23.43</td>
-    <td align="right">21.49</td>
-    <td align="right">22.68</td>
+    <td align="right">44.61</td>
+    <td align="right">35.80</td>
+    <td align="right">30.28</td>
     <td align="center">5</td>
     <td align="right">1.0310</td>
-    <td align="right">5.86</td>
-    <td align="right">6.51</td>
-    <td align="right">4.65</td>
+    <td align="right">9.05</td>
+    <td align="right">9.33</td>
+    <td align="right">9.36</td>
     <td align="center">6</td>
     <td align="right">0.8244</td>
-    <td align="right">5.33</td>
-    <td align="right">5.76</td>
-    <td align="right">5.96</td>
+    <td align="right">9.70</td>
+    <td align="right">10.20</td>
+    <td align="right">9.55</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0456</td>
-    <td align="right">40.51</td>
-    <td align="right">32.73</td>
-    <td align="right">22.26</td>
+    <td align="right">63.19</td>
+    <td align="right">54.92</td>
+    <td align="right">32.10</td>
     <td align="center">6</td>
     <td align="right">0.4035</td>
-    <td align="right">8.98</td>
-    <td align="right">8.13</td>
-    <td align="right">7.84</td>
+    <td align="right">12.90</td>
+    <td align="right">12.93</td>
+    <td align="right">11.27</td>
     <td align="center">7</td>
     <td align="right">0.2885</td>
-    <td align="right">9.18</td>
-    <td align="right">9.25</td>
-    <td align="right">8.74</td>
+    <td align="right">14.37</td>
+    <td align="right">11.59</td>
+    <td align="right">12.40</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0066</td>
-    <td align="right">67.35</td>
-    <td align="right">50.68</td>
-    <td align="right">24.76</td>
+    <td align="right">98.71</td>
+    <td align="right">69.48</td>
+    <td align="right">31.41</td>
     <td align="center">7</td>
     <td align="right">0.1879</td>
-    <td align="right">9.51</td>
-    <td align="right">10.22</td>
-    <td align="right">9.37</td>
+    <td align="right">16.05</td>
+    <td align="right">14.36</td>
+    <td align="right">14.10</td>
     <td align="center">8</td>
     <td align="right">0.1185</td>
-    <td align="right">8.18</td>
-    <td align="right">7.94</td>
-    <td align="right">7.73</td>
+    <td align="right">13.67</td>
+    <td align="right">12.08</td>
+    <td align="right">12.02</td>
   </tr>
   <tr>
     <th></th>
@@ -1699,73 +1699,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4515</td>
-    <td align="right">3.04</td>
-    <td align="right">2.81</td>
-    <td align="right">3.48</td>
+    <td align="right">5.54</td>
+    <td align="right">5.50</td>
+    <td align="right">6.86</td>
     <td align="center">5</td>
     <td align="right">2.3208</td>
-    <td align="right">3.48</td>
-    <td align="right">3.91</td>
-    <td align="right">3.67</td>
+    <td align="right">5.28</td>
+    <td align="right">5.29</td>
+    <td align="right">6.54</td>
     <td align="center">5</td>
     <td align="right">2.7234</td>
-    <td align="right">3.06</td>
-    <td align="right">3.46</td>
-    <td align="right">3.47</td>
+    <td align="right">4.56</td>
+    <td align="right">7.05</td>
+    <td align="right">7.92</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4244</td>
-    <td align="right">7.57</td>
-    <td align="right">7.39</td>
-    <td align="right">7.99</td>
+    <td align="right">11.31</td>
+    <td align="right">11.69</td>
+    <td align="right">12.44</td>
     <td align="center">8</td>
     <td align="right">0.3758</td>
-    <td align="right">6.95</td>
-    <td align="right">8.08</td>
-    <td align="right">9.22</td>
+    <td align="right">10.96</td>
+    <td align="right">11.77</td>
+    <td align="right">13.56</td>
     <td align="center">8</td>
     <td align="right">0.5407</td>
-    <td align="right">2.73</td>
-    <td align="right">6.67</td>
-    <td align="right">6.46</td>
+    <td align="right">7.66</td>
+    <td align="right">8.53</td>
+    <td align="right">8.45</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0776</td>
-    <td align="right">15.16</td>
-    <td align="right">9.92</td>
-    <td align="right">11.60</td>
+    <td align="right">22.28</td>
+    <td align="right">15.68</td>
+    <td align="right">16.53</td>
     <td align="center">11</td>
     <td align="right">0.0641</td>
-    <td align="right">15.35</td>
-    <td align="right">12.67</td>
-    <td align="right">11.48</td>
+    <td align="right">22.16</td>
+    <td align="right">17.81</td>
+    <td align="right">17.43</td>
     <td align="center">11</td>
     <td align="right">0.1174</td>
-    <td align="right">10.85</td>
-    <td align="right">10.72</td>
-    <td align="right">7.26</td>
+    <td align="right">16.15</td>
+    <td align="right">18.26</td>
+    <td align="right">9.81</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0148</td>
-    <td align="right">17.77</td>
-    <td align="right">17.05</td>
-    <td align="right">18.43</td>
+    <td align="right">25.84</td>
+    <td align="right">20.89</td>
+    <td align="right">19.44</td>
     <td align="center">14</td>
     <td align="right">0.0120</td>
-    <td align="right">20.02</td>
-    <td align="right">17.36</td>
-    <td align="right">17.71</td>
+    <td align="right">14.76</td>
+    <td align="right">13.97</td>
+    <td align="right">13.95</td>
     <td align="center">13</td>
     <td align="right">0.0277</td>
-    <td align="right">11.06</td>
-    <td align="right">13.68</td>
-    <td align="right">8.15</td>
+    <td align="right">9.55</td>
+    <td align="right">10.39</td>
+    <td align="right">7.72</td>
   </tr>
   <tr>
     <th></th>
@@ -1795,73 +1795,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4625</td>
-    <td align="right">3.24</td>
-    <td align="right">4.32</td>
-    <td align="right">3.19</td>
+    <td align="right">2.53</td>
+    <td align="right">2.60</td>
+    <td align="right">3.13</td>
     <td align="center">5</td>
     <td align="right">2.4515</td>
-    <td align="right">3.67</td>
-    <td align="right">4.58</td>
-    <td align="right">4.33</td>
+    <td align="right">2.76</td>
+    <td align="right">2.60</td>
+    <td align="right">2.60</td>
     <td align="center">5</td>
     <td align="right">2.3208</td>
-    <td align="right">3.24</td>
-    <td align="right">4.29</td>
-    <td align="right">4.17</td>
+    <td align="right">2.80</td>
+    <td align="right">2.65</td>
+    <td align="right">2.83</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4428</td>
+    <td align="right">2.90</td>
     <td align="right">5.93</td>
-    <td align="right">5.95</td>
-    <td align="right">4.54</td>
+    <td align="right">5.20</td>
     <td align="center">8</td>
     <td align="right">0.4244</td>
-    <td align="right">7.68</td>
-    <td align="right">8.47</td>
-    <td align="right">9.15</td>
+    <td align="right">5.56</td>
+    <td align="right">4.82</td>
+    <td align="right">7.76</td>
     <td align="center">8</td>
     <td align="right">0.3758</td>
-    <td align="right">4.12</td>
-    <td align="right">4.68</td>
-    <td align="right">4.52</td>
+    <td align="right">5.36</td>
+    <td align="right">7.89</td>
+    <td align="right">12.23</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0866</td>
-    <td align="right">7.36</td>
-    <td align="right">7.47</td>
-    <td align="right">5.01</td>
+    <td align="right">12.93</td>
+    <td align="right">10.39</td>
+    <td align="right">7.50</td>
     <td align="center">11</td>
     <td align="right">0.0776</td>
-    <td align="right">9.48</td>
-    <td align="right">8.73</td>
-    <td align="right">8.70</td>
+    <td align="right">10.48</td>
+    <td align="right">8.97</td>
+    <td align="right">8.90</td>
     <td align="center">11</td>
     <td align="right">0.0641</td>
-    <td align="right">9.46</td>
-    <td align="right">8.53</td>
-    <td align="right">8.50</td>
+    <td align="right">9.70</td>
+    <td align="right">10.65</td>
+    <td align="right">8.75</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0180</td>
-    <td align="right">9.46</td>
-    <td align="right">10.42</td>
-    <td align="right">5.96</td>
+    <td align="right">9.60</td>
+    <td align="right">10.37</td>
+    <td align="right">7.11</td>
     <td align="center">13</td>
     <td align="right">0.0148</td>
-    <td align="right">14.29</td>
-    <td align="right">13.25</td>
-    <td align="right">13.52</td>
+    <td align="right">14.59</td>
+    <td align="right">13.48</td>
+    <td align="right">13.71</td>
     <td align="center">14</td>
     <td align="right">0.0120</td>
-    <td align="right">15.82</td>
-    <td align="right">13.63</td>
-    <td align="right">13.47</td>
+    <td align="right">14.89</td>
+    <td align="right">13.92</td>
+    <td align="right">14.99</td>
   </tr>
 </table>
 
@@ -1879,9 +1879,9 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">36.61</td>
-    <td align="right">5.68</td>
-    <td align="right">3.88</td>
+    <td align="right">35.38</td>
+    <td align="right">5.62</td>
+    <td align="right">3.71</td>
   </tr>
 </table>
 <table>
@@ -1913,73 +1913,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">6</td>
     <td align="right">2.1635</td>
-    <td align="right">12.23</td>
-    <td align="right">12.43</td>
-    <td align="right">16.99</td>
+    <td align="right">12.04</td>
+    <td align="right">12.37</td>
+    <td align="right">16.95</td>
     <td align="center">4</td>
     <td align="right">3.3525</td>
-    <td align="right">5.85</td>
-    <td align="right">4.30</td>
-    <td align="right">4.31</td>
+    <td align="right">5.82</td>
+    <td align="right">4.40</td>
+    <td align="right">4.28</td>
     <td align="center">5</td>
     <td align="right">3.0203</td>
-    <td align="right">7.01</td>
-    <td align="right">5.36</td>
-    <td align="right">5.22</td>
+    <td align="right">6.97</td>
+    <td align="right">5.28</td>
+    <td align="right">5.24</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3151</td>
-    <td align="right">18.77</td>
-    <td align="right">17.78</td>
-    <td align="right">17.61</td>
+    <td align="right">18.34</td>
+    <td align="right">17.76</td>
+    <td align="right">17.59</td>
     <td align="center">5</td>
     <td align="right">1.0369</td>
-    <td align="right">6.96</td>
-    <td align="right">4.77</td>
-    <td align="right">4.78</td>
+    <td align="right">6.90</td>
+    <td align="right">4.92</td>
+    <td align="right">4.76</td>
     <td align="center">6</td>
     <td align="right">0.8293</td>
-    <td align="right">8.00</td>
-    <td align="right">5.92</td>
-    <td align="right">5.96</td>
+    <td align="right">8.02</td>
+    <td align="right">5.97</td>
+    <td align="right">5.93</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0455</td>
-    <td align="right">23.64</td>
-    <td align="right">21.33</td>
-    <td align="right">16.73</td>
+    <td align="right">23.60</td>
+    <td align="right">21.48</td>
+    <td align="right">16.72</td>
     <td align="center">6</td>
     <td align="right">0.4138</td>
-    <td align="right">8.59</td>
-    <td align="right">5.34</td>
-    <td align="right">5.41</td>
+    <td align="right">8.57</td>
+    <td align="right">5.35</td>
+    <td align="right">5.31</td>
     <td align="center">7</td>
     <td align="right">0.2824</td>
-    <td align="right">9.37</td>
-    <td align="right">6.56</td>
-    <td align="right">6.61</td>
+    <td align="right">9.34</td>
+    <td align="right">6.55</td>
+    <td align="right">6.58</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0084</td>
-    <td align="right">31.12</td>
-    <td align="right">27.63</td>
-    <td align="right">17.32</td>
+    <td align="right">31.15</td>
+    <td align="right">27.65</td>
+    <td align="right">17.27</td>
     <td align="center">7</td>
     <td align="right">0.1936</td>
-    <td align="right">9.90</td>
+    <td align="right">9.91</td>
     <td align="right">5.91</td>
-    <td align="right">5.96</td>
+    <td align="right">5.93</td>
     <td align="center">8</td>
     <td align="right">0.1197</td>
     <td align="right">10.45</td>
-    <td align="right">7.45</td>
-    <td align="right">7.47</td>
+    <td align="right">7.39</td>
+    <td align="right">7.38</td>
   </tr>
   <tr>
     <th></th>
@@ -2009,73 +2009,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4274</td>
-    <td align="right">8.01</td>
-    <td align="right">5.62</td>
-    <td align="right">5.60</td>
+    <td align="right">7.93</td>
+    <td align="right">5.56</td>
+    <td align="right">5.57</td>
     <td align="center">5</td>
     <td align="right">2.3232</td>
-    <td align="right">9.24</td>
-    <td align="right">5.66</td>
-    <td align="right">5.72</td>
+    <td align="right">11.69</td>
+    <td align="right">5.61</td>
+    <td align="right">5.62</td>
     <td align="center">5</td>
     <td align="right">2.7402</td>
-    <td align="right">3.41</td>
-    <td align="right">3.98</td>
-    <td align="right">3.97</td>
+    <td align="right">3.40</td>
+    <td align="right">3.96</td>
+    <td align="right">3.96</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4244</td>
-    <td align="right">12.12</td>
-    <td align="right">8.54</td>
-    <td align="right">8.58</td>
+    <td align="right">12.11</td>
+    <td align="right">8.52</td>
+    <td align="right">8.49</td>
     <td align="center">8</td>
     <td align="right">0.3758</td>
-    <td align="right">16.33</td>
-    <td align="right">8.07</td>
-    <td align="right">7.95</td>
+    <td align="right">15.29</td>
+    <td align="right">7.86</td>
+    <td align="right">7.88</td>
     <td align="center">8</td>
     <td align="right">0.5360</td>
-    <td align="right">2.87</td>
-    <td align="right">4.91</td>
-    <td align="right">4.18</td>
+    <td align="right">2.89</td>
+    <td align="right">4.86</td>
+    <td align="right">4.12</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0782</td>
-    <td align="right">15.45</td>
-    <td align="right">11.20</td>
-    <td align="right">11.05</td>
+    <td align="right">15.23</td>
+    <td align="right">10.94</td>
+    <td align="right">11.03</td>
     <td align="center">11</td>
     <td align="right">0.0581</td>
-    <td align="right">15.96</td>
-    <td align="right">10.70</td>
-    <td align="right">10.77</td>
+    <td align="right">16.09</td>
+    <td align="right">10.46</td>
+    <td align="right">10.74</td>
     <td align="center">11</td>
     <td align="right">0.1169</td>
-    <td align="right">5.09</td>
-    <td align="right">7.12</td>
-    <td align="right">5.39</td>
+    <td align="right">4.98</td>
+    <td align="right">7.01</td>
+    <td align="right">5.28</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0132</td>
-    <td align="right">16.77</td>
-    <td align="right">14.11</td>
-    <td align="right">14.29</td>
+    <td align="right">16.59</td>
+    <td align="right">13.96</td>
+    <td align="right">13.91</td>
     <td align="center">14</td>
     <td align="right">0.0131</td>
-    <td align="right">19.38</td>
-    <td align="right">13.57</td>
-    <td align="right">13.64</td>
+    <td align="right">18.85</td>
+    <td align="right">13.50</td>
+    <td align="right">13.56</td>
     <td align="center">13</td>
     <td align="right">0.0280</td>
     <td align="right">5.08</td>
-    <td align="right">7.11</td>
-    <td align="right">5.41</td>
+    <td align="right">7.20</td>
+    <td align="right">5.32</td>
   </tr>
   <tr>
     <th></th>
@@ -2106,72 +2106,72 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">5</td>
     <td align="right">2.4803</td>
     <td align="right">3.27</td>
-    <td align="right">3.88</td>
-    <td align="right">3.90</td>
+    <td align="right">3.91</td>
+    <td align="right">3.91</td>
     <td align="center">5</td>
     <td align="right">2.4404</td>
     <td align="right">4.51</td>
-    <td align="right">5.47</td>
-    <td align="right">5.55</td>
+    <td align="right">5.53</td>
+    <td align="right">5.54</td>
     <td align="center">5</td>
     <td align="right">2.3234</td>
-    <td align="right">4.74</td>
-    <td align="right">5.53</td>
-    <td align="right">5.47</td>
+    <td align="right">4.64</td>
+    <td align="right">5.52</td>
+    <td align="right">5.52</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4455</td>
-    <td align="right">3.29</td>
-    <td align="right">5.58</td>
-    <td align="right">4.75</td>
+    <td align="right">3.30</td>
+    <td align="right">5.54</td>
+    <td align="right">4.66</td>
     <td align="center">8</td>
     <td align="right">0.4197</td>
-    <td align="right">4.73</td>
-    <td align="right">5.81</td>
-    <td align="right">5.05</td>
+    <td align="right">4.77</td>
+    <td align="right">5.77</td>
+    <td align="right">5.02</td>
     <td align="center">8</td>
     <td align="right">0.3827</td>
-    <td align="right">6.96</td>
-    <td align="right">7.08</td>
-    <td align="right">6.22</td>
+    <td align="right">6.92</td>
+    <td align="right">7.02</td>
+    <td align="right">6.21</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0840</td>
-    <td align="right">5.10</td>
-    <td align="right">6.97</td>
-    <td align="right">5.06</td>
+    <td align="right">5.09</td>
+    <td align="right">6.86</td>
+    <td align="right">5.12</td>
     <td align="center">11</td>
     <td align="right">0.0761</td>
-    <td align="right">10.04</td>
-    <td align="right">9.46</td>
-    <td align="right">7.55</td>
+    <td align="right">9.99</td>
+    <td align="right">9.35</td>
+    <td align="right">7.54</td>
     <td align="center">11</td>
     <td align="right">0.0629</td>
-    <td align="right">9.59</td>
-    <td align="right">9.31</td>
-    <td align="right">7.53</td>
+    <td align="right">9.63</td>
+    <td align="right">9.23</td>
+    <td align="right">7.47</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0183</td>
-    <td align="right">5.18</td>
-    <td align="right">6.94</td>
-    <td align="right">5.07</td>
+    <td align="right">5.13</td>
+    <td align="right">6.91</td>
+    <td align="right">5.05</td>
     <td align="center">13</td>
     <td align="right">0.0154</td>
-    <td align="right">10.38</td>
-    <td align="right">10.62</td>
-    <td align="right">7.58</td>
+    <td align="right">10.36</td>
+    <td align="right">10.72</td>
+    <td align="right">7.80</td>
     <td align="center">14</td>
     <td align="right">0.0121</td>
-    <td align="right">10.24</td>
-    <td align="right">10.29</td>
-    <td align="right">7.40</td>
+    <td align="right">10.31</td>
+    <td align="right">10.50</td>
+    <td align="right">7.58</td>
   </tr>
 </table>
 
@@ -2184,9 +2184,9 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">46.11</td>
-    <td align="right">23.31</td>
-    <td align="right">9.69</td>
+    <td align="right">43.04</td>
+    <td align="right">21.32</td>
+    <td align="right">7.82</td>
   </tr>
 </table>
 <table>
@@ -2218,73 +2218,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">6</td>
     <td align="right">2.1566</td>
-    <td align="right">14.84</td>
-    <td align="right">13.05</td>
-    <td align="right">17.91</td>
+    <td align="right">14.54</td>
+    <td align="right">13.15</td>
+    <td align="right">17.73</td>
     <td align="center">4</td>
     <td align="right">3.3462</td>
-    <td align="right">7.06</td>
-    <td align="right">4.49</td>
-    <td align="right">4.50</td>
+    <td align="right">9.03</td>
+    <td align="right">4.93</td>
+    <td align="right">4.87</td>
     <td align="center">5</td>
     <td align="right">3.0448</td>
-    <td align="right">8.11</td>
-    <td align="right">5.74</td>
-    <td align="right">5.85</td>
+    <td align="right">8.03</td>
+    <td align="right">5.61</td>
+    <td align="right">5.61</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3146</td>
-    <td align="right">25.18</td>
-    <td align="right">20.59</td>
-    <td align="right">18.58</td>
+    <td align="right">22.68</td>
+    <td align="right">19.51</td>
+    <td align="right">18.67</td>
     <td align="center">5</td>
     <td align="right">1.0310</td>
-    <td align="right">9.13</td>
-    <td align="right">5.44</td>
-    <td align="right">5.50</td>
+    <td align="right">8.92</td>
+    <td align="right">5.19</td>
+    <td align="right">5.38</td>
     <td align="center">6</td>
     <td align="right">0.8244</td>
-    <td align="right">10.50</td>
-    <td align="right">7.77</td>
-    <td align="right">6.62</td>
+    <td align="right">9.53</td>
+    <td align="right">6.60</td>
+    <td align="right">6.68</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0456</td>
-    <td align="right">36.55</td>
-    <td align="right">39.31</td>
-    <td align="right">19.46</td>
+    <td align="right">38.62</td>
+    <td align="right">38.87</td>
+    <td align="right">19.40</td>
     <td align="center">6</td>
     <td align="right">0.4035</td>
-    <td align="right">13.40</td>
-    <td align="right">7.31</td>
-    <td align="right">7.28</td>
+    <td align="right">12.44</td>
+    <td align="right">8.77</td>
+    <td align="right">7.61</td>
     <td align="center">7</td>
     <td align="right">0.2885</td>
-    <td align="right">12.04</td>
-    <td align="right">8.91</td>
-    <td align="right">14.47</td>
+    <td align="right">14.32</td>
+    <td align="right">9.04</td>
+    <td align="right">9.96</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0066</td>
-    <td align="right">83.30</td>
-    <td align="right">83.93</td>
-    <td align="right">24.98</td>
+    <td align="right">72.47</td>
+    <td align="right">84.12</td>
+    <td align="right">27.22</td>
     <td align="center">7</td>
     <td align="right">0.1879</td>
-    <td align="right">16.31</td>
-    <td align="right">12.64</td>
-    <td align="right">15.82</td>
+    <td align="right">21.52</td>
+    <td align="right">15.42</td>
+    <td align="right">12.84</td>
     <td align="center">8</td>
     <td align="right">0.1185</td>
-    <td align="right">20.81</td>
-    <td align="right">15.83</td>
-    <td align="right">15.73</td>
+    <td align="right">19.01</td>
+    <td align="right">17.41</td>
+    <td align="right">21.04</td>
   </tr>
   <tr>
     <th></th>
@@ -2314,73 +2314,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4515</td>
-    <td align="right">9.50</td>
-    <td align="right">6.31</td>
-    <td align="right">6.39</td>
+    <td align="right">9.49</td>
+    <td align="right">6.45</td>
+    <td align="right">6.34</td>
     <td align="center">5</td>
     <td align="right">2.3208</td>
-    <td align="right">9.61</td>
-    <td align="right">6.45</td>
-    <td align="right">6.43</td>
+    <td align="right">9.65</td>
+    <td align="right">6.39</td>
+    <td align="right">6.34</td>
     <td align="center">5</td>
     <td align="right">2.7234</td>
-    <td align="right">3.78</td>
-    <td align="right">4.27</td>
-    <td align="right">4.26</td>
+    <td align="right">3.80</td>
+    <td align="right">4.31</td>
+    <td align="right">4.31</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4244</td>
-    <td align="right">15.75</td>
-    <td align="right">10.51</td>
-    <td align="right">11.30</td>
+    <td align="right">15.82</td>
+    <td align="right">10.82</td>
+    <td align="right">10.65</td>
     <td align="center">8</td>
     <td align="right">0.3758</td>
-    <td align="right">20.97</td>
-    <td align="right">9.03</td>
-    <td align="right">9.37</td>
+    <td align="right">17.04</td>
+    <td align="right">9.18</td>
+    <td align="right">8.98</td>
     <td align="center">8</td>
     <td align="right">0.5407</td>
-    <td align="right">3.52</td>
-    <td align="right">6.14</td>
-    <td align="right">4.50</td>
+    <td align="right">3.44</td>
+    <td align="right">6.00</td>
+    <td align="right">5.25</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0776</td>
-    <td align="right">25.58</td>
-    <td align="right">20.31</td>
-    <td align="right">18.44</td>
+    <td align="right">24.23</td>
+    <td align="right">16.06</td>
+    <td align="right">15.70</td>
     <td align="center">11</td>
     <td align="right">0.0641</td>
-    <td align="right">27.35</td>
-    <td align="right">15.24</td>
-    <td align="right">19.41</td>
+    <td align="right">22.80</td>
+    <td align="right">16.25</td>
+    <td align="right">16.10</td>
     <td align="center">11</td>
     <td align="right">0.1174</td>
-    <td align="right">10.92</td>
-    <td align="right">14.32</td>
-    <td align="right">12.54</td>
+    <td align="right">8.26</td>
+    <td align="right">13.83</td>
+    <td align="right">8.58</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0148</td>
-    <td align="right">34.78</td>
-    <td align="right">30.36</td>
-    <td align="right">33.15</td>
+    <td align="right">30.21</td>
+    <td align="right">26.56</td>
+    <td align="right">26.57</td>
     <td align="center">14</td>
     <td align="right">0.0120</td>
-    <td align="right">38.87</td>
-    <td align="right">28.78</td>
-    <td align="right">25.22</td>
+    <td align="right">40.02</td>
+    <td align="right">30.23</td>
+    <td align="right">25.73</td>
     <td align="center">13</td>
     <td align="right">0.0277</td>
-    <td align="right">14.16</td>
-    <td align="right">19.46</td>
-    <td align="right">13.75</td>
+    <td align="right">12.23</td>
+    <td align="right">18.75</td>
+    <td align="right">15.72</td>
   </tr>
   <tr>
     <th></th>
@@ -2410,73 +2410,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4625</td>
-    <td align="right">3.67</td>
-    <td align="right">4.18</td>
-    <td align="right">4.23</td>
+    <td align="right">3.63</td>
+    <td align="right">4.16</td>
+    <td align="right">4.19</td>
     <td align="center">5</td>
     <td align="right">2.4388</td>
-    <td align="right">5.06</td>
-    <td align="right">6.17</td>
-    <td align="right">5.96</td>
+    <td align="right">5.05</td>
+    <td align="right">5.89</td>
+    <td align="right">5.91</td>
     <td align="center">5</td>
     <td align="right">2.3198</td>
-    <td align="right">5.12</td>
-    <td align="right">5.82</td>
-    <td align="right">5.86</td>
+    <td align="right">5.17</td>
+    <td align="right">5.91</td>
+    <td align="right">5.91</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4428</td>
-    <td align="right">3.86</td>
-    <td align="right">6.11</td>
-    <td align="right">5.10</td>
+    <td align="right">3.94</td>
+    <td align="right">6.35</td>
+    <td align="right">6.55</td>
     <td align="center">8</td>
     <td align="right">0.4190</td>
-    <td align="right">5.78</td>
-    <td align="right">8.72</td>
-    <td align="right">7.16</td>
+    <td align="right">5.31</td>
+    <td align="right">6.41</td>
+    <td align="right">5.79</td>
     <td align="center">8</td>
     <td align="right">0.3747</td>
-    <td align="right">7.77</td>
-    <td align="right">7.71</td>
-    <td align="right">6.91</td>
+    <td align="right">7.96</td>
+    <td align="right">9.05</td>
+    <td align="right">7.86</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0866</td>
-    <td align="right">6.94</td>
-    <td align="right">8.87</td>
-    <td align="right">8.60</td>
+    <td align="right">8.75</td>
+    <td align="right">12.52</td>
+    <td align="right">7.68</td>
     <td align="center">11</td>
     <td align="right">0.0781</td>
-    <td align="right">12.55</td>
-    <td align="right">11.10</td>
-    <td align="right">9.40</td>
+    <td align="right">12.61</td>
+    <td align="right">12.86</td>
+    <td align="right">9.89</td>
     <td align="center">11</td>
     <td align="right">0.0651</td>
-    <td align="right">12.32</td>
-    <td align="right">15.23</td>
-    <td align="right">15.45</td>
+    <td align="right">11.49</td>
+    <td align="right">12.06</td>
+    <td align="right">9.65</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0180</td>
-    <td align="right">12.22</td>
-    <td align="right">16.96</td>
-    <td align="right">14.46</td>
+    <td align="right">12.33</td>
+    <td align="right">17.88</td>
+    <td align="right">14.80</td>
     <td align="center">13</td>
     <td align="right">0.0147</td>
-    <td align="right">18.56</td>
-    <td align="right">24.02</td>
-    <td align="right">18.81</td>
+    <td align="right">18.13</td>
+    <td align="right">23.13</td>
+    <td align="right">14.86</td>
     <td align="center">14</td>
     <td align="right">0.0112</td>
-    <td align="right">23.05</td>
-    <td align="right">21.37</td>
-    <td align="right">14.28</td>
+    <td align="right">17.81</td>
+    <td align="right">20.09</td>
+    <td align="right">13.38</td>
   </tr>
 </table>
 
@@ -2494,9 +2494,9 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">61.39</td>
-    <td align="right">29.87</td>
-    <td align="right">13.56</td>
+    <td align="right">62.05</td>
+    <td align="right">30.13</td>
+    <td align="right">14.17</td>
   </tr>
 </table>
 <table>
@@ -2528,73 +2528,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">6</td>
     <td align="right">2.1546</td>
-    <td align="right">27.34</td>
-    <td align="right">41.68</td>
-    <td align="right">36.29</td>
+    <td align="right">27.48</td>
+    <td align="right">42.11</td>
+    <td align="right">36.64</td>
     <td align="center">4</td>
     <td align="right">3.3200</td>
-    <td align="right">12.46</td>
-    <td align="right">15.91</td>
-    <td align="right">15.91</td>
+    <td align="right">12.57</td>
+    <td align="right">16.03</td>
+    <td align="right">16.00</td>
     <td align="center">5</td>
     <td align="right">3.0523</td>
-    <td align="right">16.05</td>
-    <td align="right">19.66</td>
-    <td align="right">19.65</td>
+    <td align="right">16.13</td>
+    <td align="right">19.69</td>
+    <td align="right">19.73</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3118</td>
-    <td align="right">36.64</td>
-    <td align="right">63.02</td>
-    <td align="right">39.31</td>
+    <td align="right">37.16</td>
+    <td align="right">63.90</td>
+    <td align="right">41.30</td>
     <td align="center">5</td>
     <td align="right">1.0423</td>
-    <td align="right">17.27</td>
-    <td align="right">19.33</td>
-    <td align="right">19.19</td>
+    <td align="right">17.33</td>
+    <td align="right">19.41</td>
+    <td align="right">19.32</td>
     <td align="center">6</td>
     <td align="right">0.8142</td>
-    <td align="right">16.04</td>
-    <td align="right">18.59</td>
-    <td align="right">18.55</td>
+    <td align="right">16.21</td>
+    <td align="right">18.65</td>
+    <td align="right">18.66</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0453</td>
-    <td align="right">44.37</td>
-    <td align="right">78.01</td>
-    <td align="right">38.42</td>
+    <td align="right">45.02</td>
+    <td align="right">78.22</td>
+    <td align="right">38.54</td>
     <td align="center">6</td>
     <td align="right">0.3972</td>
-    <td align="right">17.23</td>
-    <td align="right">18.39</td>
+    <td align="right">17.27</td>
+    <td align="right">18.44</td>
     <td align="right">18.44</td>
     <td align="center">7</td>
     <td align="right">0.2784</td>
-    <td align="right">18.13</td>
+    <td align="right">18.18</td>
     <td align="right">18.29</td>
-    <td align="right">18.26</td>
+    <td align="right">18.33</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0062</td>
-    <td align="right">57.23</td>
-    <td align="right">97.26</td>
-    <td align="right">37.66</td>
+    <td align="right">56.83</td>
+    <td align="right">97.11</td>
+    <td align="right">37.78</td>
     <td align="center">7</td>
     <td align="right">0.1886</td>
-    <td align="right">18.23</td>
-    <td align="right">18.75</td>
-    <td align="right">18.75</td>
+    <td align="right">18.29</td>
+    <td align="right">18.85</td>
+    <td align="right">18.86</td>
     <td align="center">8</td>
     <td align="right">0.1259</td>
-    <td align="right">18.99</td>
-    <td align="right">20.01</td>
-    <td align="right">20.01</td>
+    <td align="right">19.06</td>
+    <td align="right">20.05</td>
+    <td align="right">20.09</td>
   </tr>
   <tr>
     <th></th>
@@ -2624,73 +2624,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4144</td>
-    <td align="right">16.20</td>
-    <td align="right">20.49</td>
-    <td align="right">20.45</td>
+    <td align="right">16.27</td>
+    <td align="right">20.64</td>
+    <td align="right">20.65</td>
     <td align="center">5</td>
     <td align="right">2.3168</td>
-    <td align="right">30.66</td>
-    <td align="right">22.19</td>
-    <td align="right">22.16</td>
+    <td align="right">30.79</td>
+    <td align="right">22.30</td>
+    <td align="right">22.32</td>
     <td align="center">5</td>
     <td align="right">2.7635</td>
-    <td align="right">10.74</td>
-    <td align="right">13.77</td>
-    <td align="right">13.76</td>
+    <td align="right">10.78</td>
+    <td align="right">13.79</td>
+    <td align="right">13.82</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4200</td>
-    <td align="right">21.31</td>
-    <td align="right">26.75</td>
-    <td align="right">26.75</td>
+    <td align="right">21.43</td>
+    <td align="right">26.84</td>
+    <td align="right">26.77</td>
     <td align="center">8</td>
     <td align="right">0.3742</td>
     <td align="right">39.70</td>
-    <td align="right">29.00</td>
-    <td align="right">29.01</td>
+    <td align="right">29.20</td>
+    <td align="right">29.26</td>
     <td align="center">8</td>
     <td align="right">0.5186</td>
-    <td align="right">12.83</td>
-    <td align="right">15.93</td>
-    <td align="right">15.93</td>
+    <td align="right">12.90</td>
+    <td align="right">15.96</td>
+    <td align="right">15.97</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0783</td>
-    <td align="right">29.28</td>
-    <td align="right">33.18</td>
-    <td align="right">33.17</td>
+    <td align="right">29.35</td>
+    <td align="right">33.42</td>
+    <td align="right">33.48</td>
     <td align="center">11</td>
     <td align="right">0.0667</td>
-    <td align="right">63.56</td>
-    <td align="right">45.78</td>
-    <td align="right">45.79</td>
+    <td align="right">63.96</td>
+    <td align="right">45.99</td>
+    <td align="right">46.03</td>
     <td align="center">11</td>
     <td align="right">0.1230</td>
-    <td align="right">14.47</td>
-    <td align="right">19.54</td>
-    <td align="right">19.56</td>
+    <td align="right">14.56</td>
+    <td align="right">19.59</td>
+    <td align="right">19.55</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0150</td>
     <td align="right">34.64</td>
+    <td align="right">36.15</td>
     <td align="right">36.19</td>
-    <td align="right">36.29</td>
     <td align="center">14</td>
     <td align="right">0.0106</td>
-    <td align="right">77.64</td>
-    <td align="right">55.49</td>
-    <td align="right">55.45</td>
+    <td align="right">77.87</td>
+    <td align="right">55.86</td>
+    <td align="right">55.92</td>
     <td align="center">13</td>
     <td align="right">0.0295</td>
-    <td align="right">23.70</td>
-    <td align="right">24.87</td>
-    <td align="right">24.88</td>
+    <td align="right">23.65</td>
+    <td align="right">24.96</td>
+    <td align="right">24.95</td>
   </tr>
   <tr>
     <th></th>
@@ -2720,73 +2720,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4627</td>
-    <td align="right">14.62</td>
+    <td align="right">14.67</td>
     <td align="right">16.09</td>
-    <td align="right">15.73</td>
+    <td align="right">15.76</td>
     <td align="center">5</td>
     <td align="right">2.4144</td>
-    <td align="right">16.20</td>
-    <td align="right">20.52</td>
-    <td align="right">20.50</td>
+    <td align="right">16.43</td>
+    <td align="right">20.55</td>
+    <td align="right">20.56</td>
     <td align="center">5</td>
     <td align="right">2.3168</td>
-    <td align="right">30.62</td>
-    <td align="right">22.21</td>
-    <td align="right">22.17</td>
+    <td align="right">30.70</td>
+    <td align="right">22.16</td>
+    <td align="right">22.23</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4575</td>
-    <td align="right">19.10</td>
-    <td align="right">20.23</td>
+    <td align="right">19.12</td>
+    <td align="right">20.22</td>
     <td align="right">20.24</td>
     <td align="center">8</td>
     <td align="right">0.4200</td>
-    <td align="right">21.35</td>
-    <td align="right">26.79</td>
+    <td align="right">21.39</td>
+    <td align="right">26.87</td>
     <td align="right">26.81</td>
     <td align="center">8</td>
     <td align="right">0.3742</td>
-    <td align="right">39.74</td>
-    <td align="right">29.08</td>
-    <td align="right">29.11</td>
+    <td align="right">39.72</td>
+    <td align="right">29.25</td>
+    <td align="right">29.25</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0876</td>
-    <td align="right">27.81</td>
-    <td align="right">24.99</td>
-    <td align="right">25.02</td>
+    <td align="right">27.94</td>
+    <td align="right">25.28</td>
+    <td align="right">25.07</td>
     <td align="center">11</td>
     <td align="right">0.0783</td>
-    <td align="right">29.30</td>
-    <td align="right">33.24</td>
-    <td align="right">33.17</td>
+    <td align="right">29.42</td>
+    <td align="right">33.54</td>
+    <td align="right">33.47</td>
     <td align="center">11</td>
     <td align="right">0.0667</td>
-    <td align="right">63.48</td>
-    <td align="right">45.76</td>
-    <td align="right">45.80</td>
+    <td align="right">63.85</td>
+    <td align="right">45.98</td>
+    <td align="right">46.03</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0171</td>
     <td align="right">34.25</td>
-    <td align="right">35.23</td>
-    <td align="right">35.26</td>
+    <td align="right">35.18</td>
+    <td align="right">35.21</td>
     <td align="center">13</td>
     <td align="right">0.0150</td>
-    <td align="right">34.62</td>
-    <td align="right">36.12</td>
-    <td align="right">36.24</td>
+    <td align="right">34.73</td>
+    <td align="right">36.27</td>
+    <td align="right">36.22</td>
     <td align="center">14</td>
     <td align="right">0.0106</td>
-    <td align="right">77.55</td>
-    <td align="right">55.50</td>
-    <td align="right">55.46</td>
+    <td align="right">77.80</td>
+    <td align="right">55.88</td>
+    <td align="right">55.90</td>
   </tr>
 </table>
 
@@ -2799,9 +2799,9 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">73.82</td>
-    <td align="right">106.48</td>
-    <td align="right">18.70</td>
+    <td align="right">75.32</td>
+    <td align="right">107.50</td>
+    <td align="right">21.07</td>
   </tr>
 </table>
 <table>
@@ -2833,73 +2833,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">6</td>
     <td align="right">2.1489</td>
-    <td align="right">27.63</td>
-    <td align="right">42.72</td>
-    <td align="right">39.43</td>
+    <td align="right">27.83</td>
+    <td align="right">43.04</td>
+    <td align="right">39.55</td>
     <td align="center">4</td>
     <td align="right">3.3441</td>
-    <td align="right">12.82</td>
-    <td align="right">16.23</td>
-    <td align="right">16.45</td>
+    <td align="right">12.83</td>
+    <td align="right">16.26</td>
+    <td align="right">16.17</td>
     <td align="center">5</td>
     <td align="right">3.0511</td>
-    <td align="right">16.37</td>
-    <td align="right">19.97</td>
-    <td align="right">20.67</td>
+    <td align="right">16.38</td>
+    <td align="right">19.95</td>
+    <td align="right">19.99</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3184</td>
-    <td align="right">37.45</td>
-    <td align="right">64.72</td>
-    <td align="right">41.97</td>
+    <td align="right">37.61</td>
+    <td align="right">64.46</td>
+    <td align="right">43.32</td>
     <td align="center">5</td>
     <td align="right">1.0317</td>
-    <td align="right">18.35</td>
-    <td align="right">32.36</td>
-    <td align="right">30.92</td>
+    <td align="right">17.92</td>
+    <td align="right">20.51</td>
+    <td align="right">20.98</td>
     <td align="center">6</td>
     <td align="right">0.8206</td>
-    <td align="right">18.38</td>
-    <td align="right">23.37</td>
-    <td align="right">19.92</td>
+    <td align="right">16.47</td>
+    <td align="right">18.94</td>
+    <td align="right">19.58</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0455</td>
-    <td align="right">47.68</td>
-    <td align="right">79.11</td>
-    <td align="right">41.24</td>
+    <td align="right">61.23</td>
+    <td align="right">83.30</td>
+    <td align="right">42.39</td>
     <td align="center">6</td>
     <td align="right">0.4015</td>
-    <td align="right">20.25</td>
-    <td align="right">22.58</td>
-    <td align="right">22.23</td>
+    <td align="right">20.97</td>
+    <td align="right">23.21</td>
+    <td align="right">21.26</td>
     <td align="center">7</td>
     <td align="right">0.2865</td>
-    <td align="right">20.41</td>
-    <td align="right">21.59</td>
-    <td align="right">30.56</td>
+    <td align="right">20.46</td>
+    <td align="right">24.75</td>
+    <td align="right">24.11</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0068</td>
-    <td align="right">150.48</td>
-    <td align="right">244.20</td>
-    <td align="right">80.98</td>
+    <td align="right">83.01</td>
+    <td align="right">126.77</td>
+    <td align="right">48.99</td>
     <td align="center">7</td>
     <td align="right">0.1883</td>
-    <td align="right">43.01</td>
-    <td align="right">43.24</td>
-    <td align="right">49.31</td>
+    <td align="right">25.08</td>
+    <td align="right">30.55</td>
+    <td align="right">30.58</td>
     <td align="center">8</td>
     <td align="right">0.1200</td>
-    <td align="right">54.14</td>
-    <td align="right">51.30</td>
-    <td align="right">52.50</td>
+    <td align="right">35.23</td>
+    <td align="right">32.92</td>
+    <td align="right">29.62</td>
   </tr>
   <tr>
     <th></th>
@@ -2929,73 +2929,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4525</td>
-    <td align="right">17.86</td>
-    <td align="right">22.00</td>
-    <td align="right">21.62</td>
+    <td align="right">16.63</td>
+    <td align="right">20.66</td>
+    <td align="right">20.65</td>
     <td align="center">5</td>
     <td align="right">2.3280</td>
-    <td align="right">36.18</td>
-    <td align="right">25.42</td>
-    <td align="right">24.57</td>
+    <td align="right">33.04</td>
+    <td align="right">22.61</td>
+    <td align="right">22.61</td>
     <td align="center">5</td>
     <td align="right">2.7396</td>
-    <td align="right">11.10</td>
-    <td align="right">14.77</td>
-    <td align="right">14.80</td>
+    <td align="right">10.93</td>
+    <td align="right">14.01</td>
+    <td align="right">14.05</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4209</td>
-    <td align="right">24.45</td>
-    <td align="right">41.36</td>
-    <td align="right">36.60</td>
+    <td align="right">21.59</td>
+    <td align="right">26.75</td>
+    <td align="right">26.93</td>
     <td align="center">8</td>
     <td align="right">0.3751</td>
-    <td align="right">59.20</td>
-    <td align="right">41.89</td>
-    <td align="right">53.83</td>
+    <td align="right">42.84</td>
+    <td align="right">30.80</td>
+    <td align="right">30.74</td>
     <td align="center">8</td>
     <td align="right">0.5422</td>
-    <td align="right">15.80</td>
-    <td align="right">20.96</td>
-    <td align="right">20.19</td>
+    <td align="right">12.77</td>
+    <td align="right">16.13</td>
+    <td align="right">16.36</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0783</td>
-    <td align="right">60.85</td>
-    <td align="right">58.22</td>
-    <td align="right">41.10</td>
+    <td align="right">32.22</td>
+    <td align="right">51.34</td>
+    <td align="right">49.76</td>
     <td align="center">11</td>
     <td align="right">0.0645</td>
-    <td align="right">71.49</td>
-    <td align="right">51.45</td>
-    <td align="right">53.92</td>
+    <td align="right">78.60</td>
+    <td align="right">53.10</td>
+    <td align="right">54.82</td>
     <td align="center">11</td>
     <td align="right">0.1202</td>
-    <td align="right">16.97</td>
-    <td align="right">25.03</td>
-    <td align="right">21.61</td>
+    <td align="right">19.62</td>
+    <td align="right">27.08</td>
+    <td align="right">26.86</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0144</td>
-    <td align="right">46.60</td>
-    <td align="right">52.51</td>
-    <td align="right">55.87</td>
+    <td align="right">50.13</td>
+    <td align="right">50.94</td>
+    <td align="right">66.70</td>
     <td align="center">14</td>
     <td align="right">0.0117</td>
-    <td align="right">102.73</td>
-    <td align="right">90.36</td>
-    <td align="right">96.33</td>
+    <td align="right">99.11</td>
+    <td align="right">72.24</td>
+    <td align="right">71.63</td>
     <td align="center">13</td>
     <td align="right">0.0273</td>
-    <td align="right">55.71</td>
-    <td align="right">56.70</td>
-    <td align="right">55.36</td>
+    <td align="right">43.68</td>
+    <td align="right">41.89</td>
+    <td align="right">41.83</td>
   </tr>
   <tr>
     <th></th>
@@ -3025,73 +3025,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4723</td>
-    <td align="right">15.57</td>
-    <td align="right">16.83</td>
-    <td align="right">16.22</td>
+    <td align="right">15.31</td>
+    <td align="right">16.58</td>
+    <td align="right">16.12</td>
     <td align="center">5</td>
     <td align="right">2.4525</td>
-    <td align="right">17.19</td>
-    <td align="right">22.26</td>
-    <td align="right">21.09</td>
+    <td align="right">16.62</td>
+    <td align="right">20.72</td>
+    <td align="right">20.67</td>
     <td align="center">5</td>
     <td align="right">2.3280</td>
-    <td align="right">37.15</td>
-    <td align="right">25.04</td>
-    <td align="right">23.51</td>
+    <td align="right">33.16</td>
+    <td align="right">22.56</td>
+    <td align="right">22.64</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4399</td>
-    <td align="right">23.18</td>
-    <td align="right">27.68</td>
-    <td align="right">23.57</td>
+    <td align="right">19.39</td>
+    <td align="right">20.96</td>
+    <td align="right">20.64</td>
     <td align="center">8</td>
     <td align="right">0.4209</td>
-    <td align="right">24.06</td>
-    <td align="right">34.61</td>
-    <td align="right">39.44</td>
+    <td align="right">21.41</td>
+    <td align="right">28.91</td>
+    <td align="right">29.41</td>
     <td align="center">8</td>
     <td align="right">0.3751</td>
-    <td align="right">87.91</td>
-    <td align="right">51.45</td>
-    <td align="right">52.91</td>
+    <td align="right">44.81</td>
+    <td align="right">31.23</td>
+    <td align="right">31.32</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0859</td>
-    <td align="right">84.48</td>
-    <td align="right">48.90</td>
-    <td align="right">44.01</td>
+    <td align="right">38.35</td>
+    <td align="right">31.84</td>
+    <td align="right">35.88</td>
     <td align="center">11</td>
     <td align="right">0.0783</td>
-    <td align="right">52.51</td>
-    <td align="right">49.80</td>
-    <td align="right">49.90</td>
+    <td align="right">31.96</td>
+    <td align="right">44.34</td>
+    <td align="right">41.49</td>
     <td align="center">11</td>
     <td align="right">0.0645</td>
-    <td align="right">74.83</td>
-    <td align="right">55.10</td>
-    <td align="right">58.84</td>
+    <td align="right">69.78</td>
+    <td align="right">50.71</td>
+    <td align="right">49.85</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0182</td>
-    <td align="right">75.14</td>
-    <td align="right">90.22</td>
-    <td align="right">90.11</td>
+    <td align="right">64.06</td>
+    <td align="right">68.08</td>
+    <td align="right">69.25</td>
     <td align="center">13</td>
     <td align="right">0.0144</td>
-    <td align="right">59.57</td>
-    <td align="right">71.47</td>
-    <td align="right">67.87</td>
+    <td align="right">50.07</td>
+    <td align="right">48.29</td>
+    <td align="right">63.12</td>
     <td align="center">14</td>
     <td align="right">0.0117</td>
-    <td align="right">98.79</td>
-    <td align="right">83.85</td>
-    <td align="right">77.86</td>
+    <td align="right">98.93</td>
+    <td align="right">71.76</td>
+    <td align="right">73.55</td>
   </tr>
 </table>
 
@@ -3109,9 +3109,9 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">62.47</td>
-    <td align="right">10.16</td>
-    <td align="right">6.87</td>
+    <td align="right">62.35</td>
+    <td align="right">10.17</td>
+    <td align="right">7.06</td>
   </tr>
 </table>
 <table>
@@ -3143,73 +3143,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">6</td>
     <td align="right">2.1546</td>
-    <td align="right">14.05</td>
-    <td align="right">22.95</td>
-    <td align="right">26.71</td>
+    <td align="right">13.85</td>
+    <td align="right">22.76</td>
+    <td align="right">26.57</td>
     <td align="center">4</td>
     <td align="right">3.3200</td>
-    <td align="right">9.47</td>
-    <td align="right">12.30</td>
-    <td align="right">12.31</td>
+    <td align="right">9.57</td>
+    <td align="right">12.38</td>
+    <td align="right">12.38</td>
     <td align="center">5</td>
     <td align="right">3.0523</td>
-    <td align="right">11.69</td>
-    <td align="right">13.95</td>
-    <td align="right">13.87</td>
+    <td align="right">11.75</td>
+    <td align="right">13.84</td>
+    <td align="right">13.86</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3118</td>
-    <td align="right">19.68</td>
-    <td align="right">35.24</td>
-    <td align="right">28.87</td>
+    <td align="right">19.45</td>
+    <td align="right">36.45</td>
+    <td align="right">28.77</td>
     <td align="center">5</td>
     <td align="right">1.0423</td>
-    <td align="right">12.08</td>
-    <td align="right">14.23</td>
-    <td align="right">14.07</td>
+    <td align="right">12.00</td>
+    <td align="right">14.56</td>
+    <td align="right">14.05</td>
     <td align="center">6</td>
     <td align="right">0.8142</td>
-    <td align="right">13.49</td>
-    <td align="right">15.36</td>
-    <td align="right">15.38</td>
+    <td align="right">13.50</td>
+    <td align="right">15.27</td>
+    <td align="right">15.28</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0453</td>
-    <td align="right">25.30</td>
-    <td align="right">47.74</td>
-    <td align="right">30.22</td>
+    <td align="right">24.91</td>
+    <td align="right">47.48</td>
+    <td align="right">30.21</td>
     <td align="center">6</td>
     <td align="right">0.3972</td>
-    <td align="right">13.77</td>
-    <td align="right">15.45</td>
-    <td align="right">15.44</td>
+    <td align="right">13.83</td>
+    <td align="right">15.38</td>
+    <td align="right">15.48</td>
     <td align="center">7</td>
     <td align="right">0.2784</td>
-    <td align="right">14.58</td>
-    <td align="right">16.70</td>
-    <td align="right">16.73</td>
+    <td align="right">14.60</td>
+    <td align="right">16.72</td>
+    <td align="right">16.77</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0062</td>
-    <td align="right">31.49</td>
-    <td align="right">60.74</td>
-    <td align="right">30.99</td>
+    <td align="right">31.18</td>
+    <td align="right">60.36</td>
+    <td align="right">30.89</td>
     <td align="center">7</td>
     <td align="right">0.1886</td>
-    <td align="right">14.57</td>
-    <td align="right">16.32</td>
-    <td align="right">16.29</td>
+    <td align="right">14.52</td>
+    <td align="right">16.26</td>
+    <td align="right">16.26</td>
     <td align="center">8</td>
     <td align="right">0.1259</td>
-    <td align="right">15.88</td>
-    <td align="right">17.81</td>
-    <td align="right">17.81</td>
+    <td align="right">15.90</td>
+    <td align="right">17.86</td>
+    <td align="right">17.86</td>
   </tr>
   <tr>
     <th></th>
@@ -3239,73 +3239,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4144</td>
-    <td align="right">12.60</td>
-    <td align="right">16.20</td>
+    <td align="right">12.70</td>
     <td align="right">16.05</td>
+    <td align="right">16.08</td>
     <td align="center">5</td>
     <td align="right">2.3168</td>
-    <td align="right">13.19</td>
-    <td align="right">16.66</td>
-    <td align="right">16.69</td>
+    <td align="right">13.27</td>
+    <td align="right">16.70</td>
+    <td align="right">16.72</td>
     <td align="center">5</td>
     <td align="right">2.7635</td>
-    <td align="right">7.19</td>
-    <td align="right">9.44</td>
+    <td align="right">7.10</td>
+    <td align="right">9.34</td>
     <td align="right">9.33</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4200</td>
-    <td align="right">17.32</td>
-    <td align="right">22.90</td>
-    <td align="right">22.52</td>
+    <td align="right">17.35</td>
+    <td align="right">22.43</td>
+    <td align="right">22.47</td>
     <td align="center">8</td>
     <td align="right">0.3742</td>
-    <td align="right">18.35</td>
-    <td align="right">22.30</td>
-    <td align="right">22.32</td>
+    <td align="right">18.42</td>
+    <td align="right">22.39</td>
+    <td align="right">22.39</td>
     <td align="center">8</td>
     <td align="right">0.5186</td>
-    <td align="right">10.98</td>
-    <td align="right">13.96</td>
-    <td align="right">14.05</td>
+    <td align="right">12.09</td>
+    <td align="right">13.98</td>
+    <td align="right">13.98</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0783</td>
-    <td align="right">23.99</td>
-    <td align="right">32.13</td>
-    <td align="right">32.10</td>
+    <td align="right">24.11</td>
+    <td align="right">32.07</td>
+    <td align="right">32.00</td>
     <td align="center">11</td>
     <td align="right">0.0667</td>
-    <td align="right">25.53</td>
-    <td align="right">30.59</td>
-    <td align="right">30.51</td>
+    <td align="right">25.69</td>
+    <td align="right">30.58</td>
+    <td align="right">30.56</td>
     <td align="center">11</td>
     <td align="right">0.1230</td>
-    <td align="right">12.67</td>
-    <td align="right">17.54</td>
-    <td align="right">17.53</td>
+    <td align="right">13.93</td>
+    <td align="right">17.62</td>
+    <td align="right">17.59</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0150</td>
-    <td align="right">26.79</td>
-    <td align="right">35.71</td>
-    <td align="right">35.66</td>
+    <td align="right">26.95</td>
+    <td align="right">35.63</td>
+    <td align="right">35.65</td>
     <td align="center">14</td>
     <td align="right">0.0106</td>
-    <td align="right">33.00</td>
-    <td align="right">35.77</td>
-    <td align="right">35.73</td>
+    <td align="right">32.93</td>
+    <td align="right">35.88</td>
+    <td align="right">35.80</td>
     <td align="center">13</td>
     <td align="right">0.0295</td>
-    <td align="right">16.37</td>
-    <td align="right">20.45</td>
-    <td align="right">20.46</td>
+    <td align="right">16.43</td>
+    <td align="right">20.53</td>
+    <td align="right">20.58</td>
   </tr>
   <tr>
     <th></th>
@@ -3335,73 +3335,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4627</td>
-    <td align="right">6.56</td>
-    <td align="right">9.36</td>
-    <td align="right">9.40</td>
+    <td align="right">6.59</td>
+    <td align="right">9.38</td>
+    <td align="right">9.35</td>
     <td align="center">5</td>
     <td align="right">2.4144</td>
-    <td align="right">12.62</td>
-    <td align="right">16.14</td>
-    <td align="right">16.13</td>
+    <td align="right">12.66</td>
+    <td align="right">16.10</td>
+    <td align="right">16.08</td>
     <td align="center">5</td>
     <td align="right">2.3168</td>
-    <td align="right">13.19</td>
+    <td align="right">13.26</td>
     <td align="right">16.69</td>
-    <td align="right">16.67</td>
+    <td align="right">16.69</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4575</td>
-    <td align="right">12.38</td>
-    <td align="right">13.65</td>
-    <td align="right">13.72</td>
+    <td align="right">11.83</td>
+    <td align="right">13.67</td>
+    <td align="right">13.68</td>
     <td align="center">8</td>
     <td align="right">0.4200</td>
-    <td align="right">17.36</td>
-    <td align="right">22.48</td>
-    <td align="right">22.47</td>
+    <td align="right">17.33</td>
+    <td align="right">22.42</td>
+    <td align="right">22.44</td>
     <td align="center">8</td>
     <td align="right">0.3742</td>
-    <td align="right">18.21</td>
-    <td align="right">22.30</td>
-    <td align="right">22.26</td>
+    <td align="right">18.42</td>
+    <td align="right">22.40</td>
+    <td align="right">22.37</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0876</td>
-    <td align="right">13.07</td>
+    <td align="right">12.34</td>
+    <td align="right">17.60</td>
     <td align="right">17.61</td>
-    <td align="right">17.63</td>
     <td align="center">11</td>
     <td align="right">0.0783</td>
-    <td align="right">23.93</td>
-    <td align="right">32.14</td>
-    <td align="right">32.10</td>
+    <td align="right">24.10</td>
+    <td align="right">32.01</td>
+    <td align="right">32.05</td>
     <td align="center">11</td>
     <td align="right">0.0667</td>
-    <td align="right">25.54</td>
-    <td align="right">30.55</td>
-    <td align="right">30.61</td>
+    <td align="right">25.62</td>
+    <td align="right">30.54</td>
+    <td align="right">30.54</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0171</td>
-    <td align="right">16.01</td>
+    <td align="right">16.21</td>
     <td align="right">21.01</td>
-    <td align="right">20.93</td>
+    <td align="right">20.95</td>
     <td align="center">13</td>
     <td align="right">0.0150</td>
-    <td align="right">26.89</td>
-    <td align="right">35.70</td>
-    <td align="right">35.74</td>
+    <td align="right">26.95</td>
+    <td align="right">35.63</td>
+    <td align="right">35.58</td>
     <td align="center">14</td>
     <td align="right">0.0106</td>
-    <td align="right">33.02</td>
-    <td align="right">35.73</td>
+    <td align="right">32.86</td>
     <td align="right">35.76</td>
+    <td align="right">35.79</td>
   </tr>
 </table>
 
@@ -3414,9 +3414,9 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">81.70</td>
-    <td align="right">46.58</td>
-    <td align="right">11.35</td>
+    <td align="right">75.97</td>
+    <td align="right">44.47</td>
+    <td align="right">10.45</td>
   </tr>
 </table>
 <table>
@@ -3448,73 +3448,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">6</td>
     <td align="right">2.1489</td>
-    <td align="right">14.43</td>
-    <td align="right">23.24</td>
-    <td align="right">28.29</td>
+    <td align="right">14.32</td>
+    <td align="right">23.39</td>
+    <td align="right">28.54</td>
     <td align="center">4</td>
     <td align="right">3.3441</td>
-    <td align="right">9.66</td>
-    <td align="right">12.58</td>
-    <td align="right">12.86</td>
+    <td align="right">9.77</td>
+    <td align="right">12.72</td>
+    <td align="right">12.74</td>
     <td align="center">5</td>
     <td align="right">3.0511</td>
-    <td align="right">13.05</td>
-    <td align="right">14.65</td>
-    <td align="right">14.10</td>
+    <td align="right">12.07</td>
+    <td align="right">14.16</td>
+    <td align="right">14.17</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3184</td>
-    <td align="right">20.77</td>
-    <td align="right">36.76</td>
-    <td align="right">30.42</td>
+    <td align="right">19.39</td>
+    <td align="right">34.82</td>
+    <td align="right">29.31</td>
     <td align="center">5</td>
     <td align="right">1.0317</td>
-    <td align="right">12.85</td>
-    <td align="right">14.97</td>
-    <td align="right">14.49</td>
+    <td align="right">11.91</td>
+    <td align="right">13.87</td>
+    <td align="right">13.90</td>
     <td align="center">6</td>
     <td align="right">0.8206</td>
-    <td align="right">13.82</td>
-    <td align="right">18.54</td>
-    <td align="right">15.10</td>
+    <td align="right">13.38</td>
+    <td align="right">15.08</td>
+    <td align="right">15.11</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0455</td>
-    <td align="right">25.61</td>
-    <td align="right">50.22</td>
-    <td align="right">37.84</td>
+    <td align="right">24.80</td>
+    <td align="right">47.70</td>
+    <td align="right">30.67</td>
     <td align="center">6</td>
     <td align="right">0.4015</td>
-    <td align="right">26.17</td>
-    <td align="right">34.22</td>
-    <td align="right">31.58</td>
+    <td align="right">13.86</td>
+    <td align="right">15.96</td>
+    <td align="right">15.24</td>
     <td align="center">7</td>
     <td align="right">0.2865</td>
-    <td align="right">30.07</td>
-    <td align="right">33.84</td>
-    <td align="right">32.24</td>
+    <td align="right">15.27</td>
+    <td align="right">18.33</td>
+    <td align="right">16.67</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0068</td>
-    <td align="right">92.90</td>
-    <td align="right">137.34</td>
-    <td align="right">33.53</td>
+    <td align="right">32.65</td>
+    <td align="right">65.16</td>
+    <td align="right">31.50</td>
     <td align="center">7</td>
     <td align="right">0.1883</td>
-    <td align="right">20.24</td>
-    <td align="right">19.16</td>
-    <td align="right">29.40</td>
+    <td align="right">15.44</td>
+    <td align="right">17.33</td>
+    <td align="right">16.82</td>
     <td align="center">8</td>
     <td align="right">0.1200</td>
-    <td align="right">26.50</td>
-    <td align="right">37.36</td>
-    <td align="right">46.77</td>
+    <td align="right">17.11</td>
+    <td align="right">19.13</td>
+    <td align="right">22.55</td>
   </tr>
   <tr>
     <th></th>
@@ -3544,73 +3544,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4525</td>
-    <td align="right">13.26</td>
-    <td align="right">17.35</td>
-    <td align="right">16.71</td>
+    <td align="right">13.47</td>
+    <td align="right">17.10</td>
+    <td align="right">17.07</td>
     <td align="center">5</td>
     <td align="right">2.3280</td>
-    <td align="right">14.02</td>
-    <td align="right">20.00</td>
-    <td align="right">20.69</td>
+    <td align="right">13.65</td>
+    <td align="right">17.98</td>
+    <td align="right">18.43</td>
     <td align="center">5</td>
     <td align="right">2.7396</td>
     <td align="right">7.50</td>
-    <td align="right">9.90</td>
-    <td align="right">9.80</td>
+    <td align="right">9.75</td>
+    <td align="right">9.69</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4209</td>
-    <td align="right">17.92</td>
-    <td align="right">29.53</td>
-    <td align="right">24.81</td>
+    <td align="right">19.64</td>
+    <td align="right">23.50</td>
+    <td align="right">22.45</td>
     <td align="center">8</td>
     <td align="right">0.3751</td>
-    <td align="right">27.92</td>
-    <td align="right">33.97</td>
-    <td align="right">26.86</td>
+    <td align="right">18.53</td>
+    <td align="right">22.33</td>
+    <td align="right">23.82</td>
     <td align="center">8</td>
     <td align="right">0.5422</td>
-    <td align="right">10.14</td>
-    <td align="right">14.31</td>
-    <td align="right">16.01</td>
+    <td align="right">11.37</td>
+    <td align="right">14.52</td>
+    <td align="right">15.36</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0783</td>
-    <td align="right">47.64</td>
-    <td align="right">47.47</td>
-    <td align="right">40.15</td>
+    <td align="right">34.02</td>
+    <td align="right">46.69</td>
+    <td align="right">41.98</td>
     <td align="center">11</td>
     <td align="right">0.0645</td>
-    <td align="right">33.45</td>
-    <td align="right">43.09</td>
-    <td align="right">40.68</td>
+    <td align="right">30.22</td>
+    <td align="right">34.62</td>
+    <td align="right">34.31</td>
     <td align="center">11</td>
     <td align="right">0.1202</td>
-    <td align="right">17.99</td>
-    <td align="right">29.05</td>
-    <td align="right">20.86</td>
+    <td align="right">20.31</td>
+    <td align="right">24.45</td>
+    <td align="right">24.77</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0144</td>
-    <td align="right">53.77</td>
-    <td align="right">60.61</td>
-    <td align="right">61.38</td>
+    <td align="right">49.66</td>
+    <td align="right">60.08</td>
+    <td align="right">62.32</td>
     <td align="center">14</td>
     <td align="right">0.0117</td>
-    <td align="right">76.12</td>
-    <td align="right">64.65</td>
-    <td align="right">62.99</td>
+    <td align="right">63.87</td>
+    <td align="right">59.75</td>
+    <td align="right">56.95</td>
     <td align="center">13</td>
     <td align="right">0.0273</td>
-    <td align="right">33.03</td>
-    <td align="right">34.94</td>
-    <td align="right">39.37</td>
+    <td align="right">41.66</td>
+    <td align="right">47.51</td>
+    <td align="right">46.24</td>
   </tr>
   <tr>
     <th></th>
@@ -3640,73 +3640,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4723</td>
-    <td align="right">6.71</td>
-    <td align="right">9.57</td>
-    <td align="right">9.51</td>
+    <td align="right">6.84</td>
+    <td align="right">9.85</td>
+    <td align="right">9.83</td>
     <td align="center">5</td>
     <td align="right">2.4525</td>
-    <td align="right">12.63</td>
-    <td align="right">16.72</td>
-    <td align="right">16.73</td>
+    <td align="right">13.45</td>
+    <td align="right">17.23</td>
+    <td align="right">17.47</td>
     <td align="center">5</td>
     <td align="right">2.3280</td>
-    <td align="right">13.34</td>
-    <td align="right">17.49</td>
-    <td align="right">17.47</td>
+    <td align="right">13.74</td>
+    <td align="right">18.24</td>
+    <td align="right">17.96</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4399</td>
-    <td align="right">11.79</td>
-    <td align="right">13.62</td>
-    <td align="right">14.44</td>
+    <td align="right">10.73</td>
+    <td align="right">13.86</td>
+    <td align="right">13.77</td>
     <td align="center">8</td>
     <td align="right">0.4209</td>
-    <td align="right">17.36</td>
-    <td align="right">23.99</td>
-    <td align="right">23.19</td>
+    <td align="right">18.32</td>
+    <td align="right">24.34</td>
+    <td align="right">24.27</td>
     <td align="center">8</td>
     <td align="right">0.3751</td>
-    <td align="right">20.54</td>
-    <td align="right">23.46</td>
-    <td align="right">23.84</td>
+    <td align="right">19.87</td>
+    <td align="right">23.66</td>
+    <td align="right">23.58</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0859</td>
-    <td align="right">14.27</td>
-    <td align="right">21.80</td>
-    <td align="right">26.74</td>
+    <td align="right">15.10</td>
+    <td align="right">24.67</td>
+    <td align="right">19.24</td>
     <td align="center">11</td>
     <td align="right">0.0783</td>
-    <td align="right">47.90</td>
-    <td align="right">76.52</td>
-    <td align="right">67.15</td>
+    <td align="right">30.28</td>
+    <td align="right">40.13</td>
+    <td align="right">44.19</td>
     <td align="center">11</td>
     <td align="right">0.0645</td>
-    <td align="right">41.49</td>
-    <td align="right">71.83</td>
-    <td align="right">68.31</td>
+    <td align="right">45.06</td>
+    <td align="right">34.58</td>
+    <td align="right">34.13</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0182</td>
-    <td align="right">47.06</td>
-    <td align="right">40.61</td>
-    <td align="right">37.34</td>
+    <td align="right">21.29</td>
+    <td align="right">25.48</td>
+    <td align="right">25.10</td>
     <td align="center">13</td>
     <td align="right">0.0144</td>
-    <td align="right">54.78</td>
-    <td align="right">65.31</td>
-    <td align="right">62.56</td>
+    <td align="right">30.36</td>
+    <td align="right">40.08</td>
+    <td align="right">40.85</td>
     <td align="center">14</td>
     <td align="right">0.0117</td>
-    <td align="right">63.00</td>
-    <td align="right">65.54</td>
-    <td align="right">74.15</td>
+    <td align="right">37.53</td>
+    <td align="right">37.64</td>
+    <td align="right">38.10</td>
   </tr>
 </table>
 
@@ -3724,9 +3724,9 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">42.15</td>
-    <td align="right">8.80</td>
-    <td align="right">6.69</td>
+    <td align="right">42.33</td>
+    <td align="right">8.51</td>
+    <td align="right">6.54</td>
   </tr>
 </table>
 <table>
@@ -3758,73 +3758,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">6</td>
     <td align="right">2.1546</td>
-    <td align="right">59.86</td>
-    <td align="right">54.86</td>
-    <td align="right">41.56</td>
+    <td align="right">59.33</td>
+    <td align="right">55.09</td>
+    <td align="right">41.52</td>
     <td align="center">4</td>
     <td align="right">3.3200</td>
-    <td align="right">22.14</td>
-    <td align="right">20.45</td>
+    <td align="right">21.99</td>
+    <td align="right">20.41</td>
     <td align="right">24.74</td>
     <td align="center">5</td>
     <td align="right">3.0523</td>
-    <td align="right">27.08</td>
-    <td align="right">26.82</td>
-    <td align="right">29.58</td>
+    <td align="right">27.05</td>
+    <td align="right">25.90</td>
+    <td align="right">29.11</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3118</td>
-    <td align="right">89.90</td>
-    <td align="right">86.27</td>
+    <td align="right">89.86</td>
+    <td align="right">85.77</td>
     <td align="right">46.43</td>
     <td align="center">5</td>
     <td align="right">1.0423</td>
-    <td align="right">24.28</td>
-    <td align="right">21.92</td>
-    <td align="right">24.31</td>
+    <td align="right">23.87</td>
+    <td align="right">21.90</td>
+    <td align="right">24.10</td>
     <td align="center">6</td>
     <td align="right">0.8142</td>
-    <td align="right">27.32</td>
-    <td align="right">29.55</td>
-    <td align="right">30.46</td>
+    <td align="right">26.81</td>
+    <td align="right">28.14</td>
+    <td align="right">30.18</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0453</td>
-    <td align="right">111.30</td>
-    <td align="right">98.48</td>
-    <td align="right">43.24</td>
+    <td align="right">110.58</td>
+    <td align="right">98.00</td>
+    <td align="right">43.02</td>
     <td align="center">6</td>
     <td align="right">0.3972</td>
-    <td align="right">25.24</td>
-    <td align="right">22.89</td>
-    <td align="right">24.52</td>
+    <td align="right">25.68</td>
+    <td align="right">22.97</td>
+    <td align="right">24.31</td>
     <td align="center">7</td>
     <td align="right">0.2784</td>
-    <td align="right">29.96</td>
-    <td align="right">32.05</td>
-    <td align="right">31.51</td>
+    <td align="right">29.40</td>
+    <td align="right">30.83</td>
+    <td align="right">31.46</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0062</td>
-    <td align="right">140.87</td>
-    <td align="right">127.73</td>
-    <td align="right">46.58</td>
+    <td align="right">140.47</td>
+    <td align="right">128.11</td>
+    <td align="right">46.17</td>
     <td align="center">7</td>
     <td align="right">0.1886</td>
-    <td align="right">28.18</td>
-    <td align="right">24.55</td>
-    <td align="right">25.19</td>
+    <td align="right">27.34</td>
+    <td align="right">24.30</td>
+    <td align="right">25.16</td>
     <td align="center">8</td>
     <td align="right">0.1259</td>
-    <td align="right">31.23</td>
-    <td align="right">33.59</td>
-    <td align="right">34.35</td>
+    <td align="right">30.98</td>
+    <td align="right">32.29</td>
+    <td align="right">33.81</td>
   </tr>
   <tr>
     <th></th>
@@ -3854,73 +3854,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4144</td>
-    <td align="right">23.72</td>
-    <td align="right">45.59</td>
-    <td align="right">46.05</td>
+    <td align="right">23.65</td>
+    <td align="right">45.37</td>
+    <td align="right">45.78</td>
     <td align="center">5</td>
     <td align="right">2.3168</td>
-    <td align="right">27.45</td>
-    <td align="right">45.60</td>
-    <td align="right">46.24</td>
+    <td align="right">27.22</td>
+    <td align="right">45.95</td>
+    <td align="right">46.14</td>
     <td align="center">5</td>
     <td align="right">2.7253</td>
-    <td align="right">18.62</td>
+    <td align="right">18.71</td>
     <td align="right">24.84</td>
-    <td align="right">25.21</td>
+    <td align="right">24.74</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4200</td>
-    <td align="right">28.35</td>
-    <td align="right">60.94</td>
-    <td align="right">60.67</td>
+    <td align="right">28.28</td>
+    <td align="right">60.97</td>
+    <td align="right">60.61</td>
     <td align="center">8</td>
     <td align="right">0.3742</td>
-    <td align="right">33.53</td>
-    <td align="right">62.59</td>
-    <td align="right">62.40</td>
+    <td align="right">33.13</td>
+    <td align="right">61.93</td>
+    <td align="right">62.37</td>
     <td align="center">8</td>
     <td align="right">0.5350</td>
-    <td align="right">17.70</td>
-    <td align="right">37.07</td>
-    <td align="right">25.95</td>
+    <td align="right">17.57</td>
+    <td align="right">36.91</td>
+    <td align="right">25.75</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0783</td>
-    <td align="right">40.41</td>
-    <td align="right">84.24</td>
-    <td align="right">83.79</td>
+    <td align="right">40.24</td>
+    <td align="right">81.72</td>
+    <td align="right">81.11</td>
     <td align="center">11</td>
     <td align="right">0.0667</td>
-    <td align="right">45.19</td>
-    <td align="right">82.22</td>
-    <td align="right">82.66</td>
+    <td align="right">45.11</td>
+    <td align="right">82.24</td>
+    <td align="right">82.99</td>
     <td align="center">11</td>
     <td align="right">0.1194</td>
-    <td align="right">29.20</td>
-    <td align="right">55.22</td>
-    <td align="right">39.67</td>
+    <td align="right">29.09</td>
+    <td align="right">54.90</td>
+    <td align="right">39.34</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0150</td>
-    <td align="right">44.04</td>
-    <td align="right">93.45</td>
-    <td align="right">93.82</td>
+    <td align="right">43.68</td>
+    <td align="right">93.63</td>
+    <td align="right">93.87</td>
     <td align="center">14</td>
     <td align="right">0.0106</td>
-    <td align="right">52.03</td>
-    <td align="right">97.98</td>
-    <td align="right">98.59</td>
+    <td align="right">51.42</td>
+    <td align="right">97.96</td>
+    <td align="right">98.43</td>
     <td align="center">13</td>
     <td align="right">0.0276</td>
-    <td align="right">29.29</td>
-    <td align="right">56.23</td>
-    <td align="right">41.13</td>
+    <td align="right">29.20</td>
+    <td align="right">55.82</td>
+    <td align="right">40.47</td>
   </tr>
   <tr>
     <th></th>
@@ -3950,73 +3950,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4823</td>
-    <td align="right">18.86</td>
-    <td align="right">26.45</td>
-    <td align="right">26.53</td>
+    <td align="right">18.65</td>
+    <td align="right">26.32</td>
+    <td align="right">26.21</td>
     <td align="center">5</td>
     <td align="right">2.4524</td>
-    <td align="right">20.69</td>
-    <td align="right">29.57</td>
-    <td align="right">29.35</td>
+    <td align="right">20.72</td>
+    <td align="right">29.24</td>
+    <td align="right">29.19</td>
     <td align="center">5</td>
     <td align="right">2.3084</td>
     <td align="right">20.90</td>
-    <td align="right">31.25</td>
-    <td align="right">31.26</td>
+    <td align="right">31.11</td>
+    <td align="right">31.49</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4562</td>
-    <td align="right">21.33</td>
-    <td align="right">46.87</td>
-    <td align="right">35.01</td>
+    <td align="right">21.03</td>
+    <td align="right">46.69</td>
+    <td align="right">34.80</td>
     <td align="center">8</td>
     <td align="right">0.4164</td>
-    <td align="right">18.69</td>
-    <td align="right">40.76</td>
-    <td align="right">27.98</td>
+    <td align="right">18.42</td>
+    <td align="right">40.18</td>
+    <td align="right">27.55</td>
     <td align="center">8</td>
     <td align="right">0.3847</td>
-    <td align="right">21.51</td>
-    <td align="right">52.77</td>
-    <td align="right">39.94</td>
+    <td align="right">21.08</td>
+    <td align="right">52.33</td>
+    <td align="right">39.96</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0862</td>
-    <td align="right">28.71</td>
-    <td align="right">54.95</td>
-    <td align="right">38.98</td>
+    <td align="right">28.62</td>
+    <td align="right">55.01</td>
+    <td align="right">38.78</td>
     <td align="center">11</td>
     <td align="right">0.0758</td>
-    <td align="right">33.27</td>
-    <td align="right">53.40</td>
-    <td align="right">35.52</td>
+    <td align="right">32.96</td>
+    <td align="right">56.23</td>
+    <td align="right">35.27</td>
     <td align="center">11</td>
     <td align="right">0.0626</td>
-    <td align="right">32.33</td>
-    <td align="right">61.44</td>
-    <td align="right">43.66</td>
+    <td align="right">32.44</td>
+    <td align="right">61.80</td>
+    <td align="right">43.74</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0188</td>
-    <td align="right">28.76</td>
-    <td align="right">55.28</td>
-    <td align="right">39.57</td>
+    <td align="right">28.88</td>
+    <td align="right">55.56</td>
+    <td align="right">39.93</td>
     <td align="center">13</td>
     <td align="right">0.0109</td>
-    <td align="right">33.87</td>
-    <td align="right">64.72</td>
-    <td align="right">44.78</td>
+    <td align="right">33.73</td>
+    <td align="right">64.31</td>
+    <td align="right">44.42</td>
     <td align="center">14</td>
     <td align="right">0.0103</td>
-    <td align="right">33.23</td>
-    <td align="right">63.88</td>
-    <td align="right">44.88</td>
+    <td align="right">33.54</td>
+    <td align="right">64.31</td>
+    <td align="right">44.46</td>
   </tr>
 </table>
 
@@ -4029,9 +4029,9 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <th>unsuccessful<br/>lookup</th>
   </tr>
   <tr>
-    <td align="right">58.96</td>
-    <td align="right">34.99</td>
-    <td align="right">11.18</td>
+    <td align="right">66.68</td>
+    <td align="right">36.71</td>
+    <td align="right">12.31</td>
   </tr>
 </table>
 <table>
@@ -4063,73 +4063,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">6</td>
     <td align="right">2.1489</td>
-    <td align="right">67.28</td>
-    <td align="right">59.84</td>
-    <td align="right">46.47</td>
+    <td align="right">67.71</td>
+    <td align="right">60.08</td>
+    <td align="right">46.45</td>
     <td align="center">4</td>
     <td align="right">3.3441</td>
-    <td align="right">23.39</td>
-    <td align="right">21.85</td>
-    <td align="right">33.63</td>
+    <td align="right">24.95</td>
+    <td align="right">22.35</td>
+    <td align="right">28.47</td>
     <td align="center">5</td>
     <td align="right">3.0511</td>
-    <td align="right">30.00</td>
-    <td align="right">29.49</td>
-    <td align="right">33.26</td>
+    <td align="right">38.41</td>
+    <td align="right">38.24</td>
+    <td align="right">39.16</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">9</td>
     <td align="right">0.3184</td>
-    <td align="right">101.69</td>
-    <td align="right">107.76</td>
-    <td align="right">53.51</td>
+    <td align="right">110.39</td>
+    <td align="right">103.31</td>
+    <td align="right">56.03</td>
     <td align="center">5</td>
     <td align="right">1.0317</td>
-    <td align="right">35.75</td>
-    <td align="right">23.19</td>
-    <td align="right">27.66</td>
+    <td align="right">31.11</td>
+    <td align="right">25.45</td>
+    <td align="right">27.88</td>
     <td align="center">6</td>
     <td align="right">0.8206</td>
-    <td align="right">33.72</td>
-    <td align="right">35.03</td>
-    <td align="right">38.62</td>
+    <td align="right">34.38</td>
+    <td align="right">36.85</td>
+    <td align="right">39.30</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0455</td>
-    <td align="right">152.73</td>
-    <td align="right">121.60</td>
-    <td align="right">55.53</td>
+    <td align="right">206.25</td>
+    <td align="right">145.94</td>
+    <td align="right">87.52</td>
     <td align="center">6</td>
     <td align="right">0.4015</td>
-    <td align="right">32.07</td>
-    <td align="right">28.12</td>
-    <td align="right">33.77</td>
+    <td align="right">41.32</td>
+    <td align="right">35.55</td>
+    <td align="right">50.15</td>
     <td align="center">7</td>
     <td align="right">0.2865</td>
-    <td align="right">46.50</td>
-    <td align="right">49.26</td>
-    <td align="right">40.48</td>
+    <td align="right">64.06</td>
+    <td align="right">80.17</td>
+    <td align="right">80.47</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">14</td>
     <td align="right">0.0068</td>
-    <td align="right">196.65</td>
-    <td align="right">216.06</td>
-    <td align="right">67.01</td>
+    <td align="right">486.58</td>
+    <td align="right">244.81</td>
+    <td align="right">66.42</td>
     <td align="center">7</td>
     <td align="right">0.1883</td>
-    <td align="right">33.74</td>
-    <td align="right">28.83</td>
-    <td align="right">31.33</td>
+    <td align="right">45.62</td>
+    <td align="right">41.58</td>
+    <td align="right">38.90</td>
     <td align="center">8</td>
     <td align="right">0.1200</td>
-    <td align="right">47.80</td>
-    <td align="right">80.51</td>
-    <td align="right">56.13</td>
+    <td align="right">53.44</td>
+    <td align="right">58.18</td>
+    <td align="right">56.29</td>
   </tr>
   <tr>
     <th></th>
@@ -4159,73 +4159,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4525</td>
-    <td align="right">25.89</td>
-    <td align="right">46.38</td>
-    <td align="right">48.59</td>
+    <td align="right">25.90</td>
+    <td align="right">46.37</td>
+    <td align="right">47.00</td>
     <td align="center">5</td>
     <td align="right">2.3280</td>
-    <td align="right">31.77</td>
-    <td align="right">46.44</td>
-    <td align="right">49.00</td>
+    <td align="right">30.02</td>
+    <td align="right">47.75</td>
+    <td align="right">47.64</td>
     <td align="center">5</td>
     <td align="right">2.7254</td>
-    <td align="right">20.10</td>
-    <td align="right">30.09</td>
-    <td align="right">31.60</td>
+    <td align="right">20.08</td>
+    <td align="right">29.75</td>
+    <td align="right">29.38</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4209</td>
-    <td align="right">37.09</td>
-    <td align="right">76.69</td>
-    <td align="right">73.11</td>
+    <td align="right">32.93</td>
+    <td align="right">65.51</td>
+    <td align="right">65.60</td>
     <td align="center">8</td>
     <td align="right">0.3751</td>
-    <td align="right">42.91</td>
-    <td align="right">68.64</td>
-    <td align="right">75.95</td>
+    <td align="right">41.06</td>
+    <td align="right">68.13</td>
+    <td align="right">68.15</td>
     <td align="center">8</td>
     <td align="right">0.5375</td>
-    <td align="right">23.11</td>
-    <td align="right">53.75</td>
-    <td align="right">35.66</td>
+    <td align="right">19.87</td>
+    <td align="right">43.35</td>
+    <td align="right">30.92</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0783</td>
-    <td align="right">48.14</td>
-    <td align="right">88.14</td>
-    <td align="right">87.50</td>
+    <td align="right">45.58</td>
+    <td align="right">89.39</td>
+    <td align="right">88.53</td>
     <td align="center">11</td>
     <td align="right">0.0645</td>
-    <td align="right">57.75</td>
-    <td align="right">90.68</td>
-    <td align="right">103.45</td>
+    <td align="right">53.02</td>
+    <td align="right">90.95</td>
+    <td align="right">90.91</td>
     <td align="center">11</td>
     <td align="right">0.1187</td>
-    <td align="right">41.35</td>
-    <td align="right">71.90</td>
-    <td align="right">49.69</td>
+    <td align="right">44.53</td>
+    <td align="right">79.62</td>
+    <td align="right">58.26</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0144</td>
-    <td align="right">60.09</td>
-    <td align="right">105.63</td>
-    <td align="right">105.52</td>
+    <td align="right">57.90</td>
+    <td align="right">106.81</td>
+    <td align="right">108.04</td>
     <td align="center">14</td>
     <td align="right">0.0117</td>
-    <td align="right">68.18</td>
-    <td align="right">116.67</td>
-    <td align="right">117.98</td>
+    <td align="right">67.59</td>
+    <td align="right">118.83</td>
+    <td align="right">115.16</td>
     <td align="center">13</td>
     <td align="right">0.0277</td>
-    <td align="right">76.29</td>
-    <td align="right">126.09</td>
-    <td align="right">85.78</td>
+    <td align="right">54.39</td>
+    <td align="right">99.49</td>
+    <td align="right">75.79</td>
   </tr>
   <tr>
     <th></th>
@@ -4255,73 +4255,73 @@ for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
     <td align="center">8</td>
     <td align="center">5</td>
     <td align="right">2.4632</td>
-    <td align="right">21.71</td>
-    <td align="right">32.49</td>
-    <td align="right">32.65</td>
+    <td align="right">19.95</td>
+    <td align="right">31.58</td>
+    <td align="right">31.30</td>
     <td align="center">5</td>
     <td align="right">2.4414</td>
-    <td align="right">30.95</td>
-    <td align="right">38.67</td>
-    <td align="right">43.15</td>
+    <td align="right">21.95</td>
+    <td align="right">34.55</td>
+    <td align="right">33.52</td>
     <td align="center">5</td>
     <td align="right">2.3147</td>
-    <td align="right">24.24</td>
-    <td align="right">38.87</td>
-    <td align="right">37.45</td>
+    <td align="right">22.33</td>
+    <td align="right">36.49</td>
+    <td align="right">36.20</td>
   </tr>
   <tr>
     <td align="center">12</td>
     <td align="center">8</td>
     <td align="right">0.4402</td>
-    <td align="right">25.53</td>
-    <td align="right">58.12</td>
-    <td align="right">44.08</td>
+    <td align="right">22.56</td>
+    <td align="right">54.00</td>
+    <td align="right">41.08</td>
     <td align="center">8</td>
     <td align="right">0.4194</td>
-    <td align="right">21.15</td>
-    <td align="right">47.33</td>
-    <td align="right">33.34</td>
+    <td align="right">21.89</td>
+    <td align="right">45.96</td>
+    <td align="right">31.31</td>
     <td align="center">8</td>
     <td align="right">0.3773</td>
-    <td align="right">25.74</td>
-    <td align="right">60.60</td>
-    <td align="right">43.97</td>
+    <td align="right">23.92</td>
+    <td align="right">65.44</td>
+    <td align="right">58.07</td>
   </tr>
   <tr>
     <td align="center">16</td>
     <td align="center">11</td>
     <td align="right">0.0851</td>
-    <td align="right">30.66</td>
-    <td align="right">60.02</td>
-    <td align="right">43.31</td>
+    <td align="right">46.75</td>
+    <td align="right">77.76</td>
+    <td align="right">59.99</td>
     <td align="center">11</td>
     <td align="right">0.0779</td>
-    <td align="right">34.41</td>
-    <td align="right">56.06</td>
-    <td align="right">40.34</td>
+    <td align="right">38.80</td>
+    <td align="right">65.68</td>
+    <td align="right">46.18</td>
     <td align="center">11</td>
     <td align="right">0.0652</td>
-    <td align="right">33.06</td>
-    <td align="right">64.49</td>
-    <td align="right">46.83</td>
+    <td align="right">38.65</td>
+    <td align="right">72.42</td>
+    <td align="right">52.73</td>
   </tr>
   <tr>
     <td align="center">20</td>
     <td align="center">13</td>
     <td align="right">0.0183</td>
-    <td align="right">35.57</td>
-    <td align="right">65.13</td>
-    <td align="right">48.51</td>
+    <td align="right">62.41</td>
+    <td align="right">94.04</td>
+    <td align="right">74.99</td>
     <td align="center">13</td>
     <td align="right">0.0146</td>
-    <td align="right">38.30</td>
-    <td align="right">73.67</td>
-    <td align="right">58.61</td>
+    <td align="right">42.93</td>
+    <td align="right">92.96</td>
+    <td align="right">72.62</td>
     <td align="center">14</td>
     <td align="right">0.0112</td>
-    <td align="right">43.60</td>
-    <td align="right">71.70</td>
-    <td align="right">52.20</td>
+    <td align="right">44.29</td>
+    <td align="right">84.64</td>
+    <td align="right">62.41</td>
   </tr>
 </table>
 
