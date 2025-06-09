@@ -165,7 +165,7 @@ jobs:
             compileroptions: /std:c++20 /O2 /GL /D "NDEBUG" /EHsc /MD /Fe:benchmark.exe /arch:AVX2
             outputfile: benchmark.exe            
             reportdir: vs-x86
-            os: windows-2022
+            os: [self-hosted, Windows, X64]
             command: >
               Write-Output "`n#### ``N`` = 1M elements";
               ./benchmark 1000000;
@@ -195,7 +195,7 @@ jobs:
         shell: cmd
         run: |
           cd %GITHUB_WORKSPACE%
-          call "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Auxiliary\Build\vcvarsall.bat" ${{matrix.architecture}}
+          call "C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\vcvarsall.bat" ${{matrix.architecture}}
           set INCLUDE=%INCLUDE%;%GITHUB_WORKSPACE%\boost-root;%GITHUB_WORKSPACE%\bloom-root\include
           echo %INCLUDE%
           ${{matrix.compiler}} %GITHUB_WORKSPACE%\bloom-root\benchmark\${{matrix.sourcefile}} ${{matrix.compileroptions}}
