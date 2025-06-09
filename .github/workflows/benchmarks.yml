@@ -21,7 +21,7 @@ jobs:
             compileroptions: -std=c++2b -O3 -DNDEBUG
             outputfile: benchmark
             reportdir: gcc-x64
-            os: ubuntu-24.04
+            os: [self-hosted, linux, x64]
             install: g++-14-multilib
             command: >
               echo -e "\n#### \`N\` = 1M elements" &&
@@ -36,7 +36,7 @@ jobs:
             compileroptions: -std=c++2b -O3 -DNDEBUG
             outputfile: benchmark
             reportdir: clang-x64
-            os: ubuntu-24.04
+            os: [self-hosted, linux, x64]
             command: >
               echo -e "\n#### \`N\` = 1M elements" &&
               ./benchmark 1000000 &&
@@ -50,7 +50,7 @@ jobs:
             compileroptions: -std=c++2b -O3 -DNDEBUG
             outputfile: benchmark
             reportdir: clang-arm64
-            os: macos-14
+            os: [self-hosted, macOS, ARM64]
             command: >
               echo -e "\n#### \`N\` = 1M elements" &&
               ./benchmark 1000000 &&
@@ -65,7 +65,7 @@ jobs:
             compileroptions: -std=c++2b -O3 -DNDEBUG
             outputfile: benchmark
             reportdir: gcc-x86
-            os: ubuntu-24.04
+            os: [self-hosted, linux, x64]
             install: g++-14-multilib
             command: >
               echo -e "\n#### \`N\` = 1M elements" &&
@@ -80,7 +80,7 @@ jobs:
             compileroptions: -std=c++2b -O3 -DNDEBUG
             outputfile: benchmark
             reportdir: clang-x86
-            os: ubuntu-24.04
+            os: [self-hosted, linux, x64]
             install: libstdc++-12-dev:i386
             command: >
               echo -e "\n#### \`N\` = 1M elements" &&
@@ -151,7 +151,7 @@ jobs:
             compileroptions: /std:c++20 /O2 /GL /D "NDEBUG" /EHsc /MD /Fe:benchmark.exe /arch:AVX2
             outputfile: benchmark.exe            
             reportdir: vs-x64
-            os: windows-2022
+            os: [self-hosted, Windows, X64]
             command: >
               Write-Output "`n#### ``N`` = 1M elements";
               ./benchmark 1000000;
