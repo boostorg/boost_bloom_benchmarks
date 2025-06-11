@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main
+      - retouched-table-headers
 
 jobs:
   posix:
@@ -20,7 +21,7 @@ jobs:
             compileroptions: -std=c++2b -O3 -DNDEBUG
             outputfile: benchmark
             reportdir: gcc-x64
-            os: ubuntu-24.04
+            os: [self-hosted, linux, x64]
             install: g++-14-multilib
             command: >
               echo -e "\n#### \`N\` = 1M elements" &&
@@ -35,7 +36,8 @@ jobs:
             compileroptions: -std=c++2b -O3 -DNDEBUG
             outputfile: benchmark
             reportdir: clang-x64
-            os: ubuntu-24.04
+            os: [self-hosted, linux, x64]
+            install: clang-18
             command: >
               echo -e "\n#### \`N\` = 1M elements" &&
               ./benchmark 1000000 &&
@@ -49,7 +51,7 @@ jobs:
             compileroptions: -std=c++2b -O3 -DNDEBUG
             outputfile: benchmark
             reportdir: clang-arm64
-            os: macos-14
+            os: [self-hosted, macOS, ARM64]
             command: >
               echo -e "\n#### \`N\` = 1M elements" &&
               ./benchmark 1000000 &&
@@ -64,7 +66,7 @@ jobs:
             compileroptions: -std=c++2b -O3 -DNDEBUG
             outputfile: benchmark
             reportdir: gcc-x86
-            os: ubuntu-24.04
+            os: [self-hosted, linux, x64]
             install: g++-14-multilib
             command: >
               echo -e "\n#### \`N\` = 1M elements" &&
@@ -79,8 +81,8 @@ jobs:
             compileroptions: -std=c++2b -O3 -DNDEBUG
             outputfile: benchmark
             reportdir: clang-x86
-            os: ubuntu-24.04
-            install: libstdc++-12-dev:i386
+            os: [self-hosted, linux, x64]
+            install: clang-18 libstdc++-12-dev:i386
             command: >
               echo -e "\n#### \`N\` = 1M elements" &&
               ./benchmark 1000000 &&
@@ -110,7 +112,7 @@ jobs:
       - name: Install Candidate Boost.Bloom
         run: |
           cd $GITHUB_WORKSPACE
-          git clone https://github.com/joaquintides/bloom.git bloom-root
+          git clone -b feature/retouched-table-headers https://github.com/joaquintides/bloom.git bloom-root
       - name: Compile
         run: |
           cd $GITHUB_WORKSPACE
@@ -150,7 +152,7 @@ jobs:
             compileroptions: /std:c++20 /O2 /GL /D "NDEBUG" /EHsc /MD /Fe:benchmark.exe /arch:AVX2
             outputfile: benchmark.exe            
             reportdir: vs-x64
-            os: windows-2022
+            os: [self-hosted, Windows, X64]
             command: >
               Write-Output "`n#### ``N`` = 1M elements";
               ./benchmark 1000000;
@@ -164,7 +166,7 @@ jobs:
             compileroptions: /std:c++20 /O2 /GL /D "NDEBUG" /EHsc /MD /Fe:benchmark.exe /arch:AVX2
             outputfile: benchmark.exe            
             reportdir: vs-x86
-            os: windows-2022
+            os: [self-hosted, Windows, X64]
             command: >
               Write-Output "`n#### ``N`` = 1M elements";
               ./benchmark 1000000;
@@ -189,12 +191,12 @@ jobs:
         shell: cmd
         run: |
           cd %GITHUB_WORKSPACE%
-          git clone https://github.com/joaquintides/bloom.git bloom-root
+          git clone -b feature/retouched-table-headers https://github.com/joaquintides/bloom.git bloom-root
       - name: Compile
         shell: cmd
         run: |
           cd %GITHUB_WORKSPACE%
-          call "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Auxiliary\Build\vcvarsall.bat" ${{matrix.architecture}}
+          call "C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\vcvarsall.bat" ${{matrix.architecture}}
           set INCLUDE=%INCLUDE%;%GITHUB_WORKSPACE%\boost-root;%GITHUB_WORKSPACE%\bloom-root\include
           echo %INCLUDE%
           ${{matrix.compiler}} %GITHUB_WORKSPACE%\bloom-root\benchmark\${{matrix.sourcefile}} ${{matrix.compileroptions}}
@@ -223,7 +225,7 @@ jobs:
   final:
     needs: [posix,windows]
     
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     container:
       image: python:2.7.18-buster
     
