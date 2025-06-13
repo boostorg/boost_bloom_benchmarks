@@ -15,7 +15,7 @@ jobs:
         include:
           - name: gcc-x64
             compiler: g++-14
-            architecture: -m64 -mavx2
+            architecture: -m64 -march=native
             sourcefile: comparison_table.cpp
             compileroptions: -std=c++2b -O3 -DNDEBUG
             outputfile: benchmark
@@ -30,7 +30,7 @@ jobs:
 
           - name: clang-x64
             compiler: clang++-18
-            architecture: -m64 -mavx2
+            architecture: -m64 -march=native -mtune=native
             sourcefile: comparison_table.cpp
             compileroptions: -std=c++2b -O3 -DNDEBUG
             outputfile: benchmark
@@ -45,7 +45,7 @@ jobs:
 
           - name: clang-arm64
             compiler: clang++
-            architecture: -m64
+            architecture: -m64 -march=native -mtune=native
             sourcefile: comparison_table.cpp
             compileroptions: -std=c++2b -O3 -DNDEBUG
             outputfile: benchmark
@@ -224,7 +224,7 @@ jobs:
   final:
     needs: [posix,windows]
     
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     container:
       image: python:2.7.18-buster
     
