@@ -1,4 +1,4 @@
-# Experimental results for [candidate Boost Bloom Library](https://github.com/joaquintides/bloom)
+# Experimental results for [Boost Bloom Library](https://github.com/boostorg/bloom)
 
 The tables show the false positive rate (FPR) and execution times in nanoseconds per operation 
 for several configurations of `boost::bloom::filter<int, ...>`
