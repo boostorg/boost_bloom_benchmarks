@@ -117,7 +117,7 @@ jobs:
         run: |
           cd $GITHUB_WORKSPACE
           ${{matrix.compiler}} --version
-          ${{matrix.compiler}} $GITHUB_WORKSPACE/bloom-root/benchmark/${{matrix.sourcefile}} ${{matrix.architecture}} ${{matrix.compileroptions}} -o ${{matrix.outputfile}} -I$GITHUB_WORKSPACE/boost-root -I$GITHUB_WORKSPACE/bloom-root/include
+          ${{matrix.compiler}} $GITHUB_WORKSPACE/bloom-root/benchmark/${{matrix.sourcefile}} ${{matrix.architecture}} ${{matrix.compileroptions}} -o ${{matrix.outputfile}} -I$GITHUB_WORKSPACE/bloom-root/include -I$GITHUB_WORKSPACE/boost-root
       - name: Set reportfile name
         run: |
           echo "REPORT_FILE=${{matrix.reportdir}}/${{matrix.sourcefile}}.txt" >> $GITHUB_ENV
@@ -197,7 +197,7 @@ jobs:
         run: |
           cd %GITHUB_WORKSPACE%
           call "C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\vcvarsall.bat" ${{matrix.architecture}}
-          set INCLUDE=%INCLUDE%;%GITHUB_WORKSPACE%\boost-root;%GITHUB_WORKSPACE%\bloom-root\include
+          set INCLUDE=%INCLUDE%;%GITHUB_WORKSPACE%\bloom-root\include;%GITHUB_WORKSPACE%\boost-root
           echo %INCLUDE%
           ${{matrix.compiler}} %GITHUB_WORKSPACE%\bloom-root\benchmark\${{matrix.sourcefile}} ${{matrix.compileroptions}}
       - name: Set reportfile name
