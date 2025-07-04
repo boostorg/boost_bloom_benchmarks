@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main
+      - mixed-lookup
 
 jobs:
   posix:
@@ -111,7 +112,7 @@ jobs:
       - name: Install Candidate Boost.Bloom
         run: |
           cd $GITHUB_WORKSPACE
-          git clone -b feature/review-feedback https://github.com/joaquintides/bloom.git bloom-root
+          git clone -b feature/mixed-lookup-table https://github.com/joaquintides/bloom.git bloom-root
       - name: Compile
         run: |
           cd $GITHUB_WORKSPACE
@@ -190,7 +191,7 @@ jobs:
         shell: cmd
         run: |
           cd %GITHUB_WORKSPACE%
-          git clone -b feature/review-feedback https://github.com/joaquintides/bloom.git bloom-root
+          git clone -b feature/mixed-lookup-table https://github.com/joaquintides/bloom.git bloom-root
       - name: Compile
         shell: cmd
         run: |
