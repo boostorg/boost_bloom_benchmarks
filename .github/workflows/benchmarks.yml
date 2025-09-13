@@ -108,10 +108,10 @@ jobs:
           git submodule update --init
           ./bootstrap.sh
           ./b2 -d0 headers
-      - name: Install Candidate Boost.Bloom
+      - name: Install Boost.Bloom develop branch
         run: |
           cd $GITHUB_WORKSPACE
-          git clone -b feature/review-feedback https://github.com/joaquintides/bloom.git bloom-root
+          git clone -b develop https://github.com/joaquintides/bloom.git bloom-root
       - name: Compile
         run: |
           cd $GITHUB_WORKSPACE
@@ -186,11 +186,11 @@ jobs:
           git submodule update --init
           cmd /c bootstrap.bat
           .\b2.exe -d0 headers
-      - name: Install Candidate Boost.Bloom
+      - name: Install Boost.Bloom  develop branch
         shell: cmd
         run: |
           cd %GITHUB_WORKSPACE%
-          git clone -b feature/review-feedback https://github.com/joaquintides/bloom.git bloom-root
+          git clone -b develop https://github.com/joaquintides/bloom.git bloom-root
       - name: Compile
         shell: cmd
         run: |
