@@ -9,7 +9,11 @@ Standard release-mode settings are used;
 AVX2 is indicated for Visual Studio builds (`/arch:AVX2`) and 64-bit GCC/Clang builds (`-march=native`),
 which causes `fast_multiblock32` and `fast_multiblock64` to use their AVX2 variant.
 
-For reference, we provide also insertion, successful lookup and unsuccessful lookup times
+* Successful lookup: the element is in the filter.
+* Unsuccessful lookup: the element is not in the filter, though lookup may return true.
+* Mixed lookup: 10% successful, 90% unsuccessful.
+
+For reference, we provide also insertion and lookup times
 for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
 
 ## Results
