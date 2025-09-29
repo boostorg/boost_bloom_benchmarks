@@ -1,6 +1,6 @@
 # Performance of [Boost.Bloom](https://github.com/boostorg/bloom) bulk operations
 
-The tables show the relative execution times for bulk insertion and bulk lookup
+The tables show the relative performance of bulk insertion and bulk lookup
 operations with respect to their regular equivalents: figures greater than 1.0 mean
 bulk operations are faster.
 
