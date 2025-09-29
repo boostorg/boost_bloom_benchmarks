@@ -1,16 +1,16 @@
-# Experimental results for [Boost Bloom Library](https://github.com/boostorg/bloom)
+# Performance of [Boost.Bloom](https://github.com/boostorg/bloom) bulk operations
 
-The tables show the false positive rate (FPR) and execution times in nanoseconds per operation 
-for several configurations of `boost::bloom::filter<int, ...>`
+The tables show the relative execution times for bulk insertion and bulk lookup
+operations with respect to their regular equivalents: figures greater than 1.0 mean
+bulk operations are faster.
+
+We test several configurations of `boost::bloom::filter<int, ...>`
 where `N` elements have been inserted. Filters are constructed with a capacity
 `c*N` (bits), so `c` is the number of bits used per element. For each combination of `c` and
 a given filter configuration, we have selected the optimum value of `K` (that yielding the minimum FPR).
 Standard release-mode settings are used; 
 AVX2 is indicated for Visual Studio builds (`/arch:AVX2`) and 64-bit GCC/Clang builds (`-march=native`),
 which causes `fast_multiblock32` and `fast_multiblock64` to use their AVX2 variant.
-
-For reference, we provide also insertion, successful lookup and unsuccessful lookup times
-for a `boost::unordered_flat_set<int>` with the same number of elements `N`.
 
 ## Results
 
