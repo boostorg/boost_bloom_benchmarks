@@ -23,7 +23,7 @@ which causes `fast_multiblock32` and `fast_multiblock64` to use their AVX2 varia
 * [VS 2022, x86](#vs-2022-x86)
 
 ### GCC 14, x64
-<!--gcc-x64/comparison_table.cpp.txt-->
+<!--gcc-x64/bulk_comparison_table.cpp.txt-->
 
 #### `N` = 1M elements
 <table class="bordered_table" style="font-size: 85%;">
@@ -951,10 +951,10 @@ which causes `fast_multiblock32` and `fast_multiblock64` to use their AVX2 varia
   </tr>
 </table>
 
-<!--gcc-x64/comparison_table.cpp.txt-->
+<!--gcc-x64/bulk_comparison_table.cpp.txt-->
 
 ### Clang 18, x64
-<!--clang-x64/comparison_table.cpp.txt-->
+<!--clang-x64/bulk_comparison_table.cpp.txt-->
 
 #### `N` = 1M elements
 <table class="bordered_table" style="font-size: 85%;">
@@ -1882,10 +1882,10 @@ which causes `fast_multiblock32` and `fast_multiblock64` to use their AVX2 varia
   </tr>
 </table>
 
-<!--clang-x64/comparison_table.cpp.txt-->
+<!--clang-x64/bulk_comparison_table.cpp.txt-->
 
 ### Clang 15, ARM64
-<!--clang-arm64/comparison_table.cpp.txt-->
+<!--clang-arm64/bulk_comparison_table.cpp.txt-->
 
 #### `N` = 1M elements
 <table class="bordered_table" style="font-size: 85%;">
@@ -2813,10 +2813,10 @@ which causes `fast_multiblock32` and `fast_multiblock64` to use their AVX2 varia
   </tr>
 </table>
 
-<!--clang-arm64/comparison_table.cpp.txt-->
+<!--clang-arm64/bulk_comparison_table.cpp.txt-->
 
 ### VS 2022, x64
-<!--vs-x64/comparison_table.cpp.txt-->
+<!--vs-x64/bulk_comparison_table.cpp.txt-->
 
 #### `N` = 1M elements
 <table class="bordered_table" style="font-size: 85%;">
@@ -3744,10 +3744,10 @@ which causes `fast_multiblock32` and `fast_multiblock64` to use their AVX2 varia
   </tr>
 </table>
 
-<!--vs-x64/comparison_table.cpp.txt-->
+<!--vs-x64/bulk_comparison_table.cpp.txt-->
 
 ### GCC 14, x86
-<!--gcc-x86/comparison_table.cpp.txt-->
+<!--gcc-x86/bulk_comparison_table.cpp.txt-->
 
 #### `N` = 1M elements
 <table class="bordered_table" style="font-size: 85%;">
@@ -4675,10 +4675,10 @@ which causes `fast_multiblock32` and `fast_multiblock64` to use their AVX2 varia
   </tr>
 </table>
 
-<!--gcc-x86/comparison_table.cpp.txt-->
+<!--gcc-x86/bulk_comparison_table.cpp.txt-->
 
 ### Clang 18, x86
-<!--clang-x86/comparison_table.cpp.txt-->
+<!--clang-x86/bulk_comparison_table.cpp.txt-->
 
 #### `N` = 1M elements
 <table class="bordered_table" style="font-size: 85%;">
@@ -5606,10 +5606,10 @@ which causes `fast_multiblock32` and `fast_multiblock64` to use their AVX2 varia
   </tr>
 </table>
 
-<!--clang-x86/comparison_table.cpp.txt-->
+<!--clang-x86/bulk_comparison_table.cpp.txt-->
 
 ### VS 2022, x86
-<!--vs-x86/comparison_table.cpp.txt-->
+<!--vs-x86/bulk_comparison_table.cpp.txt-->
 
 #### `N` = 1M elements
 <table class="bordered_table" style="font-size: 85%;">
@@ -6537,4 +6537,4 @@ which causes `fast_multiblock32` and `fast_multiblock64` to use their AVX2 varia
   </tr>
 </table>
 
-<!--vs-x86/comparison_table.cpp.txt-->
+<!--vs-x86/bulk_comparison_table.cpp.txt-->
